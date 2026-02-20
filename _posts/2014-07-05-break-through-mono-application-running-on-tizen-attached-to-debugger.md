@@ -1,0 +1,16 @@
+---
+layout: post
+title: "BREAK-THROUGH!   Mono application running on Tizen attached to debugger"
+date: "2014-07-05 09:08:19 -0700"
+permalink: /2014/07/05/break-through-mono-application-running-on-tizen-attached-to-debugger/
+categories:
+  - "Uncategorized"
+---
+
+BREAK-THROUGH! We have a Mono application running on Tizen attached to debugger.
+
+[![256t](/assets/images/256t.png)](</assets/images/256t.png>)
+
+ 
+
+See [MonoTizen Update - Week #3](<http://monotizen.wordpress.com/2014/07/04/monotizen-update-week-3-mono-application-running-on-tizen/>) for more details.
