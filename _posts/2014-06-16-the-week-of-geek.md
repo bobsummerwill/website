@@ -4,6 +4,9 @@ title: "The Week of Geek!"
 date: "2014-06-16 08:49:03 -0700"
 permalink: /2014/06/16/the-week-of-geek/
 ---
+![bob not at ea](/assets/images/2014/06/bob-not-at-ea.png)
+
+
 
 Hey, new Roadhouse colleagues!
 

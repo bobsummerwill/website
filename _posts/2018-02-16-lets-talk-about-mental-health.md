@@ -5,6 +5,11 @@ date: "2018-02-16 04:30:59 -0800"
 permalink: /2018/02/16/lets-talk-about-mental-health/
 featured_image: /assets/images/2018/02/brain.jpg
 ---
+![cecbf 1ilb9ho bsnpwo2htlkxezq](/assets/images/2018/03/cecbf-1ilb9ho_bsnpwo2htlkxezq.jpeg)
+
+![tribalism](/assets/images/2018/03/tribalism.jpg)
+
+
 
 _[Originally a[tweet-storm made on 25th November 2017]](https://twitter.com/BobSummerwill/status/934591781265481728)_
 

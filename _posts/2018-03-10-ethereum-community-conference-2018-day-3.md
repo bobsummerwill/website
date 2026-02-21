@@ -5,6 +5,21 @@ date: "2018-03-10 10:25:26 -0800"
 permalink: /2018/03/10/ethereum-community-conference-2018-day-3/
 featured_image: /assets/images/2018/03/mvimg_20180310_1340037421467137944336634.jpg
 ---
+![2015 05 05 20 17 12](/assets/images/2015/05/2015-05-05-20-17-12.jpg)
+
+![2015 05 05 20 25 54](/assets/images/2015/05/2015-05-05-20-25-54.jpg)
+
+![2015 05 05 20 26 57](/assets/images/2015/05/2015-05-05-20-26-57.jpg)
+
+![2015 05 05 20 38 19](/assets/images/2015/05/2015-05-05-20-38-19.jpg)
+
+![2015 05 05 21 10 42](/assets/images/2015/05/2015-05-05-21-10-42.jpg)
+
+![2015 05 05 21 21 01](/assets/images/2015/05/2015-05-05-21-21-01.jpg)
+
+![2015 05 05 21 21 12](/assets/images/2015/05/2015-05-05-21-21-12.jpg)
+
+
 
 I had a slow start on Day 3, rocking up at lunch time. Attended some state channels presentations and plenty of social time.
 

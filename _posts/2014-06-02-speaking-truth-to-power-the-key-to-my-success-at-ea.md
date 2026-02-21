@@ -4,6 +4,9 @@ title: "Speaking truth to power.   The key to my success at EA."
 date: "2014-06-02 05:13:37 -0700"
 permalink: /2014/06/02/speaking-truth-to-power-the-key-to-my-success-at-ea/
 ---
+![dsc 0016](/assets/images/2014/06/dsc_0016.jpg)
+
+
 
 **Honesty is the best policy. Always tell the truth.**
 

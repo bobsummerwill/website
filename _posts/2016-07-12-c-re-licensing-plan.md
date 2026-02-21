@@ -5,6 +5,9 @@ date: "2016-07-12 13:23:44 -0700"
 permalink: /2016/07/12/c-re-licensing-plan/
 featured_image: /assets/images/2016/06/cpp.png
 ---
+![4319045729 35432efe06 z](/assets/images/2017/06/4319045729_35432efe06_z.jpg)
+
+
 
 ## Overview
 

@@ -5,6 +5,15 @@ date: "2018-03-07 00:45:15 -0800"
 permalink: /2018/03/07/dinner-with-cryptochicks-and-varro-technologies-in-toronto/
 featured_image: /assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg
 ---
+![mvimg 20180308 080608216661156025326362](/assets/images/2018/03/mvimg_20180308_080608216661156025326362.jpg)
+
+![mvimg 20180308 0926082152047230452517189](/assets/images/2018/03/mvimg_20180308_0926082152047230452517189.jpg)
+
+![mvimg 20180309 0921457575427668156730580](/assets/images/2018/03/mvimg_20180309_0921457575427668156730580.jpg)
+
+![mvimg 20180310 1310042695884678956995246](/assets/images/2018/03/mvimg_20180310_1310042695884678956995246.jpg)
+
+
 
 I stopped off in Toronto for a few hours on my way to the [Ethereum Community Conference](http://ethcc.io) in Paris, to meet [Elena](https://www.linkedin.com/in/esinelnikova) and [Nathalia](https://www.linkedin.com/in/natalia-ameline-3475703) of Cryptochicks IRL together with [Varro Technologies](http://varrotechnologies.com) and various other friends and colleagues.
 

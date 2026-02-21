@@ -4,6 +4,9 @@ title: "BSV’s plans to freeze and move coins"
 date: "2022-10-10 22:18:22 -0700"
 permalink: /2022/10/10/bsvs-plans-to-freeze-and-move-coins/
 ---
+![screenshot 2023 03 22 at 6.40.49 pm](/assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png)
+
+
 
 There have been rumblings for years about the BSV project's plans related to "court orders".  
   

@@ -5,6 +5,9 @@ date: "2019-10-03 15:55:33 -0800"
 permalink: /2019/10/03/addressing-east-west-disconnect-in-etc/
 featured_image: /assets/images/2019/10/eastwest.jpeg
 ---
+![brian](/assets/images/2019/11/brian.jpeg)
+
+
 
 How do we address the East/West disconnects within Ethereum Classic?
 

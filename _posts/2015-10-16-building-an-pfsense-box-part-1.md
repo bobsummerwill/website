@@ -4,6 +4,23 @@ title: "Building an pfSense box – part 1"
 date: "2015-10-16 07:55:53 -0700"
 permalink: /2015/10/16/building-an-pfsense-box-part-1/
 ---
+![140601271](/assets/images/2014/06/140601271.jpg)
+
+![bob philip baybridge](/assets/images/2014/06/bob-philip-baybridge.jpg)
+
+![bob philip mont st2](/assets/images/2014/06/bob-philip-mont-st2.jpg)
+
+![bob philip mont st](/assets/images/2014/06/bob-philip-mont-st.jpg)
+
+![group chinatown](/assets/images/2014/06/group-chinatown.jpg)
+
+![group chinatown run](/assets/images/2014/06/group-chinatown-run.jpg)
+
+![group coit](/assets/images/2014/06/group-coit.jpg)
+
+![group coit run](/assets/images/2014/06/group-coit-run.jpg)
+
+
 
 So … I've been doing my first hardware build for a very, very long time. Back in the 90s I remember buying extra memory, video cards, etc, but this is my first ever full machine build.
 

@@ -4,6 +4,13 @@ title: "Bob Summerwill for Recruiters (2015)"
 date: "2015-10-19 00:54:38 -0700"
 permalink: /2015/10/19/bob-summerwill-for-recruiters-2015/
 ---
+![20151020 063054](/assets/images/2015/10/20151020_063054.jpg)
+
+![80163578 80163157](/assets/images/2015/12/80163578_80163157.jpg)
+
+![80163578 80163157](/assets/images/2015/12/80163578_80163157.jpg)
+
+
 
 ## What is this blog post about?
 

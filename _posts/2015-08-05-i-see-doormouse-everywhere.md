@@ -4,6 +4,9 @@ title: "I see Doormouse everywhere"
 date: "2015-08-05 22:49:25 -0700"
 permalink: /2015/08/05/i-see-doormouse-everywhere/
 ---
+![atari vcs](/assets/images/2015/09/atari_vcs.png)
+
+
 
 [![Dormouse](/website/assets/images/2015/08/dormouse.png)](/website/assets/images/2015/08/dormouse.png)
 

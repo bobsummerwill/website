@@ -4,6 +4,9 @@ title: "Why did you leave EA?"
 date: "2014-06-16 07:07:59 -0700"
 permalink: /2014/06/16/why-did-you-leave-ea/
 ---
+![256t](/assets/images/2014/07/256t.png)
+
+
 
 Since I tendered my resignation with EA I have been asked multiple times "Why did you leave EA? What was the one thing which really pushed you to make the change after so many years?"
 

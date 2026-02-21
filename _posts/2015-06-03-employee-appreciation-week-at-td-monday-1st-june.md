@@ -4,6 +4,17 @@ title: "Employee Appreciation Week at TD – Monday 1st June"
 date: "2015-06-03 02:43:46 -0700"
 permalink: /2015/06/03/employee-appreciation-week-at-td-monday-1st-june/
 ---
+![20150604 144713](/assets/images/2015/06/20150604_144713.jpg)
+
+![20150604 144726](/assets/images/2015/06/20150604_144726.jpg)
+
+![20150604 144732](/assets/images/2015/06/20150604_144732.jpg)
+
+![20150604 144743](/assets/images/2015/06/20150604_144743.jpg)
+
+![20150604 144806](/assets/images/2015/06/20150604_144806.jpg)
+
+
 
 This is Employee Appreciation Week at TD Bank, an annual event to recognize the contributions which everyone has made to the success of the company in the course of the year, and to have some fun. I was greeted at the elevator door on Monday morning with a fantastic table of chocolate medals and some smiling faces.
 

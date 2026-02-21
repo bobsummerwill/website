@@ -5,6 +5,21 @@ date: "2018-03-27 15:40:06 -0700"
 permalink: /2018/03/27/bc-blockchain-community-review-of-bcsc-notice-part-2/
 featured_image: /assets/images/2018/03/mvimg_20180327_1536034509363060262949049.jpg
 ---
+![bijou](/assets/images/2018/07/bijou.jpg)
+
+![linkedin](/assets/images/2018/07/linkedin.png)
+
+![linkedin](/assets/images/2018/07/linkedin.png)
+
+![screen shot 2018 07 18 at 10 14 11 am](/assets/images/2018/07/screen-shot-2018-07-18-at-10-14-11-am.png)
+
+![screen shot 2018 07 18 at 9 52 05 am](/assets/images/2018/07/screen-shot-2018-07-18-at-9-52-05-am.png)
+
+![screen shot 2018 07 18 at 9 54 55 am](/assets/images/2018/07/screen-shot-2018-07-18-at-9-54-55-am.png)
+
+![screen shot 2018 07 18 at 9 59 12 am](/assets/images/2018/07/screen-shot-2018-07-18-at-9-59-12-am.png)
+
+
 
 <https://www.picatic.com/bcsc-community-review-2>
 

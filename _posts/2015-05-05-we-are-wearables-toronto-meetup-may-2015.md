@@ -4,6 +4,21 @@ title: "We Are Wearables Toronto Meetup – May 2015"
 date: "2015-05-05 21:56:56 -0700"
 permalink: /2015/05/05/we-are-wearables-toronto-meetup-may-2015/
 ---
+![2015 06 02 09 01 16](/assets/images/2015/06/2015-06-02-09-01-16.jpg)
+
+![2015 06 02 12 12 22](/assets/images/2015/06/2015-06-02-12-12-22.jpg)
+
+![2015 06 02 12 12 31](/assets/images/2015/06/2015-06-02-12-12-31.jpg)
+
+![2015 06 02 12 12 36](/assets/images/2015/06/2015-06-02-12-12-36.jpg)
+
+![2015 06 02 12 12 45](/assets/images/2015/06/2015-06-02-12-12-45.jpg)
+
+![2015 06 02 12 13 05](/assets/images/2015/06/2015-06-02-12-13-05.jpg)
+
+![2015 06 02 12 14 04](/assets/images/2015/06/2015-06-02-12-14-04.jpg)
+
+
 
 This evening I went to my first ever ["We Are Wearables" Meetup](<http://www.meetup.com/Wearable-Wednesday-Toronto/events/221916094/> ""We Are Wearables" Meetup") here in Toronto, held in the MaRS Discovery District. It was by far the largest attendance I have ever seen for a Meetup with over 500 people RSVP-ing, with a conference-scale number of participants. The meetup is organized by [Tom Emrich](<http://www.tomemrich.com/> "Tom Emrich").
 

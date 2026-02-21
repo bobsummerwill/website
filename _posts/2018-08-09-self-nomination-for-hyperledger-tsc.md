@@ -5,6 +5,13 @@ date: "2018-08-09 18:19:53 -0700"
 permalink: /2018/08/09/self-nomination-for-hyperledger-tsc/
 featured_image: /assets/images/2018/08/the_canadian_house_of_commons.jpg
 ---
+![coindesk](/assets/images/2018/08/coindesk.jpg)
+
+![crypto](/assets/images/2018/08/crypto.png)
+
+![horses](/assets/images/2018/08/horses.jpg)
+
+
 
 _[Sent on August 9th 2018 in response to**CALL FOR NOMINATIONS / Hyperledger / Annual TSC Election** sent to eligible candidates]_
 

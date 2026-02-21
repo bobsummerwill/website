@@ -5,6 +5,25 @@ date: "2015-12-24 13:08:32 -0800"
 permalink: /2015/12/24/new-year-new-focus/
 featured_image: /assets/images/2015/12/80163578_80163157.jpg
 ---
+![capitalfactorylogoblack](/assets/images/2016/06/capitalfactorylogoblack.png)
+
+![hector](/assets/images/2016/06/hector.jpeg)
+
+![image20160518 170824940](/assets/images/2016/06/image20160518_170824940.jpg)
+
+![image20160518 171129327](/assets/images/2016/06/image20160518_171129327.jpg)
+
+![image20160518 172203051](/assets/images/2016/06/image20160518_172203051.jpg)
+
+![image20160518 174248614](/assets/images/2016/06/image20160518_174248614.jpg)
+
+![image20160518 174344359](/assets/images/2016/06/image20160518_174344359.jpg)
+
+![image20160518 175942619](/assets/images/2016/06/image20160518_175942619.jpg)
+
+![image20160518 180950855](/assets/images/2016/06/image20160518_180950855.jpg)
+
+
 
 The New Year is going to see a new phase of development here at **doublethinkco**.
 

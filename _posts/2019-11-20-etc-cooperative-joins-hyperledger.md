@@ -5,6 +5,11 @@ date: "2019-11-20 18:42:58 -0800"
 permalink: /2019/11/20/etc-cooperative-joins-hyperledger/
 featured_image: /assets/images/2019/11/brian.jpeg
 ---
+![gold prospector](/assets/images/2019/11/gold_prospector.jpg)
+
+![screen shot 2019 11 26 at 6.37.28 am](/assets/images/2019/11/screen-shot-2019-11-26-at-6.37.28-am.png)
+
+
 
 I am delighted to announce that [ETC Cooperative](https://etccooperative.org) are officially [Associate Members](https://www.hyperledger.org/members) of [Hyperledger](https://www.hyperledger.org/) as of 21st November 2019.
 

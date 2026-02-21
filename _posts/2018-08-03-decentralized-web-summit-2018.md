@@ -5,6 +5,9 @@ date: "2018-08-03 12:28:36 -0700"
 permalink: /2018/08/03/decentralized-web-summit-2018/
 featured_image: /assets/images/2018/08/img_20180801_122417.jpg
 ---
+![the canadian house of commons](/assets/images/2018/08/the_canadian_house_of_commons.jpg)
+
+
 
 I am flying back to Vancouver after a fantastic few days at [Decentralized Web Summit 2018](https://decentralizedweb.net) in San Francisco. The [list of attendees](https://decentralizedweb.net/people/) was stellar and the event itself did not disappoint. As has become usual for me, I saw close to zero of the sessions, and instead spent my time on face-to-face conversations with some of the most interesting and brilliant individuals on the planet. It is hard to express how grateful I am to have this opportunity. The life I have led since starting my journey down the blockchain rabbit hole in 2014 has been a delight.
 

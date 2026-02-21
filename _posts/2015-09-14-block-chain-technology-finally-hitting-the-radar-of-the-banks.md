@@ -4,6 +4,9 @@ title: "Block-chain technology finally hitting the radar of the banks"
 date: "2015-09-14 07:50:50 -0700"
 permalink: /2015/09/14/block-chain-technology-finally-hitting-the-radar-of-the-banks/
 ---
+![tizen2015](/assets/images/2015/09/tizen2015.png)
+
+
 
 As you may or may not be aware, I am [seriously interested](http://doublethink.co/) in block-chain technology and all other forms of decentralization. There is a massive wave of disruption coming to finance in the very near future. I hope that TD Securities is ready.
 

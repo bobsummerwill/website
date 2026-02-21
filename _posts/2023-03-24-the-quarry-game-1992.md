@@ -4,6 +4,11 @@ title: "The Quarry Game – 1992"
 date: "2023-03-24 13:06:42 -0700"
 permalink: /2023/03/24/the-quarry-game-1992/
 ---
+![2014 06 24 19 48 36](/assets/images/2014/06/2014-06-24-19-48-36.jpg)
+
+![2014 06 24 19 53 53](/assets/images/2014/06/2014-06-24-19-53-53.jpg)
+
+
 
 Recovered 🙂
 

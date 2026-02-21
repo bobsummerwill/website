@@ -4,6 +4,21 @@ title: "Employee Appreciation Week at TD – Tuesday June 2nd"
 date: "2015-06-03 09:03:27 -0700"
 permalink: /2015/06/03/employee-appreciation-week-at-td-tuesday-june-2nd/
 ---
+![20150915 182616](/assets/images/2015/09/20150915_182616.jpg)
+
+![20150915 183647](/assets/images/2015/09/20150915_183647.jpg)
+
+![20150915 185329](/assets/images/2015/09/20150915_185329.jpg)
+
+![20150915 185440](/assets/images/2015/09/20150915_185440.jpg)
+
+![20150915 190120](/assets/images/2015/09/20150915_190120.jpg)
+
+![20150915 190310](/assets/images/2015/09/20150915_190310.jpg)
+
+![20150915 213515](/assets/images/2015/09/20150915_213515.jpg)
+
+
 
 Tuesday was a beautiful day in Toronto, and Day #2 of the Employee Appreciation Week, and the first of two BBQ events was scheduled for lunchtime at the TD Centre. **Dave Manley** and I went down for some nosh, and there was a reasonable lineup for the tasty fare on offer. In fact, there was a BURGER CRISIS, which was narrowly adverted. People were having to walk on down the line and then come back later to add their burgers to their buns. **Ty Panagoplos, the TD Securities CIO** was on burger duty and get the burgers in buns to clear the backlog! Tasty burgers and corn for me, while Dave went for a hot dog.
 

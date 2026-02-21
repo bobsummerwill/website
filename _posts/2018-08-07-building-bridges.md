@@ -5,6 +5,13 @@ date: "2018-08-07 22:59:38 -0700"
 permalink: /2018/08/07/building-bridges/
 featured_image: /assets/images/2016/02/800px-golden_gate_bridge_.jpg
 ---
+![l5 v1 18 9 turn around](/assets/images/2020/01/l5-v1-18_9-turn-around.jpg)
+
+![librem 5   applauncher cropped](/assets/images/2020/01/librem_5_-_applauncher_cropped.jpg)
+
+![screen shot 2020 02 01 at 12.38.35 pm](/assets/images/2020/01/screen-shot-2020-02-01-at-12.38.35-pm.png)
+
+
 
 I have never enjoyed zero sum thinking.
 

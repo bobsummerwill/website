@@ -4,6 +4,9 @@ title: "We Are Wearables – VR and Bob’s goodbye booze up"
 date: "2015-10-02 15:48:18 -0700"
 permalink: /2015/10/02/we-are-wearables-vr-and-bobs-goodbye-booze-up/
 ---
+![td bank mascot 3](/assets/images/2015/10/td_bank_mascot_3.jpg)
+
+
 
 Next Tuesday night I will be attending the [We Are Wearables October Meetup](http://www.meetup.com/Wearable-Wednesday-Toronto/events/225420566/), and the topic is Virtual Reality, which is very very close to my heart. Who wants to come along? I know [Carla Walker](https://w3.connections.td.com/profiles/html/profileView.do?userid=a0c04a90678ec3c4dd26a389305d3187&lang=en_us) does 🙂 I will bring my [Gear VR](https://en.wikipedia.org/wiki/Samsung_Gear_VR) Innovator Edition along.
 
