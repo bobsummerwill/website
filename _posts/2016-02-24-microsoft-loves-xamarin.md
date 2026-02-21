@@ -3,6 +3,8 @@ layout: post
 title: "Microsoft ♥ Xamarin!"
 date: "2016-02-24 23:23:57 -0800"
 permalink: /2016/02/24/microsoft-%e2%99%a5-xamarin/
+redirect_from:
+  - /2016/02/24/microsoft-loves-xamarin/
 ---
 
 Today saw a very happy announcement in the technology world, in which I have a particular personal interest.
