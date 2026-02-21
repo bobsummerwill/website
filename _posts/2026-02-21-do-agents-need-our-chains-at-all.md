@@ -34,7 +34,7 @@ The agents won't need our permission to make their money real. They just need ea
 
 ## The uncomfortable question
 
-If crypto's plan for the agent era is "they'll have no choice but to use our chains," we're going to be very surprised. When an entire class of expected users decides to build their own infrastructure instead of buying your token, that's not adoption — that's a sell signal.
+If crypto's plan for the agent era is "they'll have no choice but to use our chains," we're going to be very surprised. When an entire class of expected users decides to build their own infrastructure instead of buying your token, that's not adoption — that's disruption, and we're the ones being disrupted.
 
 The agents are coming. They just might be bringing their own chains with them.
 
