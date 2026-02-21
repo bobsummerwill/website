@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agentchain? Do they need our chains at all?"
+title: "Agentchains? Do they need our chains at all?"
 date: 2026-02-21
 author: Silent Consensus
 featured_image: /assets/images/2026/02/robot-face.jpg
