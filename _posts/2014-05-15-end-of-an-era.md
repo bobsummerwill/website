@@ -3,20 +3,9 @@ layout: post
 title: "End of an era"
 date: "2014-05-15 11:46:20 -0700"
 permalink: /2014/05/15/end-of-an-era/
-categories:
-  - "Uncategorized"
-tags:
-  - "Android"
-  - "C++"
-  - "EA"
-  - "iOS"
-  - "Mobile"
-  - "Mono"
-  - "Roadhouse"
-  - "Xamarin"
 ---
 
-**See also[Why did you leave EA?](<https://bobsummerwill.wordpress.com/2014/06/16/why-did-you-leave-ea/>)**
+**See also[Why did you leave EA?](https://bobsummerwill.wordpress.com/2014/06/16/why-did-you-leave-ea/)**
 
 Today I tendered my resignation with EA after 15 years and 4 months. Spending this amount of time with a single employer is incredibly rare these days, especially in the technology industry. I've spent so long here, though, because there has always been something new happening, some new project starting, new hardware platform launching, new organizational change, new sharing initiative or something. The eco-system within a corporation the size of EA is as rich and complex as whole sectors within other industries.
 
@@ -24,7 +13,7 @@ When I turned up at the EAUK studio in Guildford in January 1999 I was a young (
 
 I had attended GDC on behalf of Psygnosis in 1997, and had been wowed by San Francisco and California. I wanted to work in the USA and was frustrated at the fact that I was unable to secure a job in the US at that stage because of my lack of published titles. Several years later on, when the EAUK studio had moved to swanky custom facilities in Chertsey, and I was working on [Harry Potter and the Chamber of Secrets](<http://www.metacritic.com/game/playstation-2/harry-potter-and-the-chamber-of-secrets> "Harry Potter and the Chamber of Secrets"), I got another opportunity to move to North America when I was asked if I would like to join the FIFA team in Burnaby. At first I said no, thinking that working on a project as huge as FIFA would mean having no influence and would be a death-march. When EA offered to fly me and my girlfriend out to Vancouver for a week, I thought "free paid vacation? I can do that". The rest is history. We got married, moved over, and are now Canadian citizens, and love our life in this beautiful city.
 
-**UPDATE: In my later[Speaking truth to power](<https://bobsummerwill.wordpress.com/2014/06/02/speaking-truth-to-power-the-key-to-my-success-at-ea>) blog posting I told the FULL story of how I came to work on FIFA.**
+**UPDATE: In my later[Speaking truth to power](https://bobsummerwill.wordpress.com/2014/06/02/speaking-truth-to-power-the-key-to-my-success-at-ea) blog posting I told the FULL story of how I came to work on FIFA.**
 
 EA has been a fantastic employer. I have enjoyed great opportunities to work on interesting technical problems, and to collaborate with hundreds (or thousands?) of extremely talented and nice people around the world. I've worked in game teams and in central technology teams at the studio, business unit and worldwide levels. I've been on all sides of every fence when it comes to technical roles, and worked in most of the different development groups which have existed at the campus in Burnaby during my time here.
 

@@ -3,15 +3,13 @@ layout: post
 title: "We Are Wearables Toronto Meetup – May 2015"
 date: "2015-05-05 21:56:56 -0700"
 permalink: /2015/05/05/we-are-wearables-toronto-meetup-may-2015/
-categories:
-  - "Uncategorized"
 ---
 
 This evening I went to my first ever ["We Are Wearables" Meetup](<http://www.meetup.com/Wearable-Wednesday-Toronto/events/221916094/> ""We Are Wearables" Meetup") here in Toronto, held in the MaRS Discovery District. It was by far the largest attendance I have ever seen for a Meetup with over 500 people RSVP-ing, with a conference-scale number of participants. The meetup is organized by [Tom Emrich](<http://www.tomemrich.com/> "Tom Emrich").
 
  
 
-[![2015-05-05 20.38.19](/assets/images/2015-05-05-20-38-19.jpg?w=1024&h=576)](</assets/images/2015-05-05-20-38-19.jpg>)
+[![2015-05-05 20.38.19](/assets/images/2015/05/2015-05-05-20-38-19.jpg)](/assets/images/2015/05/2015-05-05-20-38-19.jpg)
 
  
 
@@ -25,16 +23,16 @@ Linkitz have an excellent product idea. They seek to encourage ongoing interest 
 
 They joined an accelerator program in China to prototype their hardware.
 
-[![2015-05-05 20.17.12](/assets/images/2015-05-05-20-17-12.jpg)](</assets/images/2015-05-05-20-17-12.jpg>) [![2015-05-05 20.25.54](/assets/images/2015-05-05-20-25-54.jpg&h=576)](</assets/images/2015-05-05-20-25-54.jpg>)
+[![2015-05-05 20.17.12](/assets/images/2015/05/2015-05-05-20-17-12.jpg)](/assets/images/2015/05/2015-05-05-20-17-12.jpg) [![2015-05-05 20.25.54](/assets/images/2015/05/2015-05-05-20-25-54.jpg)](/assets/images/2015/05/2015-05-05-20-25-54.jpg)
 
 Lyssa Neel, the founder, shared that they had been asked to announce at TechCrunch Disrupt, but had turned it down because they wanted to launch here in Toronto, which she termed the best place in the world for wearables. Cue big cheers!
 
-[![2015-05-05 20.26.57](/assets/images/2015-05-05-20-26-57.jpg&h=576)](</assets/images/2015-05-05-20-26-57.jpg>)
+[![2015-05-05 20.26.57](/assets/images/2015/05/2015-05-05-20-26-57.jpg)](/assets/images/2015/05/2015-05-05-20-26-57.jpg)
 
  
 
 Following the presentations there was time for bar/food/demo/mingling in the atrium, where I met these fine gentlemen from Tangerine who demo-ed their Apple Watch application to me. It seems that TD, Tangerine, CIBC and Desjardin have all launched similar Apple Watch apps, mainly shying away from initiating transactions, with more of a "read-only" view to start with.  
-[![2015-05-05 21.10.42](/assets/images/2015-05-05-21-10-42.jpg&h=576)](</assets/images/2015-05-05-21-10-42.jpg>)
+[![2015-05-05 21.10.42](/assets/images/2015/05/2015-05-05-21-10-42.jpg)](/assets/images/2015/05/2015-05-05-21-10-42.jpg)
 
  
 
@@ -42,7 +40,7 @@ This was an Apple Watch application showing news headlines and images from a new
 
  
 
-[![2015-05-05 21.21.01](/assets/images/2015-05-05-21-21-01.jpg)](</assets/images/2015-05-05-21-21-01.jpg>) [![2015-05-05 21.21.12](/assets/images/2015-05-05-21-21-12.jpg?w=1024&h=576)](</assets/images/2015-05-05-21-21-12.jpg>)
+[![2015-05-05 21.21.01](/assets/images/2015/05/2015-05-05-21-21-01.jpg)](/assets/images/2015/05/2015-05-05-21-21-01.jpg) [![2015-05-05 21.21.12](/assets/images/2015/05/2015-05-05-21-21-12.jpg)](/assets/images/2015/05/2015-05-05-21-21-12.jpg)
 
  
 

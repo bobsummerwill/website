@@ -5,6 +5,11 @@ title: Home
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li class="post-list-item">
+    {% if post.featured_image %}
+    <a href="{{ post.url }}" class="post-list-image">
+      <img src="{{ post.featured_image }}" alt="{{ post.title }}" loading="lazy">
+    </a>
+    {% endif %}
     <h2 class="post-list-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h2>

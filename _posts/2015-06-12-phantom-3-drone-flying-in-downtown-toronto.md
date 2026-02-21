@@ -3,13 +3,11 @@ layout: post
 title: "Phantom 3 Drone flying in downtown Toronto"
 date: "2015-06-12 02:07:24 -0700"
 permalink: /2015/06/12/phantom-3-drone-flying-in-downtown-toronto/
-categories:
-  - "Uncategorized"
 ---
 
 Last weekend in the Roadhouse Park in downtown Toronto, I was lucky enough to bump into somebody who was flying a Phantom 3 drone quadcopter. It is an impressive piece of kit, and the operator, Milton, was kind enough to let me make this video, as many interested people watched on.
 
-Here is the [Phantom 3 website](<http://www.dji.com/product/phantom-3>).
+Here is the [Phantom 3 website](http://www.dji.com/product/phantom-3).
 
 The Phantom 3 can auto-pilot hover at a fixed spot in 3D space, with the multiple GPS readings used to keep it in-place. The camera is on a pivot which can be controlled independently of the drone's movement. I'm not sure if you can zoom, etc.
 

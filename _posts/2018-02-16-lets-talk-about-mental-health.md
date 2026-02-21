@@ -3,18 +3,16 @@ layout: post
 title: "Let’s Talk About Mental Health"
 date: "2018-02-16 04:30:59 -0800"
 permalink: /2018/02/16/lets-talk-about-mental-health/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/brain.jpg
+featured_image: /assets/images/2018/02/brain.jpg
 ---
 
-_[Originally a[tweet-storm made on 25th November 2017]](<https://twitter.com/BobSummerwill/status/934591781265481728>)_
+_[Originally a[tweet-storm made on 25th November 2017]](https://twitter.com/BobSummerwill/status/934591781265481728)_
 
 Let's talk about #mentalhealth.
 
 Nearly 20% of the American population suffer from some form of mental illness each year. This is a rampant epidemic. Everyone is affected directly or indirectly.
 
-See [Nearly 1 in 5 Americans Suffers from Mental Illness Each Year](<http://www.newsweek.com/nearly-1-5-americans-suffer-mental-illness-each-year-230608>) article in Newsweek.
+See [Nearly 1 in 5 Americans Suffers from Mental Illness Each Year](http://www.newsweek.com/nearly-1-5-americans-suffer-mental-illness-each-year-230608) article in Newsweek.
 
 It is the same story (or worse) in other countries.
 
@@ -42,17 +40,17 @@ The thing which I do, which I am best at, which is my very essence… Can't do t
 
 My most recent spell of depression lasted from October 2016 to early January 2017. I was basically "off the grid". It started with this, which utterly knocked the stuffing out of me:
 
-[Hyperledger Project reflects on blockchain politics. Hyperledger's Brian Behlendorf discusses abortive attempt to relicense the C++ Ethereum client to the Apache 2.0 licence.](<http://www.ibtimes.co.uk/hyperledger-project-reflects-blockchain-politics-1603381>)
+[Hyperledger Project reflects on blockchain politics. Hyperledger's Brian Behlendorf discusses abortive attempt to relicense the C++ Ethereum client to the Apache 2.0 licence.](http://www.ibtimes.co.uk/hyperledger-project-reflects-blockchain-politics-1603381)
 
-I joined [ConsenSys](<https://consensys.net>) to start working on [Enterprise Ethereum Alliance](<http://entethalliance.org>) but within less than a week it was clear to me that I was broken and needed to take some time off. Like all my previous bosses, [Joe Lubin](<https://twitter.com/ethereumJoseph>) was superbly supportive, as were my other new ConsenSys teammates:
+I joined [ConsenSys](https://consensys.net) to start working on [Enterprise Ethereum Alliance](http://entethalliance.org) but within less than a week it was clear to me that I was broken and needed to take some time off. Like all my previous bosses, [Joe Lubin](https://twitter.com/ethereumJoseph) was superbly supportive, as were my other new ConsenSys teammates:
 
-![lubin](/assets/images/lubin.jpg)
+![lubin](/assets/images/2018/02/lubin.jpg)
 
 By mid-December 2016 I felt able to join a dial-in call for a face-to-face meeting in NYC talking about preparations for the EEA. That was the first time I had popped my head up for about two months. I was just lurking on a call, but it was a good start.
 
 On January 10th 2017 we had another face-to-face meeting about the EEA, including presenting our roadmap to Vitalik. The prospect of being in these meetings was really intimidating, but it really helped in the end. My beard here was a hiding method.
 
-![enteth](/assets/images/enteth.jpg)
+![enteth](/assets/images/2018/02/enteth.jpg)
 
 Anyway … I just wanted to share this insight into my life because mental health affects us all. I want you to know that nobody is immune. People in very public and influential positions are just as prone to mental health issues as everybody else.
 
@@ -80,8 +78,8 @@ ANYWAY - If you are having a tough time yourself and feel that talking it throug
 
 Seriously. Open offer to the whole world. My DMs on Twitter are open.
 
-Or any of these [means of contact](<https://bobsummerwill.com/contact/>).
+Or any of these [means of contact](https://bobsummerwill.com/contact/).
 
-I am feeling great now. I am utterly inspired and enthused by [Sweetbridge](<https://www.sweetbridge.com>).
+I am feeling great now. I am utterly inspired and enthused by [Sweetbridge](https://www.sweetbridge.com).
 
 But I know that it won't last forever, and the Black Dog will likely come and visit me again at some point in the future. But I am slowly getting better at coping. Peace out!

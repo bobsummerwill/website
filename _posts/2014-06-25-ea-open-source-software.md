@@ -3,11 +3,9 @@ layout: post
 title: "Did you know about EA’s Open Source software?"
 date: "2014-06-25 12:30:25 -0700"
 permalink: /2014/06/25/ea-open-source-software/
-categories:
-  - "Uncategorized"
 ---
 
-**UPDATE - See [CORRECTION – EA’s Free/Libre Software](<https://bobsummerwill.wordpress.com/2014/06/28/correction-eas-freelibre-software/>).**
+**UPDATE - See [CORRECTION – EA’s Free/Libre Software](https://bobsummerwill.wordpress.com/2014/06/28/correction-eas-freelibre-software/).**
 
 Do you know that EA releases various of its foundational technologies as part of its LGPL compliance obligations? EA should be talking about this much more, because these technologies are great! They have had years and years of love poured into them, and have been used to ship numerous AAA titles across mutliple hardware platforms.
 
@@ -24,7 +22,7 @@ If you download one of the ZIPs, and go into the **EAWebKitSupportPackages** fol
      * EAAssert - assertion handling
      * EABase - base types and #defines
      * EAIO - I/O library
-     * EASTL - game-friendly STL implementation (described [in public by Paul Pedriana in 2007](<http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html>))
+     * EASTL - game-friendly STL implementation (described [in public by Paul Pedriana in 2007](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html))
      * EAText - Text-rendering library (sitting on top of FreeType)
      * EAWebkit - Fork of the Webkit project, ported on top of EA base technology
      * PPMalloc - Superb memory management tech from Paul Pedriana
@@ -43,11 +41,12 @@ You will also see the following non-EA packages which EAWebkit also depends on. 
 
 UPDATE:
 
-<https://twitter.com/m18e/status/481899786258219008>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/m18e/status/481899786258219008"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-If you download [EAWebKit-13.3.2.0.0](<http://gpl.ea.com/packages/EAWebKit_13.3.2.0.0.zip>), that version contains SLNs for Win32 and Win64, in addition to PS4 and XBOX One.
+If you download [EAWebKit-13.3.2.0.0](http://gpl.ea.com/packages/EAWebKit_13.3.2.0.0.zip), that version contains SLNs for Win32 and Win64, in addition to PS4 and XBOX One.
 
-The newer [EAWebKit-13.4.1.0.0](<http://gpl.ea.com/packages/EAWebKit_13.4.1.0.0.zip>) and [EAWebKit-13.4.2.0.0](<http://gpl.ea.com/packages/EAWebKit_13.4.2.0.0.zip>) releases only contain PS4 and XBOX One solutions, which won't be much use to people outside of the console games development community.
+The newer [EAWebKit-13.4.1.0.0](http://gpl.ea.com/packages/EAWebKit_13.4.1.0.0.zip) and [EAWebKit-13.4.2.0.0](http://gpl.ea.com/packages/EAWebKit_13.4.2.0.0.zip) releases only contain PS4 and XBOX One solutions, which won't be much use to people outside of the console games development community.
 
 Have fun, and keep your eyes peeled for new EA Open Source releases. I don't believe they are being announced in any way, which is a real shame.
 

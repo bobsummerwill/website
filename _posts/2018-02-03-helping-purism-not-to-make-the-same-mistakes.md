@@ -3,11 +3,9 @@ layout: post
 title: "Helping Purism not to make the same mistakes"
 date: "2018-02-03 13:15:41 -0800"
 permalink: /2018/02/03/helping-purism-not-to-make-the-same-mistakes/
-categories:
-  - "Uncategorized"
 ---
 
-![](/assets/images/220px-tux8496358109139481696.png)
+![](/assets/images/2016/06/220px-tux8496358109139481696.png)
 
 I spoke to Ash Nazir, Carsten Munk and Carsten Haitzler and a few more people last night about wanting to help Purism NOT make avoidable mistakes with the Librem 5.
 

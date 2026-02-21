@@ -3,9 +3,7 @@ layout: post
 title: "Bijou Lee and BGL Legal Consulting"
 date: "2018-07-18 10:24:33 -0700"
 permalink: /2018/07/18/bijou-lee-and-bgl-legal-consulting/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/linkedin.png
+featured_image: /assets/images/2018/07/linkedin.png
 ---
 
 **" My lawyer is awesome" - **I bet that isn't something which too many people can say!
@@ -16,10 +14,10 @@ By late 2015 I was feeling the pain of the lack of basic technical competence am
 
 [Have you met blockchain savvy accountants and lawyers in Canada?](<https://www.reddit.com/r/ethereum/comments/3y434a/have_you_met_blockchain_savvy_accountants_and/?st=jagzeyo5&sh=3dcbb1cf>)
 
-![Screen Shot 2018-07-18 at 9.52.05 AM](/assets/images/screen-shot-2018-07-18-at-9-52-05-am.png)
+![Screen Shot 2018-07-18 at 9.52.05 AM](/assets/images/2018/07/screen-shot-2018-07-18-at-9-52-05-am.png)
 
 Do have a read of the responses to that thread. This was my favorite:  
-![Screen Shot 2018-07-18 at 9.54.55 AM](/assets/images/screen-shot-2018-07-18-at-9-54-55-am.png)
+![Screen Shot 2018-07-18 at 9.54.55 AM](/assets/images/2018/07/screen-shot-2018-07-18-at-9-54-55-am.png)
 
 So I didn't actually make any change at that point, due to mixture of lack of options and also getting busy with other things, but as the 2018 financial year approached I left it was time to revisit this question, so I asked Reddit again and this time I got a great answer:
 
@@ -27,17 +25,17 @@ So I didn't actually make any change at that point, due to mixture of lack of op
 
  
 
-![Screen Shot 2018-07-18 at 9.59.12 AM](/assets/images/screen-shot-2018-07-18-at-9-59-12-am.png)
+![Screen Shot 2018-07-18 at 9.59.12 AM](/assets/images/2018/07/screen-shot-2018-07-18-at-9-59-12-am.png)
 
 The way in which Bijou was introduced to me immediately gave me a great feeling. Her contact options included PGP encrypted email and Signal. Excellent - some opsec - this is going to be good! I was not wrong.
 
-![LinkedIn](/assets/images/linkedin.png)
+![LinkedIn](/assets/images/2018/07/linkedin.png)
 
 So I retained Bijou in January of this year and have been working with her since as I have worked through working out what I want to do with myself. The first thing which I asked her to do was to look at options for single-individual non-profit organizations in Canada, both federally and provincially. The **Summerwill Foundation** or whatever. That is not something which I will be pursuing right now, but I wanted to look into that option.
 
 So she did some legal research for me on that, which I am happy to share with the world, subject to this disclaimer:
 
-![Screen Shot 2018-07-18 at 10.14.11 AM](/assets/images/screen-shot-2018-07-18-at-10-14-11-am.png)
+![Screen Shot 2018-07-18 at 10.14.11 AM](/assets/images/2018/07/screen-shot-2018-07-18-at-10-14-11-am.png)
 
 [**Canadian Non-Profit Options - BGL**](<https://bobsummerwill.wordpress.com/wp-content/uploads/2018/07/canadian-non-profit-options-bgl.pdf> "Canadian Non-Profit Options - BGL")
 
@@ -55,4 +53,4 @@ She tells me that she is dealing with clients in Canada, the USA and Hong Kong s
 
 **Bijou Lee on[LinkedIn](<https://www.linkedin.com/in/bijou-lee-165325118/>), [Twitter (@crypto_lawyers)](<https://twitter.com/crypto_lawyers>) and [Website (bgl.legal)](<https://bgl.legal/>).**
 
-![bijou](/assets/images/bijou.jpg)
+![bijou](/assets/images/2018/07/bijou.jpg)

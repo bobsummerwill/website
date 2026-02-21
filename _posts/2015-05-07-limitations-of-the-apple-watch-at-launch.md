@@ -3,11 +3,9 @@ layout: post
 title: "Limitations of the Apple Watch at launch"
 date: "2015-05-07 10:35:24 -0700"
 permalink: /2015/05/07/limitations-of-the-apple-watch-at-launch/
-categories:
-  - "Uncategorized"
 ---
 
-[![White_AppleWatch_with_Screen](/assets/images/white_applewatch_with_screen.png&h=150)](</assets/images/white_applewatch_with_screen.png>)
+[![White_AppleWatch_with_Screen](/assets/images/2016/06/white_applewatch_with_screen.png)](/assets/images/2016/06/white_applewatch_with_screen.png)
 
 I was aware that the Apple Watch was only providing limited functionality to third-party developers at the moment, but I wasn't quite aware just how limited it was until this week.
 

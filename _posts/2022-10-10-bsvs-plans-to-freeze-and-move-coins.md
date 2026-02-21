@@ -3,19 +3,17 @@ layout: post
 title: "BSV’s plans to freeze and move coins"
 date: "2022-10-10 22:18:22 -0700"
 permalink: /2022/10/10/bsvs-plans-to-freeze-and-move-coins/
-categories:
-  - "Uncategorized"
 ---
 
 There have been rumblings for years about the BSV project's plans related to "court orders".  
   
-The Bitcoin (BSV) Association dropped a bombshell on 5th October 2022, announcing their [Digital Asset Recovery Process](<https://www.bitcoinsv.io/digital-asset-recovery>) and releasing the [Blacklist Manager](<https://www.bitcoinsv.io/blacklist-manager>). This is the closest that we have seen to on-chain censorship for any blockchain, and the censorship is just the first step. The second step is reassignment of assets to other owners with no private keys required.
+The Bitcoin (BSV) Association dropped a bombshell on 5th October 2022, announcing their [Digital Asset Recovery Process](https://www.bitcoinsv.io/digital-asset-recovery) and releasing the [Blacklist Manager](https://www.bitcoinsv.io/blacklist-manager). This is the closest that we have seen to on-chain censorship for any blockchain, and the censorship is just the first step. The second step is reassignment of assets to other owners with no private keys required.
 
-Further details are provided in the [Blacklist Manager Technical Manual](<https://bitcoin-association.gitbook.io/blacklist-manager/>).
+Further details are provided in the [Blacklist Manager Technical Manual](https://bitcoin-association.gitbook.io/blacklist-manager/).
 
 Here is the explainer video:
 
-[ ![](/assets/images/explainer-1.png)](<https://www.youtube.com/watch?v=xLRp7zxeTfM>)
+[ ![](/assets/images/2022/10/explainer-1.png)](https://www.youtube.com/watch?v=xLRp7zxeTfM)
 
 The Blacklist Manager is described as **" A required add-on to the Bitcoin SV node software to ensure that miners comply with court orders"**.  
   
@@ -33,41 +31,41 @@ Such reassignment obviously requires changes to the BSV software, because blockc
 
 Some history on this saga:
 
-  * [Tulip Trading Limited - Letter Before Action](<https://www.ontier.net/ia/a1letter-before-action-from-ttl.pdf>) - 24th February 2021
-  * [Dr. Craig Wright/Tulip Trust Statement](<https://bitcoinassociation.net/bitcoin-association-statement-concerning-legal-action-by-dr-craig-s-wright-tulip-trading-ltd/>) - 26th February 2021
-  * [Bitcoin SV Node software – Upgrade to v1.0.9 Release](<https://www.bitcoinsv.io/releases/bitcoin-sv-node-software-upgrade-to-v1-0-9-release>) - 19th October 2021
-  * [Bitcoin Association for BSV – Tulip Trading Ltd. Settlement Statement and FAQ](<https://bitcoinassociation.net/bitcoin-association-for-bsv-tulip-trading-ltd-settlement-statement-and-faq/>) on 10th June 2022.
+  * [Tulip Trading Limited - Letter Before Action](/assets/images/external/misc/a1letter-before-action-from-ttl.pdf) - 24th February 2021
+  * [Dr. Craig Wright/Tulip Trust Statement](https://bitcoinassociation.net/bitcoin-association-statement-concerning-legal-action-by-dr-craig-s-wright-tulip-trading-ltd/) - 26th February 2021
+  * [Bitcoin SV Node software – Upgrade to v1.0.9 Release](https://www.bitcoinsv.io/releases/bitcoin-sv-node-software-upgrade-to-v1-0-9-release) - 19th October 2021
+  * [Bitcoin Association for BSV – Tulip Trading Ltd. Settlement Statement and FAQ](https://bitcoinassociation.net/bitcoin-association-for-bsv-tulip-trading-ltd-settlement-statement-and-faq/) on 10th June 2022.
   * Notice below published in the Financial Times on 30th June 2022, with an deadline on "competing claims" to these coins which expired at the end of September 2022.
-  * [Digital Asset Recovery Process](<https://www.bitcoinsv.io/digital-asset-recovery>) announced and Blacklist Manager announced on 5th October 2022.
+  * [Digital Asset Recovery Process](https://www.bitcoinsv.io/digital-asset-recovery) announced and Blacklist Manager announced on 5th October 2022.
 
 
 
-![](/assets/images/letter-to-ft.jpg)
+![](/assets/images/2022/10/letter-to-ft.jpg)
 
 How is this tooling supposed to work?
 
 Here are the stages in the workflow, with Step 4 being where the miners "choose" to prioritize orders from the Blacklist over the existing "longest chain" Nakamoto Consensus which has been the consensus mechanism for Bitcoin since the very first mined block. The Blacklist Manager is in control of which transactions miners can or cannot mine.
 
-![](/assets/images/flow.png)
+![](/assets/images/2022/10/flow.png)
 
 In the final phase of the **Digital Asset Recovery Process** (not yet implemented it seems, but explained in the video), the miners would also receive orders from the Notary to **reassign assets** and the miners would follow their orders on that as well as on the freezes.
 
-![](/assets/images/order3.png)
+![](/assets/images/2022/10/order3.png)
 
 It is unclear exactly how that asset reassignment would work, but conversations on Twitter point to that likely being either forcing of an invalid transaction by the miners or by addition of a new transaction type which could transfer funds with no need for private keys. Both of these options would constitute a soft fork or hard fork and would be a change of consensus.
 
-How would forcing an invalid transaction work? Wouldn't the other full nodes reject it? No. There are very few full nodes in BSV except those run by the miners, because they are too expensive to run. The only exception are a small number of infrastructure providers, but many of those will hit the same kind of scale issues which [Blockchair hit](<https://github.com/Blockchair/Blockchair.Support/issues/910#issuecomment-1159369293>) causing their nodes to crash. In the explanation of that event, they explained:  
+How would forcing an invalid transaction work? Wouldn't the other full nodes reject it? No. There are very few full nodes in BSV except those run by the miners, because they are too expensive to run. The only exception are a small number of infrastructure providers, but many of those will hit the same kind of scale issues which [Blockchair hit](https://github.com/Blockchair/Blockchair.Support/issues/910#issuecomment-1159369293) causing their nodes to crash. In the explanation of that event, they explained:  
   
 `"But the reality is that 99.99% or so of Bitcoin SV transactions are junk, so despite being the biggest Bitcoin-like blockchain with most transactions, Bitcoin SV constitutes only 0.3% of our visitor numbers and there are very few API clients using Bitcoin SV (0.2% of all API requests most of which are free API calls for the stats). Unfortunately, this doesn't cover all these costs. So that's why we can't run more than 2 nodes, and even **these two nodes will get stuck at some point because we'll go bankrupt buying all these disks to store the junk data**. But we're trying our best :)"`  
 
 
-It is somewhat unclear from the [Blacklist Manager Technical Manual](<https://bitcoin-association.gitbook.io/blacklist-manager/>) whether miners can connect to multiple Notaries in parallel or only to a single notary.
+It is somewhat unclear from the [Blacklist Manager Technical Manual](https://bitcoin-association.gitbook.io/blacklist-manager/) whether miners can connect to multiple Notaries in parallel or only to a single notary.
 
 Assuming a multiple-notary scenario it would be impossible for miners would stay in consensus unless they were all following the exact same list of notaries. All the miners must move in lockstep to avoid orphaning.
 
 Lockstep, why?
 
-Here is an example of the lockstep issue, [first tweeted](<https://twitter.com/BobSummerwill/status/1580668028756557824.>) shortly after the initial release of this article.
+Here is an example of the lockstep issue, [first tweeted](https://twitter.com/BobSummerwill/status/1580668028756557824.) shortly after the initial release of this article.
 
   * Miner A and Miner B (majority hash together) are connected to Notary X and Y.
   * Miner C (minority hash) is only connected to Notary X.
@@ -91,15 +89,15 @@ As part of the Blacklist Manager Technical Manual there is a glossary which incl
 
 **Could a meeting of a bunch of lawyers employed by TTL be interpreted as a "Law Court?" Yes.**
 
-![](/assets/images/glossary.png)  
+![](/assets/images/2022/10/glossary.png)  
   
 The miners will do what they are told
 
 Everyone who runs the BSV Node software is doing so under the licensing agreement which accompanies the source code and binary releases of that software.
 
-The licensing for that software changed from an open source license to a proprietary license on [2nd May 2019](<https://github.com/bitcoin-sv/bitcoin-sv/commit/e6474ba84db58d8adf01354a8c12931a9d7e8d3d>), when the MIT license put in place by Satoshi in the very first release of the Bitcoin source code had a raft of restrictions added to it which mean it no longer meets the [Open Source Definition](<https://opensource.org/osd>) as maintained by the [Open Source Initiative](<https://opensource.org/>) non-profit, failing on nearly every point, with the exception of the source code being available.
+The licensing for that software changed from an open source license to a proprietary license on [2nd May 2019](https://github.com/bitcoin-sv/bitcoin-sv/commit/e6474ba84db58d8adf01354a8c12931a9d7e8d3d), when the MIT license put in place by Satoshi in the very first release of the Bitcoin source code had a raft of restrictions added to it which mean it no longer meets the [Open Source Definition](https://opensource.org/osd) as maintained by the [Open Source Initiative](https://opensource.org/) non-profit, failing on nearly every point, with the exception of the source code being available.
 
-Here is the key line - [**https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE#L20**](<https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE#L20>)
+Here is the key line - [**https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE#L20**](https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE#L20)
 
 ------------  
 `2 - The Software, and any software that is derived from the Software or parts thereof, can only be used on the Bitcoin SV blockchains. The Bitcoin SV blockchains are defined, for purposes of this license, as the Bitcoin blockchain containing block height #556767 with the hash "000000000000000001d956714215d96ffc00e0afda4cd0a96c96f8d802b1662b" and that contains the longest persistent chain of blocks accepted by this Software and which are valid under the rules set forth in the Bitcoin white paper (S. Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System, posted online October 2008) and the latest version of this Software available in this repository or another repository designated by Bitcoin Association, as well as the test blockchains that contain the longest persistent chains of blocks accepted by this Software and which are valid under the rules set forth in the Bitcoin whitepaper (S. Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System, posted online October 2008) and the latest version of this Software available in this repository, or another repository designated by Bitcoin Association`

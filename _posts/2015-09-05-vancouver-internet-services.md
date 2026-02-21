@@ -3,8 +3,6 @@ layout: post
 title: "Vancouver Internet services"
 date: "2015-09-05 15:19:56 -0700"
 permalink: /2015/09/05/vancouver-internet-services/
-categories:
-  - "Uncategorized"
 ---
 
 Provider | Package | Max down Mbps | Max up Mbps | Res 300Gb | Res NoCap | Bus NoCap  

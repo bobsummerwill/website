@@ -3,8 +3,6 @@ layout: post
 title: "A vision – HTML5 can be “just another platform” for .NET"
 date: "2014-05-23 01:31:07 -0700"
 permalink: /2014/05/23/a-vision-html5-can-be-just-another-platform-for-net/
-categories:
-  - "Uncategorized"
 ---
 
 See [http://html5dot.com](<http://html5dotnet.com> "http://html5dotnet.com") for my latest idea.

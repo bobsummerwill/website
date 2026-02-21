@@ -3,15 +3,13 @@ layout: post
 title: "Omlet say “trust us”"
 date: "2014-09-01 16:44:27 -0700"
 permalink: /2014/09/01/omlet-say-trust-us/
-categories:
-  - "Uncategorized"
 ---
 
-This is a very belated follow-up to [MobiSocial do not understand decentralization and trust"](<https://bobsummerwill.wordpress.com/2014/06/10/mobisocial-do-not-understand-decentralization-and-trust/>) which I posted on June 10th.
+This is a very belated follow-up to [MobiSocial do not understand decentralization and trust"](https://bobsummerwill.wordpress.com/2014/06/10/mobisocial-do-not-understand-decentralization-and-trust/) which I posted on June 10th.
 
-![](/assets/images/Omlet.png)
+![](/assets/images/2016/06/Omlet.png)
 
-On June 12th [T.J.Purcell](<http://twitter.com/wrldsuksgo2mars>), their CTO, wrote ["Why giving consumers data ownership is hard"](<http://blog.omlet.me/post/88623218014/why-giving-consumers-data-ownership-is-hard>), at least partially in response to my article.
+On June 12th [T.J.Purcell](http://twitter.com/wrldsuksgo2mars), their CTO, wrote ["Why giving consumers data ownership is hard"](http://blog.omlet.me/post/88623218014/why-giving-consumers-data-ownership-is-hard), at least partially in response to my article.
 
 Then I got busy, and sat on a draft reply for nearly 3 months. I made a bunch of notes, but it's all a bit stale and useless now.
 

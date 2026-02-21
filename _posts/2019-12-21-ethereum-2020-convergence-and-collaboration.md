@@ -3,26 +3,24 @@ layout: post
 title: "Ethereum 2020: Convergence and Collaboration"
 date: "2019-12-21 05:39:38 -0800"
 permalink: /2019/12/21/ethereum-2020-convergence-and-collaboration/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/800px-golden_gate_bridge_.jpg
+featured_image: /assets/images/2016/02/800px-golden_gate_bridge_.jpg
 ---
 
-First published on Coindesk on 26th December 2019 as [The Ethereum Community is No Longer Fighting with Itself.](<https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself>) This is my original draft.
+First published on Coindesk on 26th December 2019 as [The Ethereum Community is No Longer Fighting with Itself.](https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself) This is my original draft.
 
 * * *
 
-This post is part of CoinDesk's 2019 Year in Review, a collection of 100 op-eds, interviews and takes on the state of blockchain and the world. [Bob Summerwill](<https://bobsummerwill.com>) is Executive Director of the [ETC Cooperative](<https://etccooperative.org>).
+This post is part of CoinDesk's 2019 Year in Review, a collection of 100 op-eds, interviews and takes on the state of blockchain and the world. [Bob Summerwill](https://bobsummerwill.com) is Executive Director of the [ETC Cooperative](https://etccooperative.org).
 
-![IMG_-b8cpdw](/assets/images/IMG_-b8cpdw.jpg?w=600)
+![IMG_-b8cpdw](/assets/images/2018/12/IMG_-b8cpdw.jpg)
 
 2016 and 2017 were divisive years for the Ethereum ecosystem.
 
-In January 2016 the former CTO of the Ethereum Project, Gavin Wood, spun off the former ETHDEV C++ team to found Ethcore - later renamed as [Parity Technologies](<https://www.parity.io/>). There has been an ongoing love-hate relationship between Parity and the rest of the Ethereum community ever since. This continues to the present day with [their controversial proposal](<https://www.theblockcrypto.com/linked/50718/parity-says-it-will-transition-ethereum-client-work-to-dao-structure>) to move the Parity-Ethereum project into a DAO.
+In January 2016 the former CTO of the Ethereum Project, Gavin Wood, spun off the former ETHDEV C++ team to found Ethcore - later renamed as [Parity Technologies](https://www.parity.io/). There has been an ongoing love-hate relationship between Parity and the rest of the Ethereum community ever since. This continues to the present day with [their controversial proposal](https://www.theblockcrypto.com/linked/50718/parity-says-it-will-transition-ethereum-client-work-to-dao-structure) to move the Parity-Ethereum project into a DAO.
 
 In July 2016 we had world class drama when The DAO was drained of funds. After a month of the most intense debate, the ecosystem was cleaved into two with The DAO Fork. The "World Computer" majority accepted the fork which returned funds. That fork retained the ETH "ticker" and the Ethereum trademark while the "Code is Law" crew showed the world that minority chains can survive by supporting the unforked chain and bringing Ethereum Classic to life.
 
-In October 2016, Parity Technologies [blocked relicensing of cpp-ethereum](<https://www.ibtimes.co.uk/hyperledger-project-reflects-blockchain-politics-1603381>) to Apache 2.0 at the eleventh hour because it would have affected their commercial interests. They also feared that having IBM's "nose under the tent" could have led to a chain split. That relicensing looked very likely to result in a huge swing towards Ethereum within the Hyperledger consortium which had been formed a little under a year before. Not to be.
+In October 2016, Parity Technologies [blocked relicensing of cpp-ethereum](https://www.ibtimes.co.uk/hyperledger-project-reflects-blockchain-politics-1603381) to Apache 2.0 at the eleventh hour because it would have affected their commercial interests. They also feared that having IBM's "nose under the tent" could have led to a chain split. That relicensing looked very likely to result in a huge swing towards Ethereum within the Hyperledger consortium which had been formed a little under a year before. Not to be.
 
 Blocking the relicensing led indirectly to the creation of the EEA which emerged as a "Plan B" as the relicensing floundered. No grand alliance between Ethereum and Hyperledger was possible at that stage, but there were sufficient enterprises using Ethereum for more formal collaboration to be worthwhile.
 
@@ -38,21 +36,21 @@ That is just how things have played out.
 
 In February 2017, Monax (a founding EEA member) joined Hyperledger and contributed the first Ethereum Virtual Machine - Burrow (previously known as ErisDB). That codebase had only ever run as a permissioned chain using Tendermint, never on the Ethereum mainnet. It was integrated into Hyperledger Sawtooth (as Seth), and then into Hyperledger Fabric. EVM-in-Fabric was the primary display at the IBM booth at Consensus in May 2018.
 
-In January 2018 I wrote a [tweetstorm](<https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/>) which become the "[Call for an End To Tribalism in Ethereum](<https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/>)" keynote at the Ethereum Community Conference in Paris in March 2018. Kent Barton continued that theme with "[Divided We Fail: The Irrational Insanity of Crypto Tribalism](<https://medium.com/s/story/divided-we-fail-the-irrational-insanity-of-crypto-tribalism-6acc54465769>)" in April 2018.
+In January 2018 I wrote a [tweetstorm](https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/) which become the "[Call for an End To Tribalism in Ethereum](https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/)" keynote at the Ethereum Community Conference in Paris in March 2018. Kent Barton continued that theme with "[Divided We Fail: The Irrational Insanity of Crypto Tribalism](https://medium.com/s/story/divided-we-fail-the-irrational-insanity-of-crypto-tribalism-6acc54465769)" in April 2018.
 
-That Paris conference also saw the [launch of the Ethereum Magicians](<https://www.coindesk.com/ethereums-magic-solution-fellowship-coders-embark-governance-quest>) led by my former colleagues Jamie Pitts and Greg Colvin. That group of individuals sought to mature the governance around the Ethereum protocol improvement process.
+That Paris conference also saw the [launch of the Ethereum Magicians](https://www.coindesk.com/ethereums-magic-solution-fellowship-coders-embark-governance-quest) led by my former colleagues Jamie Pitts and Greg Colvin. That group of individuals sought to mature the governance around the Ethereum protocol improvement process.
 
-In October 2018, [EEA and Hyperledger announced](<https://www.hyperledger.org/announcements/2018/10/01/enterprise-ethereum-alliance-and-hyperledger-to-advance-the-global-blockchain-business-ecosystem>) that they were becoming associate members of each others organizations, and would be collaborating on common projects. In April 2019 the [Token Taxonomy Initiative](<https://tokentaxonomy.org/>) was launched, with Microsoft and IBM working together. In June 2019, [Microsoft finally joined Hyperledger](<https://cloudblogs.microsoft.com/opensource/2019/06/18/microsoft-joins-hyperledger-blockchain-community/>). Now we just need IBM to join the EEA (hint, hint)!
+In October 2018, [EEA and Hyperledger announced](https://www.hyperledger.org/announcements/2018/10/01/enterprise-ethereum-alliance-and-hyperledger-to-advance-the-global-blockchain-business-ecosystem) that they were becoming associate members of each others organizations, and would be collaborating on common projects. In April 2019 the [Token Taxonomy Initiative](https://tokentaxonomy.org/) was launched, with Microsoft and IBM working together. In June 2019, [Microsoft finally joined Hyperledger](https://cloudblogs.microsoft.com/opensource/2019/06/18/microsoft-joins-hyperledger-blockchain-community/). Now we just need IBM to join the EEA (hint, hint)!
 
 Tensions between the Ethereum Foundation and the EEA thawed in 2019, with Aya Miyaguchi, the Executive Director of the EF joining the Board of the EEA in August 2019, and the Mainnet Initiative being announced as a collaboration between the EF and the EEA.
 
-In August 2019, ConsenSys announced that [they would be joining Hyperledger](<https://www.hyperledger.org/announcements/2019/09/11/consensys-joins-hyperledger-as-a-premier-member>) as a Premier Member, with Joe Lubin joining the Governing Board. They announced that they would be contributing their Enterprise Ethereum client Pantheon (now renamed as Besu).
+In August 2019, ConsenSys announced that [they would be joining Hyperledger](https://www.hyperledger.org/announcements/2019/09/11/consensys-joins-hyperledger-as-a-premier-member) as a Premier Member, with Joe Lubin joining the Governing Board. They announced that they would be contributing their Enterprise Ethereum client Pantheon (now renamed as Besu).
 
 Three years after the failure of cpp-ethereum relicensing, we finally had a fully-fledged ETH mainnet client as part of Hyperledger. Besu was written in a mainstream enterprise language - Java, had permissive Apache 2.0 licensing and had mature governance under the Linux Foundation. It was built by a large team of world class software engineers, building to the specifications which the EEA had matured since 2017.
 
 ETC Cooperative funded ETC support and that work was completed by ChainSafe in December 2019. There has been a period of growing collaboration between the ETC ecosystem and the ETH ecosystem in late 2018 and throughout 2019, after several years or hurt feelings and bitterness after "a bad divorce". Virgil Griffith was key to that detente and has been an excellent friend to ETC.
 
-As my good friend John Wolpert said so well in his seminal "[Bring on the Stateful Internet](<https://media.consensys.net/bring-on-the-stateful-internet-d589adc7bb65>)" blog post in August 2018:
+As my good friend John Wolpert said so well in his seminal "[Bring on the Stateful Internet](https://media.consensys.net/bring-on-the-stateful-internet-d589adc7bb65)" blog post in August 2018:
 
 _" I wish we could take all the good work out there — the patterns each team in the blockchain space has explored for the past several years — and lop off all the brands, the flags, the preciousness we all get when looking at our own babies. We would see it all as a bag full of Legos, a set of potential standards converging on what we really need in order to build awesome new applications that transcend the limitations and troubling central control issues of client/server."_
 
@@ -64,7 +62,7 @@ At the close of 2019, we are in a completely different place than we were during
 
 Maturity of governance is also finally being seen as the critical foundation for collaboration which it truly is. The whole ecosystem is finally growing up.
 
-[In 2016 I wrote](<https://bobsummerwill.com/2016/07/12/ethereum-everywhere/>):
+[In 2016 I wrote](https://bobsummerwill.com/2016/07/12/ethereum-everywhere/):
 
 _" We have the opportunity to build a set of technologies in the next few years which could have similar societal impacts as the Internet, the World Wide Web and open source languages, relational databases, etc. We are building a decentralized computing platform which every individual on Earth should benefit from."_
 

@@ -3,35 +3,31 @@ layout: post
 title: "A call for an end to tribalism in Ethereum"
 date: "2018-03-01 02:34:05 -0800"
 permalink: /2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/tribalism.jpg
+featured_image: /assets/images/2018/03/tribalism.jpg
 ---
 
-_[Originally a[tweet-storm made on 25th January 2018]](<https://twitter.com/BobSummerwill/status/956691690290536448>)_
+_[Originally a[tweet-storm made on 25th January 2018]](https://twitter.com/BobSummerwill/status/956691690290536448)_
 
-> How on earth are you putting Ethereum on the same level as Cardano? There are dozens of self-proclaimed 'Ethereum killers out there, and Cardano is a pretty uninspired DPoS variant between them.
-> 
-> -- antiprosynthesis.eth ⟠ (@antiprosynth) [January 25, 2018](<https://twitter.com/antiprosynth/status/956532495511703552?ref_src=twsrc%5Etfw>)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How on earth are you putting Ethereum on the same level as Cardano? There are dozens of self-proclaimed 'Ethereum killers out there, and Cardano is a pretty uninspired DPoS variant between them.</p>&mdash; antiprosynthesis.eth ⟠ (@antiprosynth) <a href="https://twitter.com/antiprosynth/status/956532495511703552">January 25, 2018</a></blockquote>
 
-You are SO SO SO, wrong, [@antiprosynth](<https://twitter.com/antiprosynth>). Open your mind. Don't be a hater. How much time have you spent looking into the details of the work which has been done on [@Cardano_](<https://twitter.com/Cardano_>)? Have you looked into the amazing talent base which they have built?
+You are SO SO SO, wrong, [@antiprosynth](https://twitter.com/antiprosynth). Open your mind. Don't be a hater. How much time have you spent looking into the details of the work which has been done on [@Cardano_](https://twitter.com/Cardano_)? Have you looked into the amazing talent base which they have built?
 
-_([@uFearETH](<https://twitter.com/uFearETH>): No need for hate, true. But Bob, kindly remove Ethereum info from your profile and just go all in on cardano that is until hoskinson leaves that protect too. Anyways they too late to table. Maybe ask Andreas to change his book Mastering Ethereum: Smart contracts and Dapps.)_
+_([@uFearETH](https://twitter.com/uFearETH): No need for hate, true. But Bob, kindly remove Ethereum info from your profile and just go all in on cardano that is until hoskinson leaves that protect too. Anyways they too late to table. Maybe ask Andreas to change his book Mastering Ethereum: Smart contracts and Dapps.)_
 
 That is not a kindly request. Kindly consider not trying to dictate to me how I act when I have spent 2.5 years of my life building this platform. You are not my boss. You are not a shareholder. We are building a platform for personal freedom. Not for tribalism.
 
-_[(@antiprosynth](<https://twitter.com/antiprosynth>): Yet you very clearly started pushing Cardano recently. Talk about all platforms then. There are far more interesting things happening in crypto than yet another DPoS powered 'Ethereum killer')  
+_[(@antiprosynth](https://twitter.com/antiprosynth): Yet you very clearly started pushing Cardano recently. Talk about all platforms then. There are far more interesting things happening in crypto than yet another DPoS powered 'Ethereum killer')  
 _
 
-_([@1flokre](<https://twitter.com/1flokre>): I, for one, also can't shake the feeling that - for one reason or the other - you all of a sudden seem to be very very keen to talk about Cardano… definitely strange considering your stance before)_
+_([@1flokre](https://twitter.com/1flokre): I, for one, also can't shake the feeling that - for one reason or the other - you all of a sudden seem to be very very keen to talk about Cardano… definitely strange considering your stance before)_
 
 I did not have a different stance before. I just didn't take any position. Look back and read again.
 
-_([@1flokre](<https://twitter.com/1flokre>): Hm, so let me get that straight. If I say studies have shown that McDonalds uses toxic ingredients, underpays their workers and damages the environment, I am actually not taking a position against McDonalds? Hm, hm)_
+_([@1flokre](https://twitter.com/1flokre): Hm, so let me get that straight. If I say studies have shown that McDonalds uses toxic ingredients, underpays their workers and damages the environment, I am actually not taking a position against McDonalds? Hm, hm)_
 
 I did not say anything against Charles or IOHK in the past. Check the record. I shared "accusations". I did not say I agreed with them.
 
-_[(@antiprosynth](<https://twitter.com/antiprosynth>): That's not what you told me back then. Not in the slightest. If your objective is to extinguish tribalism in crypto, then I wholeheartedly agree, but your specific choice of Cardano, and your aggressive shilling of it recently, is suspect to say the least.)_
+_[(@antiprosynth](https://twitter.com/antiprosynth): That's not what you told me back then. Not in the slightest. If your objective is to extinguish tribalism in crypto, then I wholeheartedly agree, but your specific choice of Cardano, and your aggressive shilling of it recently, is suspect to say the least.)_
 
 Right - so I see now that I responded to you in a DM on December 1st and warned you away from Charles. Shame on me. While I was remaining neutral in public, I was the beginning of my exploration of the Ethereum Foundation story.
 
@@ -57,25 +53,19 @@ So this latest round of fireworks kicked off with @BlockGeekDima calling out @di
 
 On November 10th I highlighted that discussion on Twitter, and noted my personal belief that both "down-votes" and "up-votes" have value when looking at social networks and reputation systems:
 
-> Dmitry Buterin ([@BlockGeekDima](<https://twitter.com/BlockGeekDima?ref_src=twsrc%5Etfw>)) is calling out Anthony Di Iorio ([@diiorioanthony](<https://twitter.com/diiorioanthony?ref_src=twsrc%5Etfw>)) as somebody he could never work with. Interesting discussion on the ethics of such a move happening in the comments.<https://t.co/JpzxrZKzLW>
-> 
-> IMHO - Both up-votes and down-votes are important. [pic.twitter.com/qkXn3P87cg](<https://t.co/qkXn3P87cg>)
-> 
-> -- Bob Summerwill (@BobSummerwill) [November 10, 2017](<https://twitter.com/BobSummerwill/status/929025431944159232?ref_src=twsrc%5Etfw>)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dmitry Buterin (<a href="https://twitter.com/BlockGeekDima">@BlockGeekDima</a>) is calling out Anthony Di Iorio (<a href="https://twitter.com/diiorioanthony">@diiorioanthony</a>) as somebody he could never work with. Interesting discussion on the ethics of such a move happening in the comments.<https://t.co/JpzxrZKzLW><br><br>IMHO - Both up-votes and down-votes are important. <a href="https://t.co/qkXn3P87cg">pic.twitter.com/qkXn3P87cg</a></p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/929025431944159232">November 10, 2017</a></blockquote>
 
 Without making any personal comment on the individuals.
 
 And then I noted the echoes with @leashless calling out both @IOHK_Charles and @stephantual as "bad actors" in the immediate aftermath of the DAO:
 
-<https://twitter.com/BobSummerwill/status/929026030085423104> …
+<blockquote class="twitter-tweet"><a href="https://twitter.com/BobSummerwill/status/929026030085423104"></a></blockquote> …
 
 And that kicked it all off again between Vinay and Charles.
 
-That was referring back to this interview on 13th August 2016: [https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s](<https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s>) … So @leashless, @IOHK_Charles and @iamtexture did the dance again, but we didn't move forward. So I spoke up with specifics, because I wanted closure and resolution:
+That was referring back to this interview on 13th August 2016: [https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s](https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s) … So @leashless, @IOHK_Charles and @iamtexture did the dance again, but we didn't move forward. So I spoke up with specifics, because I wanted closure and resolution:
 
-> OK, [@IOHK_Charles](<https://twitter.com/IOHK_Charles?ref_src=twsrc%5Etfw>), if you would like to know what "the allegations" are, I will publicly share the hearsay which has passed my ears. [@iamtexture](<https://twitter.com/iamtexture?ref_src=twsrc%5Etfw>) may also be brave enough to add to this list. <https://t.co/lakMEGTQOj>
-> 
-> -- Bob Summerwill (@BobSummerwill) [November 11, 2017](<https://twitter.com/BobSummerwill/status/929155116736790529?ref_src=twsrc%5Etfw>)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OK, <a href="https://twitter.com/IOHK_Charles">@IOHK_Charles</a>, if you would like to know what "the allegations" are, I will publicly share the hearsay which has passed my ears. <a href="https://twitter.com/iamtexture">@iamtexture</a> may also be brave enough to add to this list. <https://t.co/lakMEGTQOj></p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/929155116736790529">November 11, 2017</a></blockquote>
 
 And @IOHK_Richard chipped in. That was my first interaction with RIchard, who I still want to have a 1-1 with. Please DM me, Richard, and let's schedule that. I have some time on Mon and Tue next week.
 
@@ -83,7 +73,7 @@ I was seriously trying to get to resolution with my actions. I wanted to get the
 
 But when I shared this article:
 
-[View at Medium.com](<https://medium.com/@classicether/out-of-the-ether-a-crisis-of-irresponsible-governance-facing-ethereum-classic-a77abdd7a9fa>)
+[View at Medium.com](https://medium.com/@classicether/out-of-the-ether-a-crisis-of-irresponsible-governance-facing-ethereum-classic-a77abdd7a9fa)
 
 That is where Charles had enough, and blocked me. He said that I couldn't have it both ways, and play neutral while also sharing such an article. I re-read the article (which I had read months before) and I retracted.
 
@@ -97,7 +87,7 @@ As to "Tadashi Izumi", well yeah, that doesn't look good. Perhaps you could expl
 
 And as for "AceOfWallStreet" not getting "straight answers" while wading in like a complete tool saying that ADA was the Japanese OneCoin, well, yeah, it is unsurprising that he was not treated as somebody with genuine concerns:
 
-![](/assets/images/cecbf-1ilb9ho_bsnpwo2htlkxezq.jpeg)
+![](/assets/images/2018/03/cecbf-1ilb9ho_bsnpwo2htlkxezq.jpeg)
 
 Leon Fu asserting that ETC was led by Charles in the same way that ETH was led by @VitalikButerin is wrong on both scores:
 
@@ -107,15 +97,15 @@ Open source companies are not companies. Vitalik is not a dictator. And this ass
 
 And let me make some brief comments on "An Analysis of Charles Hoskinson’s Apology Letter"
 
-[View at Medium.com](<https://medium.com/@classicether/an-analysis-of-charles-hoskinsons-apology-letter-22f6fdceb796>)
+[View at Medium.com](https://medium.com/@classicether/an-analysis-of-charles-hoskinsons-apology-letter-22f6fdceb796)
 
 See quote below. Damn straight. I met @dieguito in Miami. This quote was labeled as FUD, but it is absolutely on the mark, IMHO.
 
-![](https://pbs.twimg.com/media/DUeJMoHVMAATU6_.jpg)
+![](/assets/images/external/twitter/DUeJMoHVMAATU6_.jpg)
 
 This also. Spot on.
 
-![](https://pbs.twimg.com/media/DUeJ2SyVoAAYb4Y.jpg)
+![](/assets/images/external/twitter/DUeJ2SyVoAAYb4Y.jpg)
 
 So anyway … I think we are left with pretty much nothing of substance here. We have @leashless's assertion that @IOHK_Charles did sociopathic things while at the Ethereum Foundation, but Vinay wasn't there. It was stories he heard and my belief now is they were exaggerated.
 
@@ -221,30 +211,27 @@ They have done amazing work for humanity. All free of change. Often under heavy 
 
 Peace out, world. I will stop typing now 🙂
 
-![](https://pbs.twimg.com/media/DUeZqrbU0AEKtXe.jpg)
+![](/assets/images/external/twitter/DUeZqrbU0AEKtXe.jpg)
 
-_([@IOHK_Charles](<https://twitter.com/IOHK_Charles>): Bob, I appreciate you trying to build bridges and mend the past, but you have to understand that for nearly 4 years there's been a campaign to make Hoskinson a swear word in the Ethereum circles)_
+_([@IOHK_Charles](https://twitter.com/IOHK_Charles): Bob, I appreciate you trying to build bridges and mend the past, but you have to understand that for nearly 4 years there's been a campaign to make Hoskinson a swear word in the Ethereum circles)_
 
 I know Charles. I really do. Seriously, assign somebody to monitor social media channels and have them Twitter DM me whenever this happens, and I will go and berate them. Because we need to be better than that.
 
-_([@gavofyork](<https://twitter.com/gavofyork>): See you in a week or two Bob :))_
+_([@gavofyork](https://twitter.com/gavofyork): See you in a week or two Bob :))_
 
 Just 7 days, my friend 😀 And this time will should get more than the 5 mins of IRL time we have ever had together! This was at DEVCON3.
 
-![](https://pbs.twimg.com/media/DUrI2JAUMAAcjNX.jpg)
+![](/assets/images/external/twitter/DUrI2JAUMAAcjNX.jpg)
 
-[_(@LefterisJP_](<https://twitter.com/LefterisJP>) _: Get a room you two ;))_
+[_(@LefterisJP_](https://twitter.com/LefterisJP) _: Get a room you two ;))_
 
 And shortly afterwards …
 
-> More to come from my recent trip, but I am happy to report that my primary goal was achieved!
-> 
-> Some quality time with Gavin Wood and [@ParityTech](<https://twitter.com/paritytech?ref_src=twsrc%5Etfw>) team IRL, getting to know each other. Making peace and plans for better future communication and collaboration.[#ethereum](<https://twitter.com/hashtag/ethereum?src=hash&ref_src=twsrc%5Etfw>) [#community](<https://twitter.com/hashtag/community?src=hash&ref_src=twsrc%5Etfw>) [pic.twitter.com/sk2a4FDBhx](<https://t.co/sk2a4FDBhx>)
-> 
-> -- Bob Summerwill (@BobSummerwill) [February 11, 2018](<https://twitter.com/BobSummerwill/status/962618576057253888?ref_src=twsrc%5Etfw>)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">More to come from my recent trip, but I am happy to report that my primary goal was achieved!<br><br>Some quality time with Gavin Wood and <a href="https://twitter.com/paritytech">@ParityTech</a> team IRL, getting to know each other. Making peace and plans for better future communication and collaboration.#ethereum #community <a href="https://t.co/sk2a4FDBhx">pic.twitter.com/sk2a4FDBhx</a></p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/962618576057253888">February 11, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  
 
-![](https://pbs.twimg.com/media/DVvoantX4AAaaq5.jpg)
+![](/assets/images/external/twitter/DVvoantX4AAaaq5.jpg)
 
-![](https://pbs.twimg.com/media/DVvodWLXkAIUpFt.jpg)
+![](/assets/images/external/twitter/DVvodWLXkAIUpFt.jpg)

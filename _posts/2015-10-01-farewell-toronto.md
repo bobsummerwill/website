@@ -3,13 +3,11 @@ layout: post
 title: "Farewell, Toronto!"
 date: "2015-10-01 10:32:39 -0700"
 permalink: /2015/10/01/farewell-toronto/
-categories:
-  - "Uncategorized"
 ---
 
 My time in Toronto is coming to an end next week.
 
-[![2015-05-03 09.06.14](/assets/images/2015-05-03-09-06-14.jpg?w=660)](</assets/images/2015-05-03-09-06-14.jpg>)
+[![2015-05-03 09.06.14](/assets/images/2015/05/2015-05-03-09-06-14.jpg)](/assets/images/2015/05/2015-05-03-09-06-14.jpg)
 
 It has been a blast, but my Vancouver family and home is calling.
 

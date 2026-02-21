@@ -3,8 +3,6 @@ layout: post
 title: "Bob Summerwill for Recruiters (2019)"
 date: "2019-01-10 10:53:59 -0800"
 permalink: /2019/01/10/bob-summerwill-for-recruiters-2019/
-categories:
-  - "Uncategorized"
 ---
 
 **What am I looking for:**
@@ -41,8 +39,8 @@ categories:
 **More information on Bob:  
 **
 
-  * [About](<https://bobsummerwill.com/about/>)
-  * [Resume](<https://bobsummerwill.com/resume/>)
-  * [LinkedIn](<https://www.linkedin.com/in/bobsummerwill/>)
-  * [Twitter](<https://twitter.com/BobSummerwill>) (13K followers)
+  * [About](https://bobsummerwill.com/about/)
+  * [Resume](https://bobsummerwill.com/resume/)
+  * [LinkedIn](https://www.linkedin.com/in/bobsummerwill/)
+  * [Twitter](https://twitter.com/BobSummerwill) (13K followers)
   * Best way to contact me is email to b**ob@summerwill.net**.

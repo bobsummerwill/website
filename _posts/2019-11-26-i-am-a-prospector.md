@@ -3,20 +3,18 @@ layout: post
 title: "I am a Prospector"
 date: "2019-11-26 07:03:41 -0800"
 permalink: /2019/11/26/i-am-a-prospector/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/gold_prospector.jpg
+featured_image: /assets/images/2019/11/gold_prospector.jpg
 ---
 
 There is a pattern which has run through my whole life. I try **everything**.
 
-I am a [ENTP](<https://www.truity.com/personality-type/ENTP>) according to the [Myers-Briggs Type Indicator](<https://www.myersbriggs.org/my-mbti-personality-type/>) with the "P" standing for Prospector.
+I am a [ENTP](https://www.truity.com/personality-type/ENTP) according to the [Myers-Briggs Type Indicator](https://www.myersbriggs.org/my-mbti-personality-type/) with the "P" standing for Prospector.
 
-Some website call this type of person "The Debater", some call it "The Diplomat", some call it "The Visionary". The specific labels are not as important as the [characterization of the patterns](<https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator>) of behaviour. Those are **spot on** in describing me.
+Some website call this type of person "The Debater", some call it "The Diplomat", some call it "The Visionary". The specific labels are not as important as the [characterization of the patterns](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) of behaviour. Those are **spot on** in describing me.
 
-I was a lot more introverted earlier in my life, so was an INTP. I have also had long spells of severe depression, and more recently hypomanic phases. I finally got what I believe is a correct diagnosis on 30th Oct 2019 - [Cyclothymia](<https://twitter.com/BobSummerwill/status/1189680077178433537>). Or, as my good friend, [Texture](<https://twitter.com/iamtexture>), calls it ["Baby bipolar"](<https://twitter.com/iamtexture/status/1189782388152209408>) 😂
+I was a lot more introverted earlier in my life, so was an INTP. I have also had long spells of severe depression, and more recently hypomanic phases. I finally got what I believe is a correct diagnosis on 30th Oct 2019 - [Cyclothymia](https://twitter.com/BobSummerwill/status/1189680077178433537). Or, as my good friend, [Texture](https://twitter.com/iamtexture), calls it ["Baby bipolar"](https://twitter.com/iamtexture/status/1189782388152209408) 😂
 
-From [Judging ("J") or Perceiving ("P")](<https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/judging-or-perceiving.htm>) article on [myersbriggs.org:](<https://myersbriggs.org>)
+From [Judging ("J") or Perceiving ("P")](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/judging-or-perceiving.htm) article on [myersbriggs.org:](https://myersbriggs.org)
 
 _The following statements generally apply to me:_
 
@@ -31,11 +29,11 @@ _The following statements generally apply to me:_
 
 When I say everything, I mean **everything** :
 
-  * I got fooled into joining [Amway](<https://www.amway.com/>) when I was 18-19. I think that experience really helped me to [understand the danger in OneCoin](<https://www.reddit.com/r/ethereum/comments/4wp0br/ethereum_dev_onecoin_is_a_pure_scam/?st=k3fyr8r9&sh=3eadbe17>).
+  * I got fooled into joining [Amway](https://www.amway.com/) when I was 18-19. I think that experience really helped me to [understand the danger in OneCoin](https://www.reddit.com/r/ethereum/comments/4wp0br/ethereum_dev_onecoin_is_a_pure_scam/?st=k3fyr8r9&sh=3eadbe17).
 
 
 
-![Screen Shot 2019-11-26 at 6.37.28 AM](/assets/images/screen-shot-2019-11-26-at-6.37.28-am.png)
+![Screen Shot 2019-11-26 at 6.37.28 AM](/assets/images/2019/11/screen-shot-2019-11-26-at-6.37.28-am.png)
 
   * I was a gold bug, a sovereign citizen, a prepper and a huge Alex Jones fan in 2009. I stocked up on decades worth of dry food, baseball bats (no guns for me), old US silver coins for barter, the lot. I learned to grow my own vegetables. I was learning to sail (so I could get a boat as my "escape route" from collapsing Vancouver when SHTF. I was looking at buying property in Chile. I was totally bought on New World Order, Bilderberg, Council for Foreign Relations, Bohemian Grove, etc. I used Liberty Reserve. I was looking at buying additional citizenships, some through very shady means. I was a 9/11 Truther. I even went down the Birther rabbit hole for a while and started doubting vaccines 🙂
   * I was a Libertarian and Ron Paul fan. I followed the 2012 US Presidential Election intensely. Was gutted at how he was treated. I still think that his position on Military spending is spot on. Abolishing pretty much all government functions and social welfare nets? Maybe not so wise, I see now.
@@ -64,4 +62,4 @@ It is exceedingly unlikely that I am "your enemy", and if you see me say things 
 
 The only Maximalism which I would confess to would be Humanity Maximalism. I believe that most humans are essentially good, and that collaboration is the path to our Star Trek future.
 
-Even that I would temper, though. I love [cats ](<https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/>)[**and**](<https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/>)[ dogs](<https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/>) and other animals too, and I hope that I get to meet aliens one day as well.
+Even that I would temper, though. I love [cats ](https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/)[**and**](https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/)[ dogs](https://bobsummerwill.com/2016/06/12/cats-and-dogs-can-be-friends/) and other animals too, and I hope that I get to meet aliens one day as well.

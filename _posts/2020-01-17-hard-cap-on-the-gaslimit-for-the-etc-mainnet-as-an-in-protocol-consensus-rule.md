@@ -3,21 +3,19 @@ layout: post
 title: "Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule"
 date: "2020-01-17 16:20:33 -0800"
 permalink: /2020/01/17/hard-cap-on-the-gaslimit-for-the-etc-mainnet-as-an-in-protocol-consensus-rule/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/img_20180801_122417.jpg
+featured_image: /assets/images/2018/08/img_20180801_122417.jpg
 ---
 
 I have just submitted a pull request to the Ethereum Classic Github repository proposing the following protocol change:
 
-["Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule"](<https://github.com/ethereumclassic/ECIPs/pull/259>)
+["Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule"](https://github.com/ethereumclassic/ECIPs/pull/259)
 
 There is not an ECIP number assisted yet. That is a task for the ECIP editors.
 
-I welcome discussion on the proposal and suggested changes through the ECIP process as defined by [ECIP-1000](<https://ecips.ethereumclassic.org/ECIPs/ecip-1000>).
+I welcome discussion on the proposal and suggested changes through the ECIP process as defined by [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000).
 
-  * [Github Issue](<https://github.com/ethereumclassic/ECIPs/issues/260>)
-  * [Github Pull Request](<https://github.com/ethereumclassic/ECIPs/pull/259>)
+  * [Github Issue](https://github.com/ethereumclassic/ECIPs/issues/260)
+  * [Github Pull Request](https://github.com/ethereumclassic/ECIPs/pull/259)
 
 
 
@@ -37,7 +35,8 @@ This malincentive has played out for ETH such that the ETH state tie is now so l
 
 Here is a recent example from Jeff Garzik on 15th January 2020 (it took him nearly 2 months):
 
-<https://twitter.com/jgarzik/status/1217488290900848640>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/jgarzik/status/1217488290900848640"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 _Sync 'd!_
 
@@ -53,9 +52,9 @@ _- Storage used: 668G_
 
 _- Docker container restarts, for hard fork geth upgrades: 2_
 
-ETH is completely reliant on Infura now and it is well known [how serious a problem](<https://www.coindesk.com/the-race-is-on-to-replace-ethereums-most-centralized-layer>) that dependency on a single centralized and proprietary service provider is.
+ETH is completely reliant on Infura now and it is well known [how serious a problem](https://www.coindesk.com/the-race-is-on-to-replace-ethereums-most-centralized-layer) that dependency on a single centralized and proprietary service provider is.
 
-[Anthony Lusardi](<https://twitter.com/pyskell>) proposed an appeal to the ETC miners to voluntarily vote the gaslimit down to 1M in March - ([ECIP-1047](<https://ecips.ethereumclassic.org/ECIPs/ecip-104>)) but that appeal has never happened, though might soon. A voluntary solution would be a step in the right direction in terms of the effects, but it does not solve the root issue which is the malincentive of the miner vote.
+[Anthony Lusardi](https://twitter.com/pyskell) proposed an appeal to the ETC miners to voluntarily vote the gaslimit down to 1M in March - ([ECIP-1047](https://ecips.ethereumclassic.org/ECIPs/ecip-104)) but that appeal has never happened, though might soon. A voluntary solution would be a step in the right direction in terms of the effects, but it does not solve the root issue which is the malincentive of the miner vote.
 
 A protocol change to set a hard-cap would resolve the unsustainability issue for ETC and bring the protocol into alignment with ETC philosophy, rejecting this bad inheritance from ETH and back in line with Bitcoin's sustainable approach.Unlike BTC however, we would define a long-term growth curve to reflect the constantly improving hardware - even with the same protocol and same client implementations.
 
@@ -81,7 +80,7 @@ There is a concern that it will not be possible to migrate ETH smart contracts t
 
 It looks like some kind of "Webpack for Solidity" would be workable, where we could add opcodes to deploy chunks of bytecode across several transactions, with new opcodes for START_DEPLOY, DEPLOY_CHUNK and END_DEPLOY or similar which could be used transparency internal to the development framework (Truffle, Embark, Brownie, etc) and compiler (SOLC, SOLL, Vyper, etc) to generate different bytecode depending on the gaslimit of the target chain. This is just an idea for the time being and needs its own new ECIP too.
 
-Aragon is probably the perfect guinea pig for addressing these concerns because they have large smart contracts and have just recently [been the victim of backwards-compatibility breaks](<https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon>) in ETH as part of the Istanbul HF. If we can provide a great story for ETH to ETC migration with well engineered changes spanning frameworks, compiler and runtime then that will be a delightful win-win for all parties.
+Aragon is probably the perfect guinea pig for addressing these concerns because they have large smart contracts and have just recently [been the victim of backwards-compatibility breaks](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon) in ETH as part of the Istanbul HF. If we can provide a great story for ETH to ETC migration with well engineered changes spanning frameworks, compiler and runtime then that will be a delightful win-win for all parties.
 
 As Jorge said, while breaking smart contracts up is the right thing to do, it should not be REQUIRED. To require changes to existing script is a break in the implicit social contract:
 
@@ -89,8 +88,8 @@ As Jorge said, while breaking smart contracts up is the right thing to do, it sh
 
 There is no implementation of this proposal yet because we are missing the specific details of the future gaslimit curve. That could either be linear growth or Moore's Law style exponential growth.
 
-The [ETC Cooperative](<https://etccooperative.org>) will fund implementations of this ECIP for Hyperledger Besu, Parity-Ethereum and MultiGeth, including testnets and audits as required.
+The [ETC Cooperative](https://etccooperative.org) will fund implementations of this ECIP for Hyperledger Besu, Parity-Ethereum and MultiGeth, including testnets and audits as required.
 
 ### Copyright
 
-This work is licensed under the [[Apache License, Version 2.0](<https://www.apache.org/licenses/LICENSE-2.0>). The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence. He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
+This work is licensed under the [[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence. He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.

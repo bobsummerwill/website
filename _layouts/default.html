@@ -9,10 +9,19 @@
   {% seo %}
 </head>
 <body>
-  {% include header.html %}
-  <main class="container">
-    {{ content }}
-  </main>
-  {% include footer.html %}
+  <div id="page">
+    {% include header.html %}
+    <div class="site-content">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </div>
+<script>
+document.querySelector('.menu-toggle').addEventListener('click', function() {
+  var nav = document.getElementById('primary-menu');
+  nav.classList.toggle('active');
+  this.setAttribute('aria-expanded', nav.classList.contains('active'));
+});
+</script>
 </body>
 </html>

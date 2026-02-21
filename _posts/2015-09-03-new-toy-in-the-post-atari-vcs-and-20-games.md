@@ -3,16 +3,14 @@ layout: post
 title: "New toy “in the post” – Atari VCS and 20 games"
 date: "2015-09-03 14:37:02 -0700"
 permalink: /2015/09/03/new-toy-in-the-post-atari-vcs-and-20-games/
-categories:
-  - "Uncategorized"
 ---
 
-Today I have pulled the trigger on a purchase which I have been pondering since I [visited Buy and Sell Kings](<https://bobsummerwill.wordpress.com/2015/08/08/vintage-video-games-and-hardware/>) a few weeks back.
+Today I have pulled the trigger on a purchase which I have been pondering since I [visited Buy and Sell Kings](https://bobsummerwill.wordpress.com/2015/08/08/vintage-video-games-and-hardware/) a few weeks back.
 
 Here what is coming my way soon, _supposedly_ tested. I certainly hope it all works. I will report back 🙂
 
-[![atari_vcs](/assets/images/atari_vcs.png)  
-](</assets/images/atari_vcs_full.png>)
+[![atari_vcs](/assets/images/2015/09/atari_vcs.png)  
+](/assets/images/2015/09/atari_vcs_full.png)
 
 From the eBay description:
 

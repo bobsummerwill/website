@@ -3,8 +3,6 @@ layout: post
 title: "Bob Summerwill for Recruiters (2015)"
 date: "2015-10-19 00:54:38 -0700"
 permalink: /2015/10/19/bob-summerwill-for-recruiters-2015/
-categories:
-  - "Uncategorized"
 ---
 
 ## What is this blog post about?
@@ -13,9 +11,9 @@ I am on the job market at the moment and thought it would be worthwhile to summa
 
 This blog post is intended to act as an initial filter to save everyone's time.
 
-See also [Bob's Resume](<http://bobsummerwill.com/resume>).
+See also [Bob's Resume](http://bobsummerwill.com/resume).
 
-[![bob](/assets/images/bob.jpeg)](</assets/images/bob.jpeg>)
+[![bob](/assets/images/2014/05/bob.jpeg)](/assets/images/2014/05/bob.jpeg)
 
 ## What does Bob have to offer?
 

@@ -1,6 +1,18 @@
 <header class="site-header">
-  <div class="container">
-    <a href="/" class="site-title">{{ site.title }}</a>
-    <p class="site-description">{{ site.description }}</p>
+  <div class="site-branding">
+    <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
   </div>
+  <p class="site-description">{{ site.description }}</p>
+  <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+  <nav id="primary-menu" class="main-nav">
+    <ul>
+      <li><a href="/">Blog</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/resume/">Resume</a></li>
+      <li><a href="/schedule/">Schedule</a></li>
+      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/links/">Links</a></li>
+      <li><a href="/bobliography/">Bobliography</a></li>
+    </ul>
+  </nav>
 </header>

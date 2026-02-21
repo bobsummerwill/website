@@ -3,18 +3,16 @@ layout: post
 title: "ETC Cooperative joins Hyperledger"
 date: "2019-11-20 18:42:58 -0800"
 permalink: /2019/11/20/etc-cooperative-joins-hyperledger/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/brian.jpeg
+featured_image: /assets/images/2019/11/brian.jpeg
 ---
 
-I am delighted to announce that [ETC Cooperative](<https://etccooperative.org>) are officially [Associate Members](<https://www.hyperledger.org/members>) of [Hyperledger](<https://www.hyperledger.org/>) as of 21st November 2019.
+I am delighted to announce that [ETC Cooperative](https://etccooperative.org) are officially [Associate Members](https://www.hyperledger.org/members) of [Hyperledger](https://www.hyperledger.org/) as of 21st November 2019.
 
-In September, I pledged that ETC Cooperative would contribute ETC support to the newly approved [Hyperledger Besu](<https://github.com/hyperledger/besu>) codebase. That support has [already been upstreamed](<https://github.com/hyperledger/besu/pull/179>), and ETC mainnet syncs successfully.
+In September, I pledged that ETC Cooperative would contribute ETC support to the newly approved [Hyperledger Besu](https://github.com/hyperledger/besu) codebase. That support has [already been upstreamed](https://github.com/hyperledger/besu/pull/179), and ETC mainnet syncs successfully.
 
 This is a very happy day, and a very satisfying step in a long personal journey.
 
-![brian](/assets/images/brian.jpeg)
+![brian](/assets/images/2019/11/brian.jpeg)
 
 **Quote from Hyperledger:**
 

@@ -3,8 +3,6 @@ layout: post
 title: "Visual Studio 2010 TAP (Technology Adoption Program)"
 date: "2014-05-29 00:26:54 -0700"
 permalink: /2014/05/29/visual-studio-2010-tap-technology-adoption-program/
-categories:
-  - "Uncategorized"
 ---
 
 I took part in the Visual Studio 2010 TAP (Technology Adoption Program) back in 2008-2009. That was a fabulous program where MS partners got early access to Visual Studio work-in-progress, plus regular conference calls to provide feedback or ask questions, which would be funneled directly to the development team. It was great!
@@ -15,4 +13,4 @@ I wanted to provide a unique integration test in the form of "build a simple gam
 
 Lots of fun, and I got this stuff to thank me!
 
-[![Image](/assets/images/20140528_135715.jpg)](</assets/images/20140528_135715.jpg>)[![Image](/assets/images/20140528_135724.jpg)](</assets/images/20140528_135724.jpg>)[![Image](/assets/images/20140528_135733.jpg)](</assets/images/20140528_135733.jpg>)
+[![Image](/assets/images/20140528_135715.jpg)](/assets/images/20140528_135715.jpg)[![Image](/assets/images/20140528_135724.jpg)](/assets/images/20140528_135724.jpg)[![Image](/assets/images/20140528_135733.jpg)](/assets/images/20140528_135733.jpg)

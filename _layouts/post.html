@@ -7,13 +7,6 @@ layout: default
     <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%B %-d, %Y" }}
     </time>
-    {% if page.categories.size > 0 %}
-    <div class="post-categories">
-      {% for cat in page.categories %}
-      <span class="category">{{ cat }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
   </header>
 
   {% if page.featured_image %}
@@ -27,12 +20,5 @@ layout: default
   </div>
 
   <footer class="post-footer">
-    {% if page.tags.size > 0 %}
-    <div class="post-tags">
-      {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
   </footer>
 </article>

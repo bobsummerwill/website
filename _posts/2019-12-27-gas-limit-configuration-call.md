@@ -3,9 +3,7 @@ layout: post
 title: "Gas Limit Configuration Call"
 date: "2019-12-27 06:47:58 -0800"
 permalink: /2019/12/27/gas-limit-configuration-call/
-categories:
-  - "Uncategorized"
-featured_image: /assets/images/conferencecallphone.jpg
+featured_image: /assets/images/2019/12/conferencecallphone.jpg
 ---
 
 We just had an [ETC Devs / Miners / Community call](<https://github.com/ethereumclassic/ECIPs/issues/252>) to talk about options to manage rampant chain bloat we are seeing on the ETC mainnet which is being caused by [GasToken](<https://gastoken.io/>), with most blocks being filled with garbage, adding gigabytes to the state every day. This will compromise decentralization in short order and is an existential threat to the health of the network.

@@ -3,29 +3,27 @@ layout: post
 title: "#DevOpsTO Meetup – DevOps for Banks special session"
 date: "2015-09-21 20:01:41 -0700"
 permalink: /2015/09/21/devopsto-meetup-devops-for-banks-special-session/
-categories:
-  - "Uncategorized"
 ---
 
-The inaugural [DevOps For Banks Meetup](<http://www.meetup.com/DevOpsTO/events/225116642/>) here in Toronto which I [previewed a while back](<https://bobsummerwill.wordpress.com/2015/09/05/devops-for-banks-meetup-toronto/>) happened last Tuesday. It was a lot of fun. I provided the social glue to bring the event into existence but the evening itself was the work of many hands. Thank you all 🙂
+The inaugural [DevOps For Banks Meetup](http://www.meetup.com/DevOpsTO/events/225116642/) here in Toronto which I [previewed a while back](https://bobsummerwill.wordpress.com/2015/09/05/devops-for-banks-meetup-toronto/) happened last Tuesday. It was a lot of fun. I provided the social glue to bring the event into existence but the evening itself was the work of many hands. Thank you all 🙂
 
-[Storify of the night](<https://storify.com/BobSummerwill/storify-devops-for-banks-special-session-of-devops>).
+[Storify of the night](https://storify.com/BobSummerwill/storify-devops-for-banks-special-session-of-devops).
 
 We'll have to do it again, eh?
 
-[![20150915_185440](/assets/images/20150915_185440.jpg?w=1024)](</assets/images/20150915_185440.jpg>)
+[![20150915_185440](/assets/images/2015/09/20150915_185440.jpg)](/assets/images/2015/09/20150915_185440.jpg)
 
-[![20150915_182616](/assets/images/20150915_182616.jpg)](</assets/images/20150915_182616.jpg>)
+[![20150915_182616](/assets/images/2015/09/20150915_182616.jpg)](/assets/images/2015/09/20150915_182616.jpg)
 
-[![20150915_183647](/assets/images/20150915_183647.jpg)](</assets/images/20150915_183647.jpg>)
+[![20150915_183647](/assets/images/2015/09/20150915_183647.jpg)](/assets/images/2015/09/20150915_183647.jpg)
 
-[![20150915_185329](/assets/images/20150915_185329.jpg?w=1024)](</assets/images/20150915_185329.jpg>)
+[![20150915_185329](/assets/images/2015/09/20150915_185329.jpg)](/assets/images/2015/09/20150915_185329.jpg)
 
-[![20150915_190120](/assets/images/20150915_190120.jpg)](</assets/images/20150915_190120.jpg>)
+[![20150915_190120](/assets/images/2015/09/20150915_190120.jpg)](/assets/images/2015/09/20150915_190120.jpg)
 
-[![20150915_190310](/assets/images/20150915_190310.jpg?w=1024)](</assets/images/20150915_190310.jpg>)
+[![20150915_190310](/assets/images/2015/09/20150915_190310.jpg)](/assets/images/2015/09/20150915_190310.jpg)
 
-[![20150915_213515](/assets/images/20150915_213515.jpg)](</assets/images/20150915_213515.jpg>)
+[![20150915_213515](/assets/images/2015/09/20150915_213515.jpg)](/assets/images/2015/09/20150915_213515.jpg)
 
 <http://www.meetup.com/DevOpsTO/events/225116642/>
 

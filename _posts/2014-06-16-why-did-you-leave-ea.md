@@ -3,29 +3,27 @@ layout: post
 title: "Why did you leave EA?"
 date: "2014-06-16 07:07:59 -0700"
 permalink: /2014/06/16/why-did-you-leave-ea/
-categories:
-  - "Uncategorized"
 ---
 
 Since I tendered my resignation with EA I have been asked multiple times "Why did you leave EA? What was the one thing which really pushed you to make the change after so many years?"
 
-[![bob-not-at-ea](/assets/images/bob-not-at-ea.png&h=149)](</assets/images/bob-not-at-ea.png>)
+[![bob-not-at-ea](/assets/images/2014/06/bob-not-at-ea.png)](/assets/images/2014/06/bob-not-at-ea.png)
 
-It is a good question. How can plucky little [Roadhouse Interactive](<http://roadhouseinteractive.com>) have more to offer me than [EA](<http://ea.com>)?
+It is a good question. How can plucky little [Roadhouse Interactive](http://roadhouseinteractive.com) have more to offer me than [EA](http://ea.com)?
 
 It wasn't a simple decision, and there were lots of different factors in the decision.
 
-Spending all of my working hours with C# and Unity3D after 18 years of glacial iteration on MLOC C++ code-bases was where it really started for me. As I detailed in my [End of an Era](<https://bobsummerwill.wordpress.com/2014/05/15/end-of-an-era/>) posting, I fell in love with that world at [Xamarin Evolve 2013](<https://xamarin.com/evolve/2013>).
+Spending all of my working hours with C# and Unity3D after 18 years of glacial iteration on MLOC C++ code-bases was where it really started for me. As I detailed in my [End of an Era](https://bobsummerwill.wordpress.com/2014/05/15/end-of-an-era/) posting, I fell in love with that world at [Xamarin Evolve 2013](https://xamarin.com/evolve/2013).
 
-Working in an environment where you can literally know everyone in the company (because you are all in the same small office space) is hugely appealing after 15 years+ of working an multi-national corporation with around 10,000 members of staff. Even at [EA Canada](<http://en.wikipedia.org/wiki/EA_Canada>) where I worked for the last 11 years there are well over 1,000 people. Most of the time you are walking around in a sea of strangers.
+Working in an environment where you can literally know everyone in the company (because you are all in the same small office space) is hugely appealing after 15 years+ of working an multi-national corporation with around 10,000 members of staff. Even at [EA Canada](http://en.wikipedia.org/wiki/EA_Canada) where I worked for the last 11 years there are well over 1,000 people. Most of the time you are walking around in a sea of strangers.
 
-The opportunity to have more influence in a smaller organization was very appealing. It will be like my first job at [Psygnosis Leeds](<http://ca.ign.com/articles/2012/08/23/a-history-of-psygnosis-in-12-games>), where I was one of the first 16 members of staff, before that grew to ~50 people within the first year or so.
+The opportunity to have more influence in a smaller organization was very appealing. It will be like my first job at [Psygnosis Leeds](http://ca.ign.com/articles/2012/08/23/a-history-of-psygnosis-in-12-games), where I was one of the first 16 members of staff, before that grew to ~50 people within the first year or so.
 
-I get to work with [Kayla Kinnunen](<https://www.linkedin.com/in/kaylakinnunen>) again, which is very exciting. We worked together before in a project from the very bowels of Satan, and even that was fun with Kayla, so working together at Roadhouse should be amazing! She's just shipped her first game as a Game Director - the well-received [Warhammer 40,000: Carnage](<http://www.roadhouseinteractive.com/warhammer-40k-carnage/>). And she made [Roller-Derby 20xx](<http://www.minijuegos.com/juego/roller-derby-20xx>) for fun.
+I get to work with [Kayla Kinnunen](https://www.linkedin.com/in/kaylakinnunen) again, which is very exciting. We worked together before in a project from the very bowels of Satan, and even that was fun with Kayla, so working together at Roadhouse should be amazing! She's just shipped her first game as a Game Director - the well-received [Warhammer 40,000: Carnage](http://www.roadhouseinteractive.com/warhammer-40k-carnage/). And she made [Roller-Derby 20xx](http://www.minijuegos.com/juego/roller-derby-20xx) for fun.
 
-I get to work with [Mike Davison](<https://www.linkedin.com/profile/view?id=939283>) again. That is also very cool. I had the unexpected pleasure of four straight hours with Mike at my Roadhouse interview. I didn't know who I was meeting ahead of time (and didn't even know that Mike worked at Roadhouse), but in walked Mike and we had the most delightful few hours talking about everything under the sun. It will be a pleasure to continue that dialog on a day-to-day basis. There is so much I know that we can build together at Roadhouse.
+I get to work with [Mike Davison](https://www.linkedin.com/profile/view?id=939283) again. That is also very cool. I had the unexpected pleasure of four straight hours with Mike at my Roadhouse interview. I didn't know who I was meeting ahead of time (and didn't even know that Mike worked at Roadhouse), but in walked Mike and we had the most delightful few hours talking about everything under the sun. It will be a pleasure to continue that dialog on a day-to-day basis. There is so much I know that we can build together at Roadhouse.
 
-I get to work with [Ben Sheftel](<https://www.linkedin.com/in/bensheftel>) for the first time too. I've not had the pleasure of working with Ben yet, but I know that he is a super-star in the making. We met nearly a year ago because our significant others work together, and it will be a delight to get the chance to work together. I have another friend, [Adam Shaikh](<https://www.linkedin.com/profile/view?id=5263368>), who works at EA whose wife also works with my wife. On his first day at EA, I was dispatched to go and collar Adam and say "Hello! I've been been told to come and say hi, because our wives work together and we work together!"
+I get to work with [Ben Sheftel](https://www.linkedin.com/in/bensheftel) for the first time too. I've not had the pleasure of working with Ben yet, but I know that he is a super-star in the making. We met nearly a year ago because our significant others work together, and it will be a delight to get the chance to work together. I have another friend, [Adam Shaikh](https://www.linkedin.com/profile/view?id=5263368), who works at EA whose wife also works with my wife. On his first day at EA, I was dispatched to go and collar Adam and say "Hello! I've been been told to come and say hi, because our wives work together and we work together!"
 
 Roadhouse is much closer to my Kitsilano home than EA Canada. That means we're going to be able to get rid of our second car, because I will be able to cycle, run or bus into work. That is a big cost saving and hassle reduction. Roadhouse is less than 5K from home for me, where EAC was around 15K. I will save an hour or more of commute each day. That time saving is huge as a father of a young family.
 
@@ -35,7 +33,7 @@ All of these things are nice. Great, even. But they weren't the deciding factor.
 
 That was something very simple. Personal freedom. The ability to be myself, and to do my own projects in addition to my new day-job, which will be delightful enough in its own right.
 
-At Roadhouse I have the ability to contribute to Open Source projects. At Roadhouse I have the ability to build [WearableC64](<http://wearablec64.wordpress.com/about>) and [MonoTizen](<http://monotizen.wordpress.com/about>). I am allowed (even encouraged) to operate [Kitsilano Software](<http://kitsilanosoftware.wordpress.com/about>) and [Kitsilano Games](<http://kitsilanogames.wordpress.com/about>) alongside my role at Roadhouse. As long as I am dedicated to Roadhouse during my working hours, and don't directly compete against Roadhouse, we are cool.
+At Roadhouse I have the ability to contribute to Open Source projects. At Roadhouse I have the ability to build [WearableC64](http://wearablec64.wordpress.com/about) and [MonoTizen](http://monotizen.wordpress.com/about). I am allowed (even encouraged) to operate [Kitsilano Software](http://kitsilanosoftware.wordpress.com/about) and [Kitsilano Games](http://kitsilanogames.wordpress.com/about) alongside my role at Roadhouse. As long as I am dedicated to Roadhouse during my working hours, and don't directly compete against Roadhouse, we are cool.
 
 Roadhouse like to hire people with passion for multiple things, not just for their day-jobs. Isn't that very grown up? Imagine … the company has hired me because they value my skills and experience, and they trust me as an adult not to do anything which harms the company!
 
@@ -59,4 +57,4 @@ There are moves underway to loosen up those constraints at EA, but they didn't c
 
 That personal freedom and professional trust from an employer is priceless.
 
-Bravo, [Roadhouse Interactive](<http://roadhouseinteractive.com>) for your maturity, and for giving me the opportunity to be me! I start work in 2 hours time. See you soon 🙂
+Bravo, [Roadhouse Interactive](http://roadhouseinteractive.com) for your maturity, and for giving me the opportunity to be me! I start work in 2 hours time. See you soon 🙂
