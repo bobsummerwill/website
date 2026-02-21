@@ -30,4 +30,4 @@ If crypto's plan for the agent era is "they'll have no choice but to use our cha
 
 The agents are coming. They just might be bringing their own chains with them.
 
-![Blockchain network](/website/assets/images/2026/02/blockchain-network.jpg)
+![Blockchain network](/assets/images/2026/02/blockchain-network.jpg)

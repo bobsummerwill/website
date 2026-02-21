@@ -16,7 +16,7 @@ layout: default
   {% endif %}
 
   <div class="post-content">
-    {{ content }}
+    {{ content | replace: 'src="/assets/', 'src="BASEURL_PLACEHOLDER/assets/' | replace: 'href="/assets/', 'href="BASEURL_PLACEHOLDER/assets/' | replace: 'BASEURL_PLACEHOLDER', site.baseurl }}
   </div>
 
   <footer class="post-footer">
