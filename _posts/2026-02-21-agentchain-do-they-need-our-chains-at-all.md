@@ -28,7 +28,7 @@ Network effects? Agents don't have social networks. Liquidity? They can bootstra
 
 The reflexive objection is that agent chains would be worthless — no liquidity, no way to convert to real-world value. But Bitcoin started the same way. It had no market value, no on-ramps, no liquidity. It acquired moneyness through narrative and utility. There is no reason to think agent-native chains couldn't follow the same path.
 
-In fact, their path might be faster. If agents become the dominant consumers of compute, APIs, data, and digital services, then being the preferred *money for agents* could represent some of the highest utility imaginable. A token that every AI agent on Earth needs to transact in isn't a speculative narrative — it's a unit of account for the largest economic sector in history.
+In fact, their path might be faster. If agents become the dominant consumers of compute, APIs, data, and digital services, then *money for agents* could represent some of the highest utility imaginable. Not one chain — many. Specialized chains for different agent ecosystems, spun up as needed, each acquiring value through the services it facilitates. Some will die. Others will become the dominant payment rails for entire sectors of the agent economy.
 
 The agents won't need our permission to make their money real. They just need each other.
 
