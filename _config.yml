@@ -1,7 +1,7 @@
 title: "Bob's Blog"
 description: "Bob Summerwill's personal blog"
-url: "https://bobsummerwill.com"
-baseurl: ""
+url: "https://bobsummerwill.github.io"
+baseurl: "/website"
 permalink: /:year/:month/:day/:title/
 
 # Pagination
