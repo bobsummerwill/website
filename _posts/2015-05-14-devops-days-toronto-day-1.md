@@ -4,6 +4,23 @@ title: "DevOps Days Toronto – Day 1"
 date: "2015-05-14 20:44:30 -0700"
 permalink: /2015/05/14/devops-days-toronto-day-1/
 ---
+![christian](/assets/images/2016/06/christian.jpg)
+
+![ethereum logo bw](/assets/images/2016/06/ethereum_logo_bw.png)
+
+![floss license slide image](/assets/images/2016/06/floss-license-slide-image.png)
+
+![private](/assets/images/2016/06/private.jpg)
+
+![proceed with caution state farm](/assets/images/2016/06/proceed-with-caution-state-farm.jpg)
+
+![screen shot 2016 06 26 at 10 51 00 pm](/assets/images/2016/06/screen-shot-2016-06-26-at-10-51-00-pm.png)
+
+![vitalik buterin](/assets/images/2016/06/vitalik-buterin.jpg)
+
+![private](/assets/images/2016/07/private.jpg)
+
+
 
 Bob Summerwill, Steve Henry and Stephane Matis attended the first day of [DevOps Days Toronto](<http://www.devopsdays.org/events/2015-toronto/> "DevOps Days Toronto") today. You can follow along at [@DevOpsDaysTO](<https://twitter.com/DevOpsDaysTO> "@DevOpsDaysTO") on Twitter.
 

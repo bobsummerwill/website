@@ -4,6 +4,9 @@ title: "WWDC Day #1 was kind of boring"
 date: "2015-06-08 19:40:45 -0700"
 permalink: /2015/06/08/wwdc-day-1-was-kind-of-boring/
 ---
+![e3 banner 820x420](/assets/images/2015/06/e3_banner-820x420.jpg)
+
+
 
 So that was a bit underwhelming, perhaps because there was no new hardware on display.
 

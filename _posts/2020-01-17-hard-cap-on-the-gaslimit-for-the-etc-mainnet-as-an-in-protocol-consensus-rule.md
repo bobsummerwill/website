@@ -5,6 +5,11 @@ date: "2020-01-17 16:20:33 -0800"
 permalink: /2020/01/17/hard-cap-on-the-gaslimit-for-the-etc-mainnet-as-an-in-protocol-consensus-rule/
 featured_image: /assets/images/2018/08/img_20180801_122417.jpg
 ---
+![private](/assets/images/2016/07/private.jpg)
+
+![screen shot 2020 02 01 at 12.36.19 pm](/assets/images/2020/01/screen-shot-2020-02-01-at-12.36.19-pm.png)
+
+
 
 I have just submitted a pull request to the Ethereum Classic Github repository proposing the following protocol change:
 

@@ -5,6 +5,27 @@ date: "2023-10-17 16:52:20 -0700"
 permalink: /2023/10/17/the-early-days-of-ethereum-videos/
 featured_image: /assets/images/2023/11/image-3.png
 ---
+![2014 07 27 12 45 24](/assets/images/2014/07/2014-07-27-12-45-24.jpg)
+
+![2014 07 27 12 45 32](/assets/images/2014/07/2014-07-27-12-45-32.jpg)
+
+![2014 07 27 12 45 41](/assets/images/2014/07/2014-07-27-12-45-41.jpg)
+
+![2014 07 27 12 52 37](/assets/images/2014/07/2014-07-27-12-52-37.jpg)
+
+![2014 07 27 12 52 47](/assets/images/2014/07/2014-07-27-12-52-47.jpg)
+
+![2014 07 27 12 54 12](/assets/images/2014/07/2014-07-27-12-54-12.jpg)
+
+![2014 07 28 11 43 29](/assets/images/2014/07/2014-07-28-11-43-29.jpg)
+
+![2014 07 28 12 47 11](/assets/images/2014/07/2014-07-28-12-47-11.jpg)
+
+![2014 07 28 16 17 06](/assets/images/2014/07/2014-07-28-16-17-06.jpg)
+
+![img 20140728 114217](/assets/images/2014/07/img_20140728_114217.jpg)
+
+
 
 [Kieren James-Lubin](<https://www.linkedin.com/in/kjameslubin/>), [Victor Wong](<https://www.linkedin.com/in/vic4wong/>) and [James Hormuzdiar](<https://www.linkedin.com/in/james-hormuzdiar-b276778/>), the Co-Founders of [BlockApps](<https://blockapps.net/>), have produced two videos in the last month or so reminiscing on the early days of Ethereum. The videos have been a delight for me to watch. While their journey overlaps with my own, I am learning some things which I did not already know. Their vantage point was slightly different to my own. Recording this history before it is forgotten is very important!
 

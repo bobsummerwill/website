@@ -4,6 +4,13 @@ title: "Visual Studio 2010 TAP (Technology Adoption Program)"
 date: "2014-05-29 00:26:54 -0700"
 permalink: /2014/05/29/visual-studio-2010-tap-technology-adoption-program/
 ---
+![2015 04 29 08 06 17](/assets/images/2015/05/2015-04-29-08-06-17.jpg)
+
+![2015 04 30 17 09 09](/assets/images/2015/05/2015-04-30-17-09-09.jpg)
+
+![2015 05 03 09 06 14](/assets/images/2015/05/2015-05-03-09-06-14.jpg)
+
+
 
 I took part in the Visual Studio 2010 TAP (Technology Adoption Program) back in 2008-2009. That was a fabulous program where MS partners got early access to Visual Studio work-in-progress, plus regular conference calls to provide feedback or ask questions, which would be funneled directly to the development team. It was great!
 

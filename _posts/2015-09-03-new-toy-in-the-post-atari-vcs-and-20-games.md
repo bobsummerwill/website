@@ -4,6 +4,9 @@ title: "New toy “in the post” – Atari VCS and 20 games"
 date: "2015-09-03 14:37:02 -0700"
 permalink: /2015/09/03/new-toy-in-the-post-atari-vcs-and-20-games/
 ---
+![cow sculpture](/assets/images/2015/09/cow_sculpture.jpg)
+
+
 
 Today I have pulled the trigger on a purchase which I have been pondering since I [visited Buy and Sell Kings](https://bobsummerwill.wordpress.com/2015/08/08/vintage-video-games-and-hardware/) a few weeks back.
 

@@ -4,6 +4,9 @@ title: "#TDC2015 – Tizen 3.0 First Milestone – what does that mean?"
 date: "2015-09-16 21:29:51 -0700"
 permalink: /2015/09/16/tdc2015-tizen-3-0-first-milestone-what-does-that-mean/
 ---
+![2015 05 03 09 06 14](/assets/images/2015/05/2015-05-03-09-06-14.jpg)
+
+
 
 The **Tizen Developer Conference** is happening right now in Shenzhen, China.
 

@@ -5,6 +5,9 @@ date: "2020-01-30 15:20:16 -0800"
 permalink: /2020/01/30/fosdem-2020-blockchain-birds-of-a-feather/
 featured_image: /assets/images/2016/06/private.jpg
 ---
+![fist](/assets/images/2020/02/fist.png)
+
+
 
 **UPDATE - We have a room assigned! H.3244 on Sunday 2nd February between 14.30 and 15.30. That is upstairs in the H building which has the info centre, T-shirts and some of the rooms for the talks. Look for the BoF signs pointing in the right way.**
 

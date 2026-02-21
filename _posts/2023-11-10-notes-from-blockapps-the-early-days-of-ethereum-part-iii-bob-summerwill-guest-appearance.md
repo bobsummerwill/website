@@ -5,6 +5,69 @@ date: "2023-11-10 16:56:12 -0800"
 permalink: /2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/
 featured_image: /assets/images/2023/11/image-9.png
 ---
+![20150730 092311](/assets/images/2015/08/20150730_092311.jpg)
+
+![20150730 092316](/assets/images/2015/08/20150730_092316.jpg)
+
+![20150730 093005 copy](/assets/images/2015/08/20150730_093005-copy.jpg)
+
+![20150730 093020 001](/assets/images/2015/08/20150730_093020_001.jpg)
+
+![20150730 100141](/assets/images/2015/08/20150730_100141.jpg)
+
+![20150730 100145](/assets/images/2015/08/20150730_100145.jpg)
+
+![20150730 101932 copy](/assets/images/2015/08/20150730_101932-copy.jpg)
+
+![20150730 102524](/assets/images/2015/08/20150730_102524.jpg)
+
+![20150730 102859](/assets/images/2015/08/20150730_102859.jpg)
+
+![20150730 104442 copy](/assets/images/2015/08/20150730_104442-copy.jpg)
+
+![20150730 104900](/assets/images/2015/08/20150730_104900.jpg)
+
+![20150730 110701 copy](/assets/images/2015/08/20150730_110701-copy.jpg)
+
+![20150730 111333](/assets/images/2015/08/20150730_111333.jpg)
+
+![20150730 111342 copy](/assets/images/2015/08/20150730_111342-copy.jpg)
+
+![20150730 112333](/assets/images/2015/08/20150730_112333.jpg)
+
+![20150730 115414](/assets/images/2015/08/20150730_115414.jpg)
+
+![20150730 123220](/assets/images/2015/08/20150730_123220.jpg)
+
+![20150730 123240](/assets/images/2015/08/20150730_123240.jpg)
+
+![20150730 123241](/assets/images/2015/08/20150730_123241.jpg)
+
+![20150730 123633](/assets/images/2015/08/20150730_123633.jpg)
+
+![20150730 130814 copy](/assets/images/2015/08/20150730_130814-copy.jpg)
+
+![20150730 130816 copy](/assets/images/2015/08/20150730_130816-copy.jpg)
+
+![20150730 131802 copy](/assets/images/2015/08/20150730_131802-copy.jpg)
+
+![20150730 150212](/assets/images/2015/08/20150730_150212.jpg)
+
+![20150730 150649 copy](/assets/images/2015/08/20150730_150649-copy.png)
+
+![20150730 151245](/assets/images/2015/08/20150730_151245.jpg)
+
+![20150730 151256](/assets/images/2015/08/20150730_151256.jpg)
+
+![20150730 151305](/assets/images/2015/08/20150730_151305.jpg)
+
+![20150730 151319](/assets/images/2015/08/20150730_151319.jpg)
+
+![20150730 151357](/assets/images/2015/08/20150730_151357.jpg)
+
+![20150730 152705](/assets/images/2015/08/20150730_152705.jpg)
+
+
 
 Earlier this week I made a guest appearance on the third episode of the "Early Days of Ethereum" series which [Kieren James-Lubin](<https://www.linkedin.com/in/kjameslubin/>), [Victor Wong](<https://www.linkedin.com/in/vic4wong/>) and [James Hormuzdiar](<https://www.linkedin.com/in/james-hormuzdiar-b276778/>), the Co-Founders of [BlockApps](<https://blockapps.net/>) have been making in the past month or two.
 

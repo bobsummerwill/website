@@ -4,6 +4,9 @@ title: "Limitations of the Apple Watch at launch"
 date: "2015-05-07 10:35:24 -0700"
 permalink: /2015/05/07/limitations-of-the-apple-watch-at-launch/
 ---
+![wwdc2015](/assets/images/2015/06/wwdc2015.png)
+
+
 
 [![White_AppleWatch_with_Screen](/website/assets/images/2016/06/white_applewatch_with_screen.png)](/website/assets/images/2016/06/white_applewatch_with_screen.png)
 

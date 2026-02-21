@@ -5,6 +5,57 @@ date: "2018-07-18 10:24:33 -0700"
 permalink: /2018/07/18/bijou-lee-and-bgl-legal-consulting/
 featured_image: /assets/images/2018/07/linkedin.png
 ---
+![img 20180731 153150](/assets/images/2018/08/img_20180731_153150.jpg)
+
+![img 20180731 1601061](/assets/images/2018/08/img_20180731_1601061.jpg)
+
+![img 20180731 211820](/assets/images/2018/08/img_20180731_211820.jpg)
+
+![img 20180801 104607](/assets/images/2018/08/img_20180801_104607.jpg)
+
+![img 20180801 104633](/assets/images/2018/08/img_20180801_104633.jpg)
+
+![img 20180801 105123](/assets/images/2018/08/img_20180801_105123.jpg)
+
+![img 20180801 122417](/assets/images/2018/08/img_20180801_122417.jpg)
+
+![img 20180801 130027](/assets/images/2018/08/img_20180801_130027.jpg)
+
+![img 20180801 145529](/assets/images/2018/08/img_20180801_145529.jpg)
+
+![img 20180801 160422](/assets/images/2018/08/img_20180801_160422.jpg)
+
+![img 20180801 193918 1](/assets/images/2018/08/img_20180801_193918_1.jpg)
+
+![img 20180802 130415](/assets/images/2018/08/img_20180802_130415.jpg)
+
+![img 20180802 140944](/assets/images/2018/08/img_20180802_140944.jpg)
+
+![img 20180802 151342](/assets/images/2018/08/img_20180802_151342.jpg)
+
+![img 20180802 200025](/assets/images/2018/08/img_20180802_200025.jpg)
+
+![img 20180802 201239](/assets/images/2018/08/img_20180802_201239.jpg)
+
+![mvimg 20180731 200040](/assets/images/2018/08/mvimg_20180731_200040.jpg)
+
+![mvimg 20180801 105106](/assets/images/2018/08/mvimg_20180801_105106.jpg)
+
+![mvimg 20180801 111000](/assets/images/2018/08/mvimg_20180801_111000.jpg)
+
+![mvimg 20180801 145511](/assets/images/2018/08/mvimg_20180801_145511.jpg)
+
+![mvimg 20180802 113857 1](/assets/images/2018/08/mvimg_20180802_113857_1.jpg)
+
+![mvimg 20180802 130251](/assets/images/2018/08/mvimg_20180802_130251.jpg)
+
+![mvimg 20180802 161657](/assets/images/2018/08/mvimg_20180802_161657.jpg)
+
+![mvimg 20180802 174434](/assets/images/2018/08/mvimg_20180802_174434.jpg)
+
+![mvimg 20180802 195412](/assets/images/2018/08/mvimg_20180802_195412.jpg)
+
+
 
 **" My lawyer is awesome" - **I bet that isn't something which too many people can say!
 

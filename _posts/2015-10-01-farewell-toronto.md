@@ -4,6 +4,9 @@ title: "Farewell, Toronto!"
 date: "2015-10-01 10:32:39 -0700"
 permalink: /2015/10/01/farewell-toronto/
 ---
+![samsung gear vr](/assets/images/2015/10/samsung_gear_vr.jpg)
+
+
 
 My time in Toronto is coming to an end next week.
 

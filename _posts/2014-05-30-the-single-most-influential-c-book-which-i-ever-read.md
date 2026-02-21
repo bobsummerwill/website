@@ -4,6 +4,9 @@ title: "The single most influential C++ book I ever read"
 date: "2014-05-30 16:03:38 -0700"
 permalink: /2014/05/30/the-single-most-influential-c-book-which-i-ever-read/
 ---
+![20140530 233118](/assets/images/2014/06/20140530_233118.jpg)
+
+
 
 **[Large Scale C++ Software Design](http://stackoverflow.com/questions/1860796/your-thoughts-on-large-scale-c-software-design)** by **John Lakos**.
 

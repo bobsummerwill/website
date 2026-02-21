@@ -4,6 +4,9 @@ title: "My last day at EA"
 date: "2014-05-29 01:27:11 -0700"
 permalink: /2014/05/29/my-last-day-at-ea/
 ---
+![20140528 135800](/assets/images/2014/05/20140528_135800.jpg)
+
+
 
 It is D-Day! Today is my last day at EA! I blogged about my [career move](https://bobsummerwill.wordpress.com/2014/05/15/end-of-an-era/) on the day I resigned.
 

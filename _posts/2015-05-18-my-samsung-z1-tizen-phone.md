@@ -4,6 +4,17 @@ title: "My Samsung Z1 Tizen phone"
 date: "2015-05-18 03:15:11 -0700"
 permalink: /2015/05/18/my-samsung-z1-tizen-phone/
 ---
+![2015 06 01 09 04 27](/assets/images/2015/05/2015-06-01-09-04-27.jpg)
+
+![2015 06 01 09 04 31](/assets/images/2015/05/2015-06-01-09-04-31.jpg)
+
+![2015 06 01 09 04 34](/assets/images/2015/05/2015-06-01-09-04-34.jpg)
+
+![2015 06 01 18 34 38](/assets/images/2015/05/2015-06-01-18-34-38.jpg)
+
+![img 20150601 00047](/assets/images/2015/05/img-20150601-00047.jpg)
+
+
 
 I belatedly bought a Samsung Z1 smartphone from a reseller in India via eBay, and have made a video showing the phone.
 

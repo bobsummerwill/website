@@ -5,6 +5,9 @@ date: "2018-08-15 23:18:47 -0700"
 permalink: /2018/08/15/hyperledger-tsc-candidates-and-thoughts-on-diversity/
 featured_image: /assets/images/2018/08/horses.jpg
 ---
+![finish](/assets/images/2018/08/finish.jpg)
+
+
 
 The candidates for the Hyperledger Technical Steering Committee (TSC) elections were announced today, together with everybody's one page "pitches", including [my own](<https://bobsummerwill.com/2018/08/09/self-nomination-for-hyperledger-tsc/>):
 

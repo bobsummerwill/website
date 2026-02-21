@@ -4,6 +4,9 @@ title: "So long and thanks for all the cheers"
 date: "2015-06-18 08:52:24 -0700"
 permalink: /2015/06/18/so-long-and-thanks-for-all-the-cheers/
 ---
+![berlin wall](/assets/images/2015/06/berlin_wall.jpg)
+
+
 
 [![titanium_pen_inhand_black](/website/assets/images/2015/06/titanium_pen_inhand_black.jpg)](/website/assets/images/2015/06/titanium_pen_inhand_black.jpg)
 

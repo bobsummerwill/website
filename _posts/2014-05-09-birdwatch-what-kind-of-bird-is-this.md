@@ -4,6 +4,9 @@ title: "Birdwatch!   What kind of bird is this?"
 date: "2014-05-09 09:00:21 -0700"
 permalink: /2014/05/09/birdwatch-what-kind-of-bird-is-this/
 ---
+![photo 41](/assets/images/2014/05/photo-41.jpg)
+
+
 
 Birdwatch continues! Can anybody identify this bird?
 

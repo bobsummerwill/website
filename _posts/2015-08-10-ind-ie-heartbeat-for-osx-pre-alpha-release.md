@@ -4,6 +4,11 @@ title: "Ind.ie Heartbeat for OSX – pre-alpha release"
 date: "2015-08-10 18:12:36 -0700"
 permalink: /2015/08/10/ind-ie-heartbeat-for-osx-pre-alpha-release/
 ---
+![bq aquarius 4 5 ubuntu edition](/assets/images/2015/08/bq_aquarius_4-5_ubuntu_edition.jpg)
+
+![meizu mx4 ubuntu golden](/assets/images/2015/08/meizu-mx4-ubuntu-golden.png)
+
+
 
 Today is a long awaited day for me and many others - the first [public release](https://forum.ind.ie/t/heartbeat-pre-alpha-update/164) of [Ind.ie](https://www.ind.ie/)'s [Heartbeat](https://www.ind.ie/about/vision/) client for OSX. What is that? It is a social network client which does not spy on you. It is the first step in a journey to **" create a peer-to-peer consumer platform to empower you to share the things that matter to you with the people you care about"**
 

@@ -5,6 +5,17 @@ date: "2025-12-31 07:10:00 -0800"
 permalink: /2025/12/31/donald-mcintyre/
 featured_image: /assets/images/2025/12/donald-and-bob.png
 ---
+![2015 05 15 21 38 03](/assets/images/2015/05/2015-05-15-21-38-03.jpg)
+
+![2015 05 15 21 38 14](/assets/images/2015/05/2015-05-15-21-38-14.jpg)
+
+![2015 05 15 21 38 27](/assets/images/2015/05/2015-05-15-21-38-27.jpg)
+
+![2015 05 15 21 39 03](/assets/images/2015/05/2015-05-15-21-39-03.jpg)
+
+![2015 05 15 21 39 09](/assets/images/2015/05/2015-05-15-21-39-09.jpg)
+
+
 
 **Content note:** This post discusses suicide, mental health struggles, and grief.
 

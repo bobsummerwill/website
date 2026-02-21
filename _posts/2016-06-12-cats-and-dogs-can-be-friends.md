@@ -5,6 +5,11 @@ date: "2016-06-12 07:37:17 -0700"
 permalink: /2016/06/12/cats-and-dogs-can-be-friends/
 featured_image: /assets/images/2016/06/image20160518_172203051.jpg
 ---
+![apache](/assets/images/2016/06/apache.gif)
+
+![cpp](/assets/images/2016/06/cpp.png)
+
+
 
 A couple of weeks back, I had the pleasure of making a number of new friends and acquaintances while I was in Austin, Texas for the [OSCON 2016 Open Source Conference](http://conferences.oreilly.com/oscon/open-source-us).
 

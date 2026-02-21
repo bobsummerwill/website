@@ -5,6 +5,15 @@ date: "2018-03-10 01:22:34 -0800"
 permalink: /2018/03/10/ethereum-community-conference-2018-day-2/
 featured_image: /assets/images/2018/03/mvimg_20180309_0921457575427668156730580.jpg
 ---
+![ash](/assets/images/2018/03/ash.jpg)
+
+![faith](/assets/images/2018/03/faith.jpg)
+
+![faith](/assets/images/2018/03/faith.jpg)
+
+![mvimg 20180306 1844155731076349108026873](/assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg)
+
+
 
 Day 2 of the Ethereum Community Conference saw the inaugural session of the Followship of Ethereum Wizards, initiated by Greg Colvin and Jamie Pitts.
 

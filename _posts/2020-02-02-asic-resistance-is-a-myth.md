@@ -5,6 +5,17 @@ date: "2020-02-02 05:59:14 -0700"
 permalink: /2020/02/02/asic-resistance-is-a-myth/
 featured_image: /assets/images/2020/02/fist.png
 ---
+![explainer 1](/assets/images/2022/10/explainer-1.png)
+
+![flow](/assets/images/2022/10/flow.png)
+
+![glossary](/assets/images/2022/10/glossary.png)
+
+![letter to ft](/assets/images/2022/10/letter-to-ft.jpg)
+
+![order3](/assets/images/2022/10/order3.png)
+
+
 
 "ASIC resistance" is a myth. The author rejects that myth as do many other individuals within the ETC ecosystem.
 

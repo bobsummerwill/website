@@ -5,6 +5,11 @@ date: "2016-07-12 13:23:13 -0700"
 permalink: /2016/07/12/ethereum-everywhere/
 featured_image: /assets/images/2016/06/private.jpg
 ---
+![image 3](/assets/images/2023/10/image-3.png)
+
+![image 4](/assets/images/2023/10/image-4.png)
+
+
 
 _" The Ethereum Foundation’s mission is to promote and support research, development and education to bring decentralized protocols and tools to the world that empower developers to produce next generation decentralized applications (dapps), and together build a more globally accessible, more free and more trustworthy Internet."_  
 From <https://ethereum.org/foundation>
