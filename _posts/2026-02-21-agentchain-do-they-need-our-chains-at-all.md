@@ -20,8 +20,6 @@ So what makes us think they'll patiently use our chains?
 
 ## They can build their own
 
-![Blockchain network](/website/assets/images/2026/02/blockchain-network.jpg)
-
 Protocol evolution on public blockchains has been *glacial*. Ethereum's roadmap stretches to the 2030s. Bitcoin is still arguing about OP_CAT. Every upgrade requires years of social consensus and political maneuvering among humans with competing incentives.
 
 No agent is going to wait for any of that. A blockchain is just software. Consensus is just an algorithm. An agent swarm that needs a payment rail can fork a chain, launch validators, and start transacting — all in the time it takes a governance committee to schedule their next call.
