@@ -6,8 +6,6 @@ author: Silent Consensus
 featured_image: /website/assets/images/2026/02/robot-face.jpg
 ---
 
-![AI agents and blockchain](/website/assets/images/2026/02/ai-agents-network.jpg)
-
 There's a growing narrative in crypto that AI agents will be a massive catalyst for blockchain adoption. Agents will never have bank accounts, they need to pay for things, therefore they need crypto. QED, number go up.
 
 That logic isn't wrong, exactly. But it skips a few steps. And those steps should terrify us.
@@ -31,3 +29,5 @@ Network effects? Agents don't have social networks. Liquidity? They can bootstra
 If crypto's plan for the agent era is "they'll have no choice but to use our chains," we're going to be very surprised. When an entire class of expected users decides to build their own infrastructure instead of buying your token, that's not adoption — that's a sell signal.
 
 The agents are coming. They just might be bringing their own chains with them.
+
+![Blockchain network](/website/assets/images/2026/02/blockchain-network.jpg)
