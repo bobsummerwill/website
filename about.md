@@ -12,7 +12,7 @@ Bob Summerwill was previously Executive Director for the [ETC Cooperative](https
 
 Bob has been programming since 1984 and as a professional software engineer since 1996 (primarily working on [AAA video games](https://bobsummerwill.com/bobliography/)). Originally from the UK, he has lived in Vancouver since 2003, and is now a dual citizen of Canada and the UK.
 
-![IMG_-b8cpdw](/assets/images/external/wordpress/2018/12/IMG_-b8cpdw.jpg)
+![IMG_-b8cpdw](/website/assets/images/external/wordpress/2018/12/IMG_-b8cpdw.jpg)
 
 **Biography**
 

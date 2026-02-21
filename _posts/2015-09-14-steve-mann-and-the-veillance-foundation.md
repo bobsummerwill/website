@@ -7,7 +7,7 @@ permalink: /2015/09/14/steve-mann-and-the-veillance-foundation/
 
 Last week I had the pleasure of talking to [Steve Mann](https://en.wikipedia.org/wiki/Steve_Mann), a personal hero of mine who "lives in the future". Start exploring from his Wikipedia page and prepare to lose many hours of your life learning about everything he has achieved, starting back in the 1980s.
 
-[![steve_mann](/assets/images/2015/09/steve_mann.jpg)](/assets/images/2015/09/steve_mann.jpg)
+[![steve_mann](/website/assets/images/2015/09/steve_mann.jpg)](/website/assets/images/2015/09/steve_mann.jpg)
 
 He was speaking at the [We Are Wearables September 2015 Meetup "Capturing the Future"](http://www.meetup.com/Wearable-Wednesday-Toronto/events/224727239/) here in Toronto, introducing the **Declaration of Veillance** and announcing the **Veillance Foundation**.
 
@@ -23,8 +23,8 @@ He was speaking at the [We Are Wearables September 2015 Meetup "Capturing the Fu
 
 Support your own freedom in the future which will be with us soon. Mail **[veillance@eyetap.org](mailto:veillance@eyetap.org)** to get involved.
 
-[![SurSousveillanceByStephanieMannAge6_signed](/assets/images/2015/09/sursousveillancebystephaniemannage6_signed.png)](/assets/images/2015/09/sursousveillancebystephaniemannage6_signed.png)
+[![SurSousveillanceByStephanieMannAge6_signed](/website/assets/images/2015/09/sursousveillancebystephaniemannage6_signed.png)](/website/assets/images/2015/09/sursousveillancebystephaniemannage6_signed.png)
 
 Here is Steve presenting at TEDx on [Society of Sensularity with a Sixth Sense](http://blog.getameta.com/professor-steve-mann-society-of-sensularity-with-a-sixth-sense/).
 
-[![steve_mann_tedx](/assets/images/2015/09/steve_mann_tedx.png)](/assets/images/2015/09/steve_mann_tedx.png)
+[![steve_mann_tedx](/website/assets/images/2015/09/steve_mann_tedx.png)](/website/assets/images/2015/09/steve_mann_tedx.png)

@@ -11,16 +11,16 @@ We bumped into **Alice Lee** who was making a video for the **TDS Multimedia Tea
 
 Nice to have some fun and socializing within a work context. We should do such things every week, not just once per year 🙂
 
-[![2015-06-02 09.01.16](/assets/images/2015/06/2015-06-02-09-01-16.jpg)](/assets/images/2015/06/2015-06-02-09-01-16.jpg)
+[![2015-06-02 09.01.16](/website/assets/images/2015/06/2015-06-02-09-01-16.jpg)](/website/assets/images/2015/06/2015-06-02-09-01-16.jpg)
 
-[![2015-06-02 12.12.31](/assets/images/2015/06/2015-06-02-12-12-31.jpg)](/assets/images/2015/06/2015-06-02-12-12-31.jpg)
+[![2015-06-02 12.12.31](/website/assets/images/2015/06/2015-06-02-12-12-31.jpg)](/website/assets/images/2015/06/2015-06-02-12-12-31.jpg)
 
-[![2015-06-02 12.12.36](/assets/images/2015/06/2015-06-02-12-12-36.jpg)](/assets/images/2015/06/2015-06-02-12-12-36.jpg)
+[![2015-06-02 12.12.36](/website/assets/images/2015/06/2015-06-02-12-12-36.jpg)](/website/assets/images/2015/06/2015-06-02-12-12-36.jpg)
 
-[![2015-06-02 12.13.05](/assets/images/2015/06/2015-06-02-12-13-05.jpg)](/assets/images/2015/06/2015-06-02-12-13-05.jpg)
+[![2015-06-02 12.13.05](/website/assets/images/2015/06/2015-06-02-12-13-05.jpg)](/website/assets/images/2015/06/2015-06-02-12-13-05.jpg)
 
-[![2015-06-02 12.12.45](/assets/images/2015/06/2015-06-02-12-12-45.jpg)](/assets/images/2015/06/2015-06-02-12-12-45.jpg)
+[![2015-06-02 12.12.45](/website/assets/images/2015/06/2015-06-02-12-12-45.jpg)](/website/assets/images/2015/06/2015-06-02-12-12-45.jpg)
 
-[![2015-06-02 12.12.22](/assets/images/2015/06/2015-06-02-12-12-22.jpg)](/assets/images/2015/06/2015-06-02-12-12-22.jpg)
+[![2015-06-02 12.12.22](/website/assets/images/2015/06/2015-06-02-12-12-22.jpg)](/website/assets/images/2015/06/2015-06-02-12-12-22.jpg)
 
-[![2015-06-02 12.14.04](/assets/images/2015/06/2015-06-02-12-14-04.jpg)](/assets/images/2015/06/2015-06-02-12-14-04.jpg)
+[![2015-06-02 12.14.04](/website/assets/images/2015/06/2015-06-02-12-14-04.jpg)](/website/assets/images/2015/06/2015-06-02-12-14-04.jpg)

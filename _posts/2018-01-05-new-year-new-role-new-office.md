@@ -9,9 +9,9 @@ permalink: /2018/01/05/new-year-new-role-new-office/
 
 2018 sees a few changes in my daily routine. All good ones 🙂
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/assets/images/2018/01/mvimg_20180102_105057.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/website/assets/images/2018/01/mvimg_20180102_105057.jpg)
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/assets/images/2018/01/mvimg_20180102_105125.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/website/assets/images/2018/01/mvimg_20180102_105125.jpg)
 
 The first change is a physical one. After a year or so working out of coffee shop turned Mexican cafe [Tapatio Mexican Cafe and Bar](https://www.google.ca/maps/place/Tapatio+Mexican+Cafe+%26+Bar/@49.2746561,-123.1649888,15z/data=!4m5!3m4!1s0x548673b2a97f5f61:0xd6a1c67222df589c!8m2!3d49.2682044!4d-123.166208?hl=en) in Kitsilano, I have switched to an office in the Vancouver Financial District with Frontier Foundry. It's got a great view, and it is a nice change of pace to be Downtown.
 
@@ -27,7 +27,7 @@ Then I took my first trip to Phoenix (which I also owe the world a blog post abo
 
 On my second trip to Phoenix on November 20th I got to speak to Scott Nelson face-to-face for the first time. In a conversation I had with [Hamid Moutawakkil](https://www.linkedin.com/in/moutawakkil/), Hamid made an excellent point. "Bob, with all the experience you have and value you can bring to Sweetbridge, why are you writing Jenkinsfiles?" He was spot on. I was in the wrong place in the organization. Scott agreed, but it has ended up taking another month or so to get from that conversation to my switch of role. So I am delighted to now be:
 
-![Screen Shot 2018-01-05 at 4.20.36 AM](/assets/images/2018/01/screen-shot-2018-01-05-at-4-20-36-am.png)
+![Screen Shot 2018-01-05 at 4.20.36 AM](/website/assets/images/2018/01/screen-shot-2018-01-05-at-4-20-36-am.png)
 
 This could be seen as me finally "hanging up my boots" as an individual contributor and professional software engineer and moving "into management". In paradigms past I would be a miserable middle manager now. In this new paradigm it actually means that I get to spend my time talking to fascinating people around the world about the cool projects they are working on, and connecting them to others doing similar things. It means I am spending time engaging with our community, and building alliances and bridges with the EEA, Hyperledger, Microsoft, IBM, ConsenSys and building up the [Sweetbridge Alliance](https://www.sweetbridge.com/alliance). It is going to be absolutely delightful 🙂
 
@@ -41,10 +41,10 @@ During 2015 and 2016 I was hardly part of the Vancouver blockchain scene. All my
 
 I will blog more about Frontier Foundry and these BC and Canadian initiatives in the future. In the meantime, here are a few photos of [Boris Mann](https://www.linkedin.com/in/boris/) (CEO), [Tom Carchrae](https://www.linkedin.com/in/carchrae/) (CTO) and [Chelsea Palmer](https://www.linkedin.com/in/chelsea-palmer-79280ab5/) (Community), just a few of the growing Frontier gang.
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/assets/images/2018/01/mvimg_20171124_152722.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/website/assets/images/2018/01/mvimg_20171124_152722.jpg)
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/assets/images/2018/01/mvimg_20171124_150616.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/website/assets/images/2018/01/mvimg_20171124_150616.jpg)
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/assets/images/2018/01/mvimg_20171124_152730.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/website/assets/images/2018/01/mvimg_20171124_152730.jpg)
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/assets/images/2018/01/mvimg_20171115_222242.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E:Y](/website/assets/images/2018/01/mvimg_20171115_222242.jpg)

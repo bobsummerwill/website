@@ -11,11 +11,11 @@ Greetings! My name is [Bob Summerwill](https://bobsummerwill.com/about/) and I w
 
 [ASIDE - What is Ethereum?](https://ethereum.karalabe.com/talks/2016-hinta-en.html#1)
 
-![bob](/assets/images/2014/05/bob.jpeg)
+![bob](/website/assets/images/2014/05/bob.jpeg)
 
 I have been scheming for the last few weeks to arrange a one-off Blockchain Meetup to coincide with [OSCON 2016](http://conferences.oreilly.com/oscon/open-source-us), in Austin, TX, on the evening of Wednesday 18th May.
 
-![ba-oscon16-520x292_0](/assets/images/2016/04/ba-oscon16-520x292_0.png)
+![ba-oscon16-520x292_0](/website/assets/images/2016/04/ba-oscon16-520x292_0.png)
 
 I will be in town myself for OSCON, and I thought that individuals working on other blockchain and DLT projects might well be in the same position, and it would be rude to pass up the opportunity to get together and meet-and-greet!
 
@@ -34,7 +34,7 @@ So I contacted:
 
 And I think we're onto a winner. Everybody is up for it!
 
-![highres_198764252](/assets/images/2016/04/highres_198764252.jpeg)![member_166192632](/assets/images/2016/04/member_166192632.jpeg)![brachypelma_smithi_2009_g03](/assets/images/2016/04/brachypelma_smithi_2009_g03.jpg)![aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng](/assets/images/2016/04/aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng.jpg)
+![highres_198764252](/website/assets/images/2016/04/highres_198764252.jpeg)![member_166192632](/website/assets/images/2016/04/member_166192632.jpeg)![brachypelma_smithi_2009_g03](/website/assets/images/2016/04/brachypelma_smithi_2009_g03.jpg)![aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng](/website/assets/images/2016/04/aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng.jpg)
 
 The provisional plan is for [Factom](http://factom.org/) to host the session at their offices (thank you, Paul!) maybe around 7pm.
 

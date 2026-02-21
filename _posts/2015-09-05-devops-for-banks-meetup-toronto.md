@@ -5,7 +5,7 @@ date: "2015-09-05 06:20:49 -0700"
 permalink: /2015/09/05/devops-for-banks-meetup-toronto/
 ---
 
-[![cow_sculpture](/assets/images/2015/09/cow_sculpture.jpg)](/assets/images/2015/09/cow_sculpture.jpg)  
+[![cow_sculpture](/website/assets/images/2015/09/cow_sculpture.jpg)](/website/assets/images/2015/09/cow_sculpture.jpg)  
   
 **(TL;DR** - Sign up for the first ever [DevOps for Banks Meetup](https://www.meetup.com/DevOpsTO/events/225116642/) in Toronto, on the evening of Tuesday 15th September.)
 

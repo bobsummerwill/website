@@ -11,19 +11,19 @@ The inaugural [DevOps For Banks Meetup](http://www.meetup.com/DevOpsTO/events/22
 
 We'll have to do it again, eh?
 
-[![20150915_185440](/assets/images/2015/09/20150915_185440.jpg)](/assets/images/2015/09/20150915_185440.jpg)
+[![20150915_185440](/website/assets/images/2015/09/20150915_185440.jpg)](/website/assets/images/2015/09/20150915_185440.jpg)
 
-[![20150915_182616](/assets/images/2015/09/20150915_182616.jpg)](/assets/images/2015/09/20150915_182616.jpg)
+[![20150915_182616](/website/assets/images/2015/09/20150915_182616.jpg)](/website/assets/images/2015/09/20150915_182616.jpg)
 
-[![20150915_183647](/assets/images/2015/09/20150915_183647.jpg)](/assets/images/2015/09/20150915_183647.jpg)
+[![20150915_183647](/website/assets/images/2015/09/20150915_183647.jpg)](/website/assets/images/2015/09/20150915_183647.jpg)
 
-[![20150915_185329](/assets/images/2015/09/20150915_185329.jpg)](/assets/images/2015/09/20150915_185329.jpg)
+[![20150915_185329](/website/assets/images/2015/09/20150915_185329.jpg)](/website/assets/images/2015/09/20150915_185329.jpg)
 
-[![20150915_190120](/assets/images/2015/09/20150915_190120.jpg)](/assets/images/2015/09/20150915_190120.jpg)
+[![20150915_190120](/website/assets/images/2015/09/20150915_190120.jpg)](/website/assets/images/2015/09/20150915_190120.jpg)
 
-[![20150915_190310](/assets/images/2015/09/20150915_190310.jpg)](/assets/images/2015/09/20150915_190310.jpg)
+[![20150915_190310](/website/assets/images/2015/09/20150915_190310.jpg)](/website/assets/images/2015/09/20150915_190310.jpg)
 
-[![20150915_213515](/assets/images/2015/09/20150915_213515.jpg)](/assets/images/2015/09/20150915_213515.jpg)
+[![20150915_213515](/website/assets/images/2015/09/20150915_213515.jpg)](/website/assets/images/2015/09/20150915_213515.jpg)
 
 <http://www.meetup.com/DevOpsTO/events/225116642/>
 

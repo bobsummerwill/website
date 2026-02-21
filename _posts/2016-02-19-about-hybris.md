@@ -5,7 +5,7 @@ date: "2016-02-19 10:46:59 -0800"
 permalink: /2016/02/19/about-hybris/
 ---
 
-![croppedimage608342-hubris1](/assets/images/2016/02/croppedimage608342-hubris1.jpg)
+![croppedimage608342-hubris1](/website/assets/images/2016/02/croppedimage608342-hubris1.jpg)
 
 **Want to run Linux on a mobile SoC?**
 

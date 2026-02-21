@@ -7,7 +7,7 @@ permalink: /2019/09/12/ethereum-classic-atlantis-hard-fork/
 
 This morning, Ethereum Classic successfully implemented the Atlantis hard fork at block height # 8,772,000. We would like to take this opportunity to highlight the significance of Atlantis. First, ETC is engaged in robust technical development and innovation. The fork is a major upgrade for the network and brings the Byzantium and Spurious Dragon upgrades from Ethereum to Ethereum Classic. It makes the blockchain more stable and secure. This is the first of several upgrades currently being built on ETC with developers and the community.
 
-![atlantis.jpeg](/assets/images/2019/09/atlantis.jpeg)
+![atlantis.jpeg](/website/assets/images/2019/09/atlantis.jpeg)
 
 Second, Atlantis reflects genuine consensus. It is the result of collaboration with all stakeholders who had an opportunity to debate and analyze the impact of the hard fork, and who undertook the hard work of coming to agreement in a diverse and decentralized network.
 

@@ -5,7 +5,7 @@ date: "2015-07-10 01:18:44 -0700"
 permalink: /2015/07/10/will-microsoft-open-source-windows/
 ---
 
-![](/assets/images/external/misc/Windows_8.1_Start_screen.jpg)
+![](/website/assets/images/external/misc/Windows_8.1_Start_screen.jpg)
 
 My spidey-sense is telling me that Microsoft are going to open-source Windows within the next 12-24 months. That would be quite the pivot, wouldn't it? But I think that is how things will pan out.
 

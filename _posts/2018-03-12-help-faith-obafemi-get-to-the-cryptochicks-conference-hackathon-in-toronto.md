@@ -6,13 +6,13 @@ permalink: /2018/03/12/help-faith-obafemi-get-to-the-cryptochicks-conference-hac
 featured_image: /assets/images/2018/07/faith.jpg
 ---
 
-![faith](/assets/images/2018/07/faith.jpg)
+![faith](/website/assets/images/2018/07/faith.jpg)
 
 [Faith Obafemi](https://www.linkedin.com/in/faithobafemi/) is from Nigeria and is very, very multi-talented **( "Digital Lawyer || Digital Content Consultant || Blockchain and Crypto Researcher || Freelance Writer")**.
 
 I was first introduced to her earlier this year by [Ash Nazir](https://www.linkedin.com/in/ashnazir/) who runs the [IoTGadgets](http://iotgadgets.com) website which I wrote some articles for in its prior life as Tizen Experts, in my own prior life as a mobile and wearable developer, between my videogames and my Ethereum periods, and where Faith now writes.
 
-![ash](/assets/images/2018/03/ash.jpg)
+![ash](/website/assets/images/2018/03/ash.jpg)
 
 Faith's output there has swamped my efforts 🙂
 
@@ -25,7 +25,7 @@ When she started writing about blockchain, Ash connected us, and we started talk
 
 Faith has been accepted as a speaker on **" Crypto Regulations that Protect Investors"** at the [CryptoChicks hackathon and conference](http://cryptochickshackathon.com/) in Toronto, April 6-8, 2018, but there are no expenses provided for travel and accommodation. I think that Faith is a hugely important person to have to the conference given her unique skills, and also as a pioneering African woman in law, technology and blockchain.
 
-![mvimg_20180306_1844155731076349108026873.jpg](/assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg)
+![mvimg_20180306_1844155731076349108026873.jpg](/website/assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg)
 
 _(Bob with[Elena Sinelnikova](https://www.linkedin.com/in/esinelnikova/) and [Natalia Ameline](https://www.linkedin.com/in/natalia-ameline-3475703/) of CryptoChicks in Toronto March 2018)_
 

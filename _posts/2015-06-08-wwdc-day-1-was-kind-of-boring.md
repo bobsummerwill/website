@@ -7,7 +7,7 @@ permalink: /2015/06/08/wwdc-day-1-was-kind-of-boring/
 
 So that was a bit underwhelming, perhaps because there was no new hardware on display.
 
-[![wwdc2015](/assets/images/2015/06/wwdc2015.png)](/assets/images/2015/06/wwdc2015.png)
+[![wwdc2015](/website/assets/images/2015/06/wwdc2015.png)](/website/assets/images/2015/06/wwdc2015.png)
 
 Here is [Everything Apple Announced at WWDC 2015 in One Handy List](http://thenextweb.com/apple/2015/06/08/everything-apple-announced-at-wwdc-2015-in-one-handy-list/).
 

@@ -7,7 +7,7 @@ permalink: /2014/05/30/the-single-most-influential-c-book-which-i-ever-read/
 
 **[Large Scale C++ Software Design](http://stackoverflow.com/questions/1860796/your-thoughts-on-large-scale-c-software-design)** by **John Lakos**.
 
-[![20140528_135800](/assets/images/2014/05/20140528_135800.jpg)](/assets/images/2014/05/20140528_135800.jpg)
+[![20140528_135800](/website/assets/images/2014/05/20140528_135800.jpg)](/website/assets/images/2014/05/20140528_135800.jpg)
 
 This is the most important book which any C++ programmer could read, and most people have never even heard of it.
 

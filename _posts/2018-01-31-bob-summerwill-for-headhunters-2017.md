@@ -5,7 +5,7 @@ date: "2018-01-31 07:38:54 -0700"
 permalink: /2018/01/31/bob-summerwill-for-headhunters-2017/
 ---
 
-![downtown](/assets/images/2018/01/downtown.jpg)
+![downtown](/website/assets/images/2018/01/downtown.jpg)
 
 _[Downtown Vancouver. Image via Flickr Creative Commons, by JamesZ_Flickr]_
 

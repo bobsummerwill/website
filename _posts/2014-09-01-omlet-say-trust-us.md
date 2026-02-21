@@ -7,7 +7,7 @@ permalink: /2014/09/01/omlet-say-trust-us/
 
 This is a very belated follow-up to [MobiSocial do not understand decentralization and trust"](https://bobsummerwill.wordpress.com/2014/06/10/mobisocial-do-not-understand-decentralization-and-trust/) which I posted on June 10th.
 
-![](/assets/images/2016/06/Omlet.png)
+![](/website/assets/images/2016/06/Omlet.png)
 
 On June 12th [T.J.Purcell](http://twitter.com/wrldsuksgo2mars), their CTO, wrote ["Why giving consumers data ownership is hard"](http://blog.omlet.me/post/88623218014/why-giving-consumers-data-ownership-is-hard), at least partially in response to my article.
 

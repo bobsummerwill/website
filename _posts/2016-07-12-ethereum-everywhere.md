@@ -9,7 +9,7 @@ featured_image: /assets/images/2016/06/private.jpg
 _" The Ethereum Foundation’s mission is to promote and support research, development and education to bring decentralized protocols and tools to the world that empower developers to produce next generation decentralized applications (dapps), and together build a more globally accessible, more free and more trustworthy Internet."_  
 From <https://ethereum.org/foundation>
 
-![Ethereum_logo_bw](/assets/images/2016/06/ethereum_logo_bw.png)
+![Ethereum_logo_bw](/website/assets/images/2016/06/ethereum_logo_bw.png)
 
 ## TL;DR - What are you proposing?
 
@@ -27,9 +27,9 @@ Ethereum is much more than "a better cryptocurrency". Ether is the fuel for the 
 
 We have the opportunity to build a set of technologies in the next few years which could have similar societal impacts as the Internet, the World Wide Web and open source languages, relational databases, etc. We are building a decentralized computing platform which every individual on Earth should benefit from.
 
-[ ![tim](/assets/images/2016/06/tim.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/tim/>)
+[ ![tim](/website/assets/images/2016/06/tim.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/tim/>)
 
-[ ![linus-torvalds-ted](/assets/images/2016/06/linus-torvalds-ted.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/linus-torvalds-ted/>)
+[ ![linus-torvalds-ted](/website/assets/images/2016/06/linus-torvalds-ted.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/linus-torvalds-ted/>)
 
 These technologies need to reach into every nook and cranny of our computing fabric: big and small, public and private, independent and corporate; smartwatches to mainframes.
 
@@ -40,7 +40,7 @@ These technologies need to reach into every nook and cranny of our computing fab
 
 ## Why do private and consortium chains matter?
 
-![private](/assets/images/2016/06/private.jpg)
+![private](/website/assets/images/2016/06/private.jpg)
 
 _" It is important to note that while the original Ethereum blockchain is a public blockchain, the Ethereum state transition rules (i.e. the part of the protocol that deals with processing transactions, executing contract code, etc.) can be separated from the Ethereum public blockchain consensus algorithm (i.e. proof of work), and it is entirely possible to create private (run by one node controlled by one company) or consortium (run by a pre- specified set of nodes) blockchains that run the Ethereum code."_
 
@@ -48,7 +48,7 @@ _" Ethereum technology itself is thus arguably agnostic between whether it's app
 
 Vitalik Buterin, Ethereum Platform Review paper
 
-![vitalik-buterin](/assets/images/2016/06/vitalik-buterin.jpg)
+![vitalik-buterin](/website/assets/images/2016/06/vitalik-buterin.jpg)
 
 Many individuals and companies, large and small, see that opportunity the Ethereum platform has to offer, and are equally supportive of and inspired by the technical vision, even if their business goals vary dramatically. Public chains and private or consortium chains will likely end up having a lot more in common than meets the eye.
 
@@ -85,9 +85,9 @@ Some articles from Vitalik Buterin on private and consortium blockchains:
 
 Software licensing is obviously somewhat of a religious matter, but there are practical reasons to favor permissive licenses for low-level components like Ethereum.
 
-[ ![stallman](/assets/images/2016/06/stallman.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/stallman/>)
+[ ![stallman](/website/assets/images/2016/06/stallman.jpg) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/stallman/>)
 
-[ ![raymond](/assets/images/2016/06/raymond.jpg?w=246&h=369&ssl=1) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/raymond/>)
+[ ![raymond](/website/assets/images/2016/06/raymond.jpg?w=246&h=369&ssl=1) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/raymond/>)
 
 Beyond incompatibility between the GPL and corporate business models there are practical ways in which the GPL reduces Ethereum's reach. The author was witness to these restrictions in his "past life" as a video games developer.
 
@@ -130,7 +130,7 @@ There are numerous permissive software licenses which are [OSI approved](<https:
 
  
 
-![Floss-license-slide-image](/assets/images/2016/06/floss-license-slide-image.png)
+![Floss-license-slide-image](/website/assets/images/2016/06/floss-license-slide-image.png)
 
 See [License compatibility](<https://en.wikipedia.org/wiki/License_compatibility>) from Wikipedia.
 
@@ -154,15 +154,15 @@ _" Please note that this license is not compatible with GPL version 2, because i
 
 The Ethereum C++ project has spent the last few months rebooting under the leadership of [Christian Reitwießner](<https://github.com/chriseth>), who is probably best known as the lead developer on Solidity, but also leads work on Mix, Remix and on the C++ client.
 
-![christian](/assets/images/2016/06/christian.jpg)
+![christian](/website/assets/images/2016/06/christian.jpg)
 
 A number of the original C++ development team departed last year, with Christian, [Yann Levreau](<https://github.com/yann300>), [Liana Husikyan](<https://github.com/LianaHus>) and [Dimitry Khoklov](<https://github.com/winsvega/>) staying on. [Bob Summerwill](<https://github.com/bobsummerwill>) and [Greg Colvin](<https://github.com/gcolvin>) were added to the team in February, and [Paweł Bylica](<https://github.com/chfast>) rejoined the Foundation in March.
 
 Christian has blogged about our progress in [February](<https://blog.ethereum.org/2016/02/12/ethereum-dev-update-c-roadmap/>), [May](<https://blog.ethereum.org/2016/05/04/c-dev-update-announcing-remix/>) and [July](<https://blog.ethereum.org/2016/07/08/c-dev-update-summer-edition/>).
 
-[ ![cpp](/assets/images/2016/06/cpp.png) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/cpp/>)
+[ ![cpp](/website/assets/images/2016/06/cpp.png) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/cpp/>)
 
-[ ![eth](/assets/images/2016/06/eth.png) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/eth/>)
+[ ![eth](/website/assets/images/2016/06/eth.png) ](<http://bobsummerwill.com/2016/07/12/ethereum-everywhere/eth/>)
 
 We are on the verge of [finally decoupling Solidity, (Re)Mix and Eth](<http://github.com/ethereum/webthree-umbrella/issues/639>), so that we have three entirely independent projects - one runtime, two tooling.
 
@@ -202,7 +202,7 @@ With permissive licensing, work in any of these "C++ buckets" could proceed in p
 
 ## Corporations don't love you or hate you
 
-![Screen Shot 2016-06-26 at 10.51.00 PM](/assets/images/2016/06/screen-shot-2016-06-26-at-10-51-00-pm.png)
+![Screen Shot 2016-06-26 at 10.51.00 PM](/website/assets/images/2016/06/screen-shot-2016-06-26-at-10-51-00-pm.png)
 
 Technology companies are now **the** [largest corporations in the world](<https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization#2016>) by market cap.
 
@@ -231,7 +231,7 @@ Having these corporations within a shared "big tent" rather than in rival camps 
 
 **Proceed with caution, but please let 's proceed!**
 
-![Proceed-with-Caution-State-Farm](/assets/images/2016/06/proceed-with-caution-state-farm.jpg)
+![Proceed-with-Caution-State-Farm](/website/assets/images/2016/06/proceed-with-caution-state-farm.jpg)
 
  
 

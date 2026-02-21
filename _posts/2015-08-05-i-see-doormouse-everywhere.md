@@ -5,7 +5,7 @@ date: "2015-08-05 22:49:25 -0700"
 permalink: /2015/08/05/i-see-doormouse-everywhere/
 ---
 
-[![Dormouse](/assets/images/2015/08/dormouse.png)](/assets/images/2015/08/dormouse.png)
+[![Dormouse](/website/assets/images/2015/08/dormouse.png)](/website/assets/images/2015/08/dormouse.png)
 
 Parents with children of a certain age will be painfully familiar with [Doormouse](http://teamumizoomi.wikia.com/wiki/DoorMouse), a recurring character in Nickelodeon's [Team Umizoomi](http://teamumizoomi.wikia.com/) series. He seems to work everywhere, and always in the same role, as an annoying character who obstructs our heroes from reaching their goal.
 

@@ -9,7 +9,7 @@ Today saw a very happy announcement in the technology world, in which I have a p
 
 [Nat Friedman](https://twitter.com/natfriedman), CEO of Xamarin, announced that [Xamarin](http://xamarin.com) and [Microsoft](http://microsoft.com) love each other and are engaged to be married. They want to make babies together. They will be very beautiful babies. Baby monkeys.
 
-![1871-640x427](/assets/images/2016/02/1871-640x427.jpg)I
+![1871-640x427](/website/assets/images/2016/02/1871-640x427.jpg)I
 
 Xamarin are a fantastic company, and their founders are gems. I am just delighted for them. I was lucky enough to attend their first conference - [Evolve 2013](https://blog.xamarin.com/evolve-2013-recap-and-videos/), in Austin, TX, and to spend quality time with many of Xamarin Massive. At that stage I was experimenting with Mono as a foundational technology for future EA Sports titles.
 

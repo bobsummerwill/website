@@ -5,8 +5,8 @@ date: "2014-06-14 08:20:11 -0700"
 permalink: /2014/06/14/garden-close-ups-from-may-20th/
 ---
 
-[![Image](/assets/images/2014/06/dsc_0002.jpg)](/assets/images/2014/06/dsc_0002.jpg)[![Image](/assets/images/2014/06/dsc_0003.jpg)](/assets/images/2014/06/dsc_0003.jpg)[![Image](/assets/images/2014/06/dsc_0004.jpg)](/assets/images/2014/06/dsc_0004.jpg)[![Image](/assets/images/2014/06/dsc_0006.jpg)](/assets/images/2014/06/dsc_0006.jpg)
+[![Image](/website/assets/images/2014/06/dsc_0002.jpg)](/website/assets/images/2014/06/dsc_0002.jpg)[![Image](/website/assets/images/2014/06/dsc_0003.jpg)](/website/assets/images/2014/06/dsc_0003.jpg)[![Image](/website/assets/images/2014/06/dsc_0004.jpg)](/website/assets/images/2014/06/dsc_0004.jpg)[![Image](/website/assets/images/2014/06/dsc_0006.jpg)](/website/assets/images/2014/06/dsc_0006.jpg)
 
-[![DSC_0007](/assets/images/2014/06/dsc_0007.jpg)](/assets/images/2014/06/dsc_0007.jpg)
+[![DSC_0007](/website/assets/images/2014/06/dsc_0007.jpg)](/website/assets/images/2014/06/dsc_0007.jpg)
 
-[![DSC_0009](/assets/images/2014/06/dsc_0009.jpg)](/assets/images/2014/06/dsc_0009.jpg)[![DSC_0010](/assets/images/2014/06/dsc_0010.jpg)](/assets/images/2014/06/dsc_0010.jpg)[![DSC_0012](/assets/images/2014/06/dsc_0012.jpg)](/assets/images/2014/06/dsc_0012.jpg)[![DSC_0013](/assets/images/2014/06/dsc_0013.jpg)](/assets/images/2014/06/dsc_0013.jpg)
+[![DSC_0009](/website/assets/images/2014/06/dsc_0009.jpg)](/website/assets/images/2014/06/dsc_0009.jpg)[![DSC_0010](/website/assets/images/2014/06/dsc_0010.jpg)](/website/assets/images/2014/06/dsc_0010.jpg)[![DSC_0012](/website/assets/images/2014/06/dsc_0012.jpg)](/website/assets/images/2014/06/dsc_0012.jpg)[![DSC_0013](/website/assets/images/2014/06/dsc_0013.jpg)](/website/assets/images/2014/06/dsc_0013.jpg)

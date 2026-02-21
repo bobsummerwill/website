@@ -5,4 +5,4 @@ date: "2014-06-14 06:47:34 -0700"
 permalink: /2014/06/14/birdwatch-can-anybody-identify-this-recent-garden-visitor/
 ---
 
-[![Image](/assets/images/2014/06/dsc_0016.jpg)](/assets/images/2014/06/dsc_0016.jpg)
+[![Image](/website/assets/images/2014/06/dsc_0016.jpg)](/website/assets/images/2014/06/dsc_0016.jpg)

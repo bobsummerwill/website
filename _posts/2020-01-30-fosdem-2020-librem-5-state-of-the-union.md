@@ -12,14 +12,14 @@ featured_image: /assets/images/2020/01/l5-v1-18_9-turn-around.jpg
 
 **Bonus: Sailfish/Mer BoF session 1st Saturday (today) at 15.00 to 14.00 also in room H.3244 booked by Nokius!**
 
-**![Screen Shot 2020-02-01 at 12.38.35 PM](/assets/images/2020/01/screen-shot-2020-02-01-at-12.38.35-pm.png)  
+**![Screen Shot 2020-02-01 at 12.38.35 PM](/website/assets/images/2020/01/screen-shot-2020-02-01-at-12.38.35-pm.png)  
 **
 
 I reached out to [Nicole Faerber, the CTO of Purism](https://www.linkedin.com/in/nicole-faerber-71ba3195/), a week or so back to ask whether there was a Birds of a Feather session organized at FOSDEM 2020 around the [Purism Librem 5](https://en.wikipedia.org/wiki/Librem_5) device, and she said no, so I volunteered to organize one.
 
 As per the [Purism website](https://puri.sm/products/librem-5/),_" The Librem 5 represents the opportunity for you to take back control and protect your private information, your digital life through free and open source software, open governance, and transparency. The Librem 5 is a phone built on [PureOS](https://pureos.net/), a fully free, ethical and open-source operating system that is not based on Android or iOS (learn more about [why this is important](https://puri.sm/products/librem-5/pureos-mobile/))."_
 
-![Librem_5_-_AppLauncher_\(cropped\)](/assets/images/2020/01/librem_5_-_applauncher_cropped.jpg)
+![Librem_5_-_AppLauncher_\(cropped\)](/website/assets/images/2020/01/librem_5_-_applauncher_cropped.jpg)
 
 Devices are being shipped to developers and the multi-year process from conception to first release is coming to a climax.
 

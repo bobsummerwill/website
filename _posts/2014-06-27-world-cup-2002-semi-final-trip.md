@@ -15,4 +15,4 @@ Here is a [gallery of photos](http://summerwill.netfirms.com/Photos/2002/2002.06
 
 Quite the experience! I found some mementos while clearing out my desk at EA.
 
-[![20140528_135830](/assets/images/2014/06/20140528_135830.jpg)](/assets/images/2014/06/20140528_135830.jpg) [![20140528_135907](/assets/images/2014/06/20140528_135907.jpg)](/assets/images/2014/06/20140528_135907.jpg)
+[![20140528_135830](/website/assets/images/2014/06/20140528_135830.jpg)](/website/assets/images/2014/06/20140528_135830.jpg) [![20140528_135907](/website/assets/images/2014/06/20140528_135907.jpg)](/website/assets/images/2014/06/20140528_135907.jpg)

@@ -12,7 +12,7 @@ First published on Coindesk on 26th December 2019 as [The Ethereum Community is 
 
 This post is part of CoinDesk's 2019 Year in Review, a collection of 100 op-eds, interviews and takes on the state of blockchain and the world. [Bob Summerwill](https://bobsummerwill.com) is Executive Director of the [ETC Cooperative](https://etccooperative.org).
 
-![IMG_-b8cpdw](/assets/images/2018/12/IMG_-b8cpdw.jpg)
+![IMG_-b8cpdw](/website/assets/images/2018/12/IMG_-b8cpdw.jpg)
 
 2016 and 2017 were divisive years for the Ethereum ecosystem.
 

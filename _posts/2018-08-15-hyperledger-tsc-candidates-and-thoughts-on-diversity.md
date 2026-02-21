@@ -51,11 +51,11 @@ There most certainly is an overweight representation from IBM and Intel on the T
 
 On the topic of diversity, as a Community Ambassador for [CryptoChicks](<https://cryptochicks.ca>), I have to say that I am sorely disappointed to note that not a single candidate for these elections is female. The Hyperledger Governing Board has 21 members, only one of whom, [Blythe Masters](<https://www.linkedin.com/in/blythemasters/>), the Chair, is female.
 
-![crypto](/assets/images/2018/08/crypto.png)
+![crypto](/website/assets/images/2018/08/crypto.png)
 
 I spoke about [CryptoChicks on Coindesk LIVE ](<https://www.pscp.tv/w/1YqKDdeApNYKV>)during Consensus 2018 in New York this year. CryptoChicks are a non-profit blockchain educational hub with a mission to grow the professional and leadership potential of women in blockchain technology through education and mentorship. I am delighted to do everything I can help in that noble mission.
 
-![coindesk](/assets/images/2018/07/coindesk.jpg)
+![coindesk](/website/assets/images/2018/07/coindesk.jpg)
 
 Voting starts tomorrow and runs until August 22nd, with the results announced a week tomorrow on August 23rd.
 

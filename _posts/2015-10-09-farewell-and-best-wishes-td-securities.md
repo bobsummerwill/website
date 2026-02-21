@@ -17,10 +17,10 @@ See also <https://bobsummerwill.com/contact-bob/> for my other contact details.
 
 My lovely team took me for lunch on Tuesday and presented me with a "Bob". I'll really miss you guys 🙂
 
-[![20151006_131252](/assets/images/2015/10/20151006_131252.jpg)](/assets/images/2015/10/20151006_131252.jpg)
+[![20151006_131252](/website/assets/images/2015/10/20151006_131252.jpg)](/website/assets/images/2015/10/20151006_131252.jpg)
 
-[![20151006_131250](/assets/images/2015/10/20151006_131250.jpg)](/assets/images/2015/10/20151006_131250.jpg)
+[![20151006_131250](/website/assets/images/2015/10/20151006_131250.jpg)](/website/assets/images/2015/10/20151006_131250.jpg)
 
-[![20151006_131247](/assets/images/2015/10/20151006_131247.jpg)](/assets/images/2015/10/20151006_131247.jpg)
+[![20151006_131247](/website/assets/images/2015/10/20151006_131247.jpg)](/website/assets/images/2015/10/20151006_131247.jpg)
 
-[![20151009_100421](/assets/images/2015/10/20151009_1004213.jpg)](/assets/images/2015/10/20151009_1004213.jpg)
+[![20151009_100421](/website/assets/images/2015/10/20151009_1004213.jpg)](/website/assets/images/2015/10/20151009_1004213.jpg)

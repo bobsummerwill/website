@@ -7,13 +7,13 @@ permalink: /2015/07/26/tizen-the-emperor-has-no-clothes/
 
 _(Originally posted on[Mobile Linux News - 25th June 2015](http://www.mobilelinuxnews.com/2015/06/tizen-the-emperor-has-no-clothes/), and on [Engadget Public Access, 22nd July 2015](http://www.engadget.com/2015/07/22/tizen-the-emperor-has-no-clothes/))_
 
-![](/assets/images/2016/06/Tizen-Logo-1.jpg)
+![](/website/assets/images/2016/06/Tizen-Logo-1.jpg)
 
 I would like to propose that we take [Brian Warner's move from the Linux Foundation to Samsung](https://twitter.com/RealBrianWarner/status/611339039476559873) as the signal for reconsidering the Tizen Project as a whole.
 
 **** The Emperor has no clothes. ****
 
-![](/assets/images/2016/06/evidence-emperors-new-clothes.png)
+![](/website/assets/images/2016/06/evidence-emperors-new-clothes.png)
 
 The current "Tizen community" setup is transparently "community theatre" rather than being a real community model. The web forums are pointless ghost-towns. Even the mailing lists usually yield little in the way of useful engagement.
 

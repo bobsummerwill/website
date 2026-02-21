@@ -6,7 +6,7 @@ permalink: /2020/01/12/bob-summerwill-for-headhunters-2020/
 featured_image: /assets/images/2018/12/IMG_-b8cpdw.jpg
 ---
 
-![IMG_0360](/assets/images/2020/01/img_0360.jpg)_[View of Stanley Park and Grouse Mountain from Dunbar, Photo by Bob Summerwill]_
+![IMG_0360](/website/assets/images/2020/01/img_0360.jpg)_[View of Stanley Park and Grouse Mountain from Dunbar, Photo by Bob Summerwill]_
 
 **NOTE - I am not actively seeking work, but I am always open to opportunities.  There are numerous ways to [contact me](https://bobsummerwill.com/contact/) if you think there is some interesting possibility for collaboration, but please _DO READ THIS POST FIRST._   That will save both of us from wasting our time in discussing an opportunity which does not meet my basic requirements (ie. anything which requires me to relocate from Vancouver).**
 

@@ -13,7 +13,7 @@ Further details are provided in the [Blacklist Manager Technical Manual](https:/
 
 Here is the explainer video:
 
-[ ![](/assets/images/2022/10/explainer-1.png)](https://www.youtube.com/watch?v=xLRp7zxeTfM)
+[ ![](/website/assets/images/2022/10/explainer-1.png)](https://www.youtube.com/watch?v=xLRp7zxeTfM)
 
 The Blacklist Manager is described as **" A required add-on to the Bitcoin SV node software to ensure that miners comply with court orders"**.  
   
@@ -31,7 +31,7 @@ Such reassignment obviously requires changes to the BSV software, because blockc
 
 Some history on this saga:
 
-  * [Tulip Trading Limited - Letter Before Action](/assets/images/external/misc/a1letter-before-action-from-ttl.pdf) - 24th February 2021
+  * [Tulip Trading Limited - Letter Before Action](/website/assets/images/external/misc/a1letter-before-action-from-ttl.pdf) - 24th February 2021
   * [Dr. Craig Wright/Tulip Trust Statement](https://bitcoinassociation.net/bitcoin-association-statement-concerning-legal-action-by-dr-craig-s-wright-tulip-trading-ltd/) - 26th February 2021
   * [Bitcoin SV Node software – Upgrade to v1.0.9 Release](https://www.bitcoinsv.io/releases/bitcoin-sv-node-software-upgrade-to-v1-0-9-release) - 19th October 2021
   * [Bitcoin Association for BSV – Tulip Trading Ltd. Settlement Statement and FAQ](https://bitcoinassociation.net/bitcoin-association-for-bsv-tulip-trading-ltd-settlement-statement-and-faq/) on 10th June 2022.
@@ -40,17 +40,17 @@ Some history on this saga:
 
 
 
-![](/assets/images/2022/10/letter-to-ft.jpg)
+![](/website/assets/images/2022/10/letter-to-ft.jpg)
 
 How is this tooling supposed to work?
 
 Here are the stages in the workflow, with Step 4 being where the miners "choose" to prioritize orders from the Blacklist over the existing "longest chain" Nakamoto Consensus which has been the consensus mechanism for Bitcoin since the very first mined block. The Blacklist Manager is in control of which transactions miners can or cannot mine.
 
-![](/assets/images/2022/10/flow.png)
+![](/website/assets/images/2022/10/flow.png)
 
 In the final phase of the **Digital Asset Recovery Process** (not yet implemented it seems, but explained in the video), the miners would also receive orders from the Notary to **reassign assets** and the miners would follow their orders on that as well as on the freezes.
 
-![](/assets/images/2022/10/order3.png)
+![](/website/assets/images/2022/10/order3.png)
 
 It is unclear exactly how that asset reassignment would work, but conversations on Twitter point to that likely being either forcing of an invalid transaction by the miners or by addition of a new transaction type which could transfer funds with no need for private keys. Both of these options would constitute a soft fork or hard fork and would be a change of consensus.
 
@@ -89,7 +89,7 @@ As part of the Blacklist Manager Technical Manual there is a glossary which incl
 
 **Could a meeting of a bunch of lawyers employed by TTL be interpreted as a "Law Court?" Yes.**
 
-![](/assets/images/2022/10/glossary.png)  
+![](/website/assets/images/2022/10/glossary.png)  
   
 The miners will do what they are told
 

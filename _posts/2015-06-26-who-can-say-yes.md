@@ -5,7 +5,7 @@ date: "2015-06-26 05:24:25 -0700"
 permalink: /2015/06/26/who-can-say-yes/
 ---
 
-[![berlin_wall](/assets/images/2015/06/berlin_wall.jpg)](/assets/images/2015/06/berlin_wall.jpg)
+[![berlin_wall](/website/assets/images/2015/06/berlin_wall.jpg)](/website/assets/images/2015/06/berlin_wall.jpg)
 
 At one point of mutual frustration with bureaucracy at EA Canada, the very wise [Brian Plank ](http://www.mobygames.com/developer/sheet/view/developerId,974/)gave me a pearl of wisdom.
 

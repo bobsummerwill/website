@@ -7,7 +7,7 @@ permalink: /2015/09/16/tdc2015-tizen-3-0-first-milestone-what-does-that-mean/
 
 The **Tizen Developer Conference** is happening right now in Shenzhen, China.
 
-[![tizen2015](/assets/images/2015/09/tizen2015.png)](/assets/images/2015/09/tizen2015.png)
+[![tizen2015](/website/assets/images/2015/09/tizen2015.png)](/website/assets/images/2015/09/tizen2015.png)
 
 Believe it or, this is actually the fourth annual Tizen Developer Conference:
 

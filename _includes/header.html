@@ -1,18 +1,18 @@
 <header class="site-header">
   <div class="site-branding">
-    <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
   </div>
   <p class="site-description">{{ site.description }}</p>
   <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
   <nav id="primary-menu" class="main-nav">
     <ul>
-      <li><a href="/">Blog</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="/resume/">Resume</a></li>
-      <li><a href="/schedule/">Schedule</a></li>
-      <li><a href="/contact/">Contact</a></li>
-      <li><a href="/links/">Links</a></li>
-      <li><a href="/bobliography/">Bobliography</a></li>
+      <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/resume/' | relative_url }}">Resume</a></li>
+      <li><a href="{{ '/schedule/' | relative_url }}">Schedule</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      <li><a href="{{ '/links/' | relative_url }}">Links</a></li>
+      <li><a href="{{ '/bobliography/' | relative_url }}">Bobliography</a></li>
     </ul>
   </nav>
 </header>

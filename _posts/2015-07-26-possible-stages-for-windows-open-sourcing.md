@@ -15,7 +15,7 @@ And that is where we get into some subtleties, because we have always referred t
 
 The simplest analogy, I think is to compare Windows to GNU/Linux, which is not a monolithic beast. We are going to have to start talking about Windows distros, and the Windows Kernel. In fact, that kernel is probably where the whole open-sourcing adventure is likely to begin, as I mentioned in the original article.
 
-![](/assets/images/2016/06/build-marketecture-windows-8.png)
+![](/website/assets/images/2016/06/build-marketecture-windows-8.png)
 
 Both the **Windows for Devices** and **Windows Server 2016** possibilities I mentioned would actually probably start with open-sourcing of just the Windows kernel. I don't know whether those are separate code-bases, or how they are related, but they would probably be similar "shapes", and would likely be discrete "blocks" of code at the bottom of the stack which could be decoupled from any undesirable dependencies and "shipped". The Windows kernel is not an OS any more than the Linux kernel is a GNU/Linux distro, but it would be a start.
 

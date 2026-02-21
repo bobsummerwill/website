@@ -5,7 +5,7 @@ date: "2017-05-17 14:59:18 -0700"
 permalink: /2017/05/17/eea-technical-working-groups-need-you/
 ---
 
-![eea](/assets/images/2017/05/eea.png)
+![eea](/website/assets/images/2017/05/eea.png)
 
 The [Enterprise Ethereum Alliance (EEA)](http://entethalliance.atlassian.net/wiki/display/EEA/Enterprise+Ethereum+Alliance) has a number of technical working groups (WGs) already in motion:
 

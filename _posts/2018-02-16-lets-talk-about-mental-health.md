@@ -44,13 +44,13 @@ My most recent spell of depression lasted from October 2016 to early January 201
 
 I joined [ConsenSys](https://consensys.net) to start working on [Enterprise Ethereum Alliance](http://entethalliance.org) but within less than a week it was clear to me that I was broken and needed to take some time off. Like all my previous bosses, [Joe Lubin](https://twitter.com/ethereumJoseph) was superbly supportive, as were my other new ConsenSys teammates:
 
-![lubin](/assets/images/2018/02/lubin.jpg)
+![lubin](/website/assets/images/2018/02/lubin.jpg)
 
 By mid-December 2016 I felt able to join a dial-in call for a face-to-face meeting in NYC talking about preparations for the EEA. That was the first time I had popped my head up for about two months. I was just lurking on a call, but it was a good start.
 
 On January 10th 2017 we had another face-to-face meeting about the EEA, including presenting our roadmap to Vitalik. The prospect of being in these meetings was really intimidating, but it really helped in the end. My beard here was a hiding method.
 
-![enteth](/assets/images/2018/02/enteth.jpg)
+![enteth](/website/assets/images/2018/02/enteth.jpg)
 
 Anyway … I just wanted to share this insight into my life because mental health affects us all. I want you to know that nobody is immune. People in very public and influential positions are just as prone to mental health issues as everybody else.
 

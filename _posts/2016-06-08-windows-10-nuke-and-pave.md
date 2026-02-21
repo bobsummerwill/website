@@ -22,7 +22,7 @@ And I am very glad that I did. I now have my Surface Pro 3 with the following fu
 
 All at the same time below!
 
-![windows10](/assets/images/2016/06/windows10.png)
+![windows10](/website/assets/images/2016/06/windows10.png)
 
 And just for bonus points, my question of [Best means for getting photos OFF Meizu MX4 Ubuntu Edition?](https://lists.launchpad.net/ubuntu-phone/msg20511.html) now has a great answer. That device (my main phone for the last few months) has a really flaky USB, which has been failing to show up on my MacBook Air OS X El Capitan almost 100% of the time.
 

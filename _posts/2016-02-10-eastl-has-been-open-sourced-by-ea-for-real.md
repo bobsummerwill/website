@@ -9,7 +9,7 @@ I am delighted to see that EA have finally open-sourced EASTL **for real** , aft
 
 You can check it out [on Github](https://github.com/electronicarts/EASTL), and build it yourself using [CMake](https://cmake.org/).
 
-![ea](/assets/images/2016/02/ea.png)
+![ea](/website/assets/images/2016/02/ea.png)
 
 **What is EASTL, you may ask?**
 
@@ -42,7 +42,7 @@ I really hope that this is a sign of change within EA, and that we're going to s
 
 Good job, [Rob Parolin](https://twitter.com/RobParolin) and friends 🙂
 
-![roberto](/assets/images/2016/02/roberto.jpg)
+![roberto](/website/assets/images/2016/02/roberto.jpg)
 
 There is a new EA twitter account too - [@EAOpenSource](https://twitter.com/EAOpenSource) - which I imagine will be coming to life in the near future.
 

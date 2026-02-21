@@ -24,11 +24,11 @@ So why am I attending ETC Summit? **Because the tribalism we see throughout bloc
 
 Who benefits from the current divide-and-conquer? Not us, that is for sure.
 
-![tribalism](/assets/images/2018/03/tribalism.jpg)
+![tribalism](/website/assets/images/2018/03/tribalism.jpg)
 
 I had a long tweet-storm on this topic in January which I turned into [A Call for an End to Tribalism in Ethereum](https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/) blog post, which was then the basis for my [keynote talk at the Ethereum Community Conference in Paris](https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/) this March:
 
-![bob](/assets/images/2015/05/bob.jpg)
+![bob](/website/assets/images/2015/05/bob.jpg)
 
 So, I have been working on multiple peace-missions to try to bring the various factions of the Ethereum community together, and across the whole of blockchain for months on end now, and it is time for us to look to the future, which has many chains.
 
@@ -36,7 +36,7 @@ We need interchain technology. We need sidechains. We need state channels. We ne
 
 Let's work together and build the decentralized future which we all want to see.
 
-![Maker:L,Date:2017-9-8,Ver:5,Lens:Kan03,Act:Kan02,E-Y](/assets/images/2018/07/mvimg_20180514_151234.jpg)
+![Maker:L,Date:2017-9-8,Ver:5,Lens:Kan03,Act:Kan02,E-Y](/website/assets/images/2018/07/mvimg_20180514_151234.jpg)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">"Let’s work together and make each other better" says <a href="https://twitter.com/IOHK_Charles">@IOHK_Charles</a> on $ETC - $ETH<br><br>Yes, please!<https://t.co/cXKDfQrprV>#blockchain #community #ethereum #ethereumclassic</p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/957527637869473792">January 28, 2018</a></blockquote>
 
