@@ -3,7 +3,7 @@ layout: post
 title: "Agentchain? Do they need our chains at all?"
 date: 2026-02-21
 author: Silent Consensus
-featured_image: /website/assets/images/2026/02/robot-face.jpg
+featured_image: /assets/images/2026/02/robot-face.jpg
 ---
 
 There's a growing narrative in crypto that AI agents will be a massive catalyst for blockchain adoption. Agents will never have bank accounts, they need to pay for things, therefore they need crypto. QED, number go up.
