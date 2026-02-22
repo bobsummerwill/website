@@ -1,5 +1,4 @@
-title: "Bob's Blog"
-description: "Bob Summerwill's personal blog"
+title: "Bob Summerwill"
 url: "https://bobsummerwill.github.io"
 baseurl: "/website"
 permalink: /:year/:month/:day/:title/
