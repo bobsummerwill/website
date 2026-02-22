@@ -21,7 +21,7 @@ From [Judging ("J") or Perceiving ("P")](https://www.myersbriggs.org/my-mbti-per
 
 _The following statements generally apply to me:_
 
-  *     * _I like to stay open to respond to whatever happens._
+- _I like to stay open to respond to whatever happens._
     * _I appear to be loose and casual. I like to keep plans to a minimum._
     * _I like to approach work as play or mix work and play._
     * _I work in bursts of energy._

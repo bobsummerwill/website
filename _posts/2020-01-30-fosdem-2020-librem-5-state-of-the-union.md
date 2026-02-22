@@ -19,8 +19,7 @@ featured_image: /assets/images/2020/01/l5-v1-18_9-turn-around.jpg
 
 **Bonus: Sailfish/Mer BoF session 1st Saturday (today) at 15.00 to 14.00 also in room H.3244 booked by Nokius!**
 
-**![Screen Shot 2020-02-01 at 12.38.35 PM](/website/assets/images/2020/01/screen-shot-2020-02-01-at-12.38.35-pm.png)  
-**
+**![Screen Shot 2020-02-01 at 12.38.35 PM](/website/assets/images/2020/01/screen-shot-2020-02-01-at-12.38.35-pm.png)  **
 
 I reached out to [Nicole Faerber, the CTO of Purism](https://www.linkedin.com/in/nicole-faerber-71ba3195/), a week or so back to ask whether there was a Birds of a Feather session organized at FOSDEM 2020 around the [Purism Librem 5](https://en.wikipedia.org/wiki/Librem_5) device, and she said no, so I volunteered to organize one.
 

@@ -38,8 +38,7 @@ We have the opportunity to build a set of technologies in the next few years whi
 
 These technologies need to reach into every nook and cranny of our computing fabric: big and small, public and private, independent and corporate; smartwatches to mainframes.
 
-**This is**a large and ambitious undertaking that is addictive and all-consuming for many of us. Diversity of viewpoints, a broad spectrum of use-cases to mature the base technology, and an open and inclusive attitude and environment of collaboration will help us achieve our shared goals.**  
-**
+**This is**a large and ambitious undertaking that is addictive and all-consuming for many of us. Diversity of viewpoints, a broad spectrum of use-cases to mature the base technology, and an open and inclusive attitude and environment of collaboration will help us achieve our shared goals.**  **
 
  
 
@@ -143,7 +142,6 @@ See [License compatibility](<https://en.wikipedia.org/wiki/License_compatibility
 
 Apache 2.0 is the Free Software Foundation's own recommendation for permissive licences for that very reason:
 
--
 
 _" This is a free software license, compatible with version 3 of the GNU GPL."_
 
@@ -151,7 +149,6 @@ _" Please note that this license is not compatible with GPL version 2, because i
 
 [Various Licenses and Comments about them, Free Software Foundation](<https://www.gnu.org/licenses/license-list.html#apache2>)
 
--
 
  
 

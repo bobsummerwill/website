@@ -32,8 +32,7 @@ I just need to troubleshoot whatever issue there is with the video output on the
 
 [![2014-06-28 11.32.16](/website/assets/images/2014/06/2014-06-28-11-32-16.jpg)](/website/assets/images/2014/06/2014-06-28-11-32-16.jpg)
 
-**Morris chair with MacBook and attached Samsung Galaxy S4 (Android), Samsung RD-PQ (Tizen) and Samsung Gear 2 smartwatch (Tizen):  
-**
+**Morris chair with MacBook and attached Samsung Galaxy S4 (Android), Samsung RD-PQ (Tizen) and Samsung Gear 2 smartwatch (Tizen):  **
 
 [![2014-06-28 11.32.00](/website/assets/images/2014/06/2014-06-28-11-32-00.jpg)](/website/assets/images/2014/06/2014-06-28-11-32-00.jpg)
 

@@ -74,7 +74,7 @@ permalink: /blockchain-resources-bc/
     * [Melissa Quinn](https://www.linkedin.com/in/melissaannquinn/) (Director of Corporate Strategy)
     * [Brianna MacNeill ](https://www.linkedin.com/in/briannamacneil/)(Manager, Global Strategy & Partnerships)
 
-  *     * 
+
 
 ## Others (to be made into full sections when I get a chance)
 

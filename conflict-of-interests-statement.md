@@ -100,4 +100,3 @@ TODO – Version-control this document in git, and then anchor the hash on ETC m
 
 There is more information on these roles [in my LinkedIn profile.](https://www.linkedin.com/in/bobsummerwill/)
 
-  *     *

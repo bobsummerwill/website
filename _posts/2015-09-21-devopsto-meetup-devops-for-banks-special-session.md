@@ -52,12 +52,10 @@ Format: some short presentations and discussions followed by free-form mingling 
 
 Bob will spend a few minutes providing an introduction to this special session.
 
-**Incident Management - Dave Cliffe (PagerDuty)  
-**
+**Incident Management - Dave Cliffe (PagerDuty)  **
 
 As DevOps is proving, breaking down silos between Dev and Ops is critical to any IT organization, no matter what industry you're in. A huge part of that is the idea of "shared operational responsibility", where everyone is responsible for production, not just Operations staff. Let's have a discussion about the impact on monitoring, alerting, on-call processes, and broader Incident Management in this brave new world of DevOps.
 
-**Chef Analytics - Andrew Dufour (Chef)  
-**
+**Chef Analytics - Andrew Dufour (Chef)  **
 
 Most people in the DevOps field know Chef as a configuration management product. We'll explore how Chef Analytics and Audit mode can help you drive innovation at velocity in a highly regulated, compliance based environment.
