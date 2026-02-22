@@ -85,7 +85,6 @@ Court orders might be mutual incompatible between countries too, meaning that so
   
 As part of the Blacklist Manager Technical Manual there is a glossary which includes their definition of "Legal Terms" which is, frankly, incredible. This is either terribly sloppy work or is willfully broad, leaving huge grey zones as to what is or is not acceptable to be enforced for freezes or asset reassignments. 
 
-  * 
 
 
 **Could the Tulip Trust Ltd 's legal notice be interpreted as a "Court Order?" Yes.**

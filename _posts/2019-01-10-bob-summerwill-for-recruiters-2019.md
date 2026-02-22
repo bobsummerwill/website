@@ -14,8 +14,7 @@ permalink: /2019/01/10/bob-summerwill-for-recruiters-2019/
 
 
 
-**What I bring to the table:  
-**
+**What I bring to the table:  **
 
   * 22 years of professional software development, the majority of which was on high-profile multi-million or billion-dollar projects customer-facing projects under strict time pressures. 20 AAA videogames shipped, across around 10 platforms. Mainly technical leadership roles, on product teams, on central technology teams, studio level, EA Sports wide roles, worldwide roles.
   * 4 years of blockchain experience (Ethereum Foundation, ConsenSys, Enterprise Ethereum Alliance), including work on an Ethereum client (cpp-ethereum).
@@ -27,8 +26,7 @@ permalink: /2019/01/10/bob-summerwill-for-recruiters-2019/
 
 
 
-**Compensation:  
-**
+**Compensation:  **
 
   * Somewhere in the $150K-$200K USD ballpark
   * I expect to have some other advisories or sidelines, which will not be time-consuming.
@@ -36,8 +34,7 @@ permalink: /2019/01/10/bob-summerwill-for-recruiters-2019/
 
 
 
-**More information on Bob:  
-**
+**More information on Bob:  **
 
   * [About](https://bobsummerwill.com/about/)
   * [Resume](https://bobsummerwill.com/resume/)

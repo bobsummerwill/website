@@ -53,7 +53,6 @@ Obviously the list of people who have been involved with the Ethereum Project as
     * [Hai Nguyen](https://www.linkedin.com/in/mrhainguyen/) – Jan 2014 to Jul 2015
     * [Bin Lu](https://twitter.com/bitgulu) – Jan 2014 to present (but never in the EF)
     * Jerry Liu – Jan 2014 to ?
-    *   
 
   
 
@@ -64,7 +63,6 @@ Emanuele Costa – Jan 2014 to ?
   
 
     * [Eric Lombrozo](https://www.linkedin.com/in/ericlombrozo/) – Jan 2014 to ?
-    *   
 
   
 
@@ -78,7 +76,6 @@ Max Kaye – Jan 2014 to ?
 
   
 
-    *   
 
 [Wendell Davis](https://www.youtube.com/watch?v=4jGqmlA4KEY) – Jan 2014 to ?
 
@@ -87,7 +84,6 @@ Max Kaye – Jan 2014 to ?
     * [Paul Snow](https://www.linkedin.com/in/paulsn/) – Jan 2014 to ?
     * [Chris Odom](https://www.linkedin.com/in/chris-odom-257236/) – Jan 2014 to ?
     * [Steve Dakh](https://www.linkedin.com/in/steve-dakh/) – Jan 2014 to ?
-    *   
 
   
 
