@@ -9,12 +9,15 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ## Future conferences and events
 #### 2026
 
-* Feb 17 to Feb 21 – [ETHDenver 2026](https://ethdenver.com/) – Denver, CO – speaking, participation?
 * Mar 30 to Apr 2 – [ETHCC[9]](https://ethcc.io/) – Cannes, France – speaking, participation?
 * Nov 2 – [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) – speaking?
 * Nov 3 to Nov 6 – [DEVCON8](https://devcon.org/en/) – speaking?
 
 ## Past conferences and events
+#### 2026
+
+* Feb 17 to Feb 21 – [ETHDenver 2026](https://ethdenver.com/) – Denver, CO – speaking, Museum of Ethereum
+
 #### 2025
 
 * Feb 23 to Mar 2 – [ETHDenver 2025](https://ethdenver.com) – attending
