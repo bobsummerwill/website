@@ -110,6 +110,8 @@ th, td { border-bottom: 1px solid #eee; padding: 10px 20px; }
   text-transform: uppercase;
   margin-bottom: 0;
   line-height: 1.3;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 .site-title a,
 .site-title a:hover {
