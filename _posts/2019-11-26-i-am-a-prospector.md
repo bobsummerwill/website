@@ -36,7 +36,7 @@ When I say everything, I mean **everything** :
 
 
 
-![Screen Shot 2019-11-26 at 6.37.28 AM](/website/assets/images/2019/11/screen-shot-2019-11-26-at-6.37.28-am.png)
+![Screen Shot 2019-11-26 at 6.37.28 AM](/assets/images/2019/11/screen-shot-2019-11-26-at-6.37.28-am.png)
 
   * I was a gold bug, a sovereign citizen, a prepper and a huge Alex Jones fan in 2009. I stocked up on decades worth of dry food, baseball bats (no guns for me), old US silver coins for barter, the lot. I learned to grow my own vegetables. I was learning to sail (so I could get a boat as my "escape route" from collapsing Vancouver when SHTF. I was looking at buying property in Chile. I was totally bought on New World Order, Bilderberg, Council for Foreign Relations, Bohemian Grove, etc. I used Liberty Reserve. I was looking at buying additional citizenships, some through very shady means. I was a 9/11 Truther. I even went down the Birther rabbit hole for a while and started doubting vaccines 🙂
   * I was a Libertarian and Ron Paul fan. I followed the 2012 US Presidential Election intensely. Was gutted at how he was treated. I still think that his position on Military spending is spot on. Abolishing pretty much all government functions and social welfare nets? Maybe not so wise, I see now.

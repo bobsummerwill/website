@@ -16,7 +16,7 @@ It will likely be my last Meetup in Toronto, because [I'm heading back to Vancou
 
 After the Meetup, perhaps around 8.30pm or 9.00pm, I will be going for a lot of drinks with anybody who would like to join me. I don't know where, but somewhere in Downtown Toronto for sure, hopefully somewhere not too hard to get to from the MaRS Discovery Center where the Meetup is. **If you would like to come for a "until next time" drink with me on Tuesday night, please just drop me a mail or whatever, and we can coordinate.** I may well create an evite later, depending on numbers. Or better yet, come to the Meetup and then we have a bunch of us in the same place to START WITH.
 
-[![Samsung_Gear_VR](/website/assets/images/2015/10/samsung_gear_vr.jpg)](/website/assets/images/2015/10/samsung_gear_vr.jpg)
+[![Samsung_Gear_VR](/assets/images/2015/10/samsung_gear_vr.jpg)](/assets/images/2015/10/samsung_gear_vr.jpg)
 
 Here's the agenda:
 
@@ -72,7 +72,7 @@ _8:45-10:00: Networking & Expo continues with the following companies:_
 
 • [Bublcam](http://www.bublcam.com/)
 
-• [BreqLabs](http://www.breqlabs.com/website/)
+• [BreqLabs](http://www.breqlabs.com/)
 
 • [OccupiedVR](http://ovr.weare1188.com/)
 

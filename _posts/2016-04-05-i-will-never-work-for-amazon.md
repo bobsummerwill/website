@@ -7,7 +7,7 @@ permalink: /2016/04/05/i-will-never-work-for-amazon/
 
 Today I have been contacted **yet again** by a recruiter from Amazon:
 
-![amazon_logo_500500-_v323939215_](/website/assets/images/2016/04/amazon_logo_500500-_v323939215_.png)
+![amazon_logo_500500-_v323939215_](/assets/images/2016/04/amazon_logo_500500-_v323939215_.png)
 
 This is despite my LinkedIn summary **starting** with the following text:
 

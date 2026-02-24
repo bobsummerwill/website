@@ -14,7 +14,7 @@ I would like to meet each and every one of you during the course of my first wee
 
 I will be holding a **Week of Geek** event at my desk this week, where I have brought all of my best toys in to the office for your delectation and delight.
 
-[![10414593_342348289250706_1305903041047454642_n](/website/assets/images/2014/06/10414593_342348289250706_1305903041047454642_n2.jpg)](/website/assets/images/2014/06/10414593_342348289250706_1305903041047454642_n2.jpg)
+[![10414593_342348289250706_1305903041047454642_n](/assets/images/2014/06/10414593_342348289250706_1305903041047454642_n2.jpg)](/assets/images/2014/06/10414593_342348289250706_1305903041047454642_n2.jpg)
 
 Here is the line-up:
 
@@ -60,4 +60,4 @@ Here is the line-up:
 
 Anyway - come by, introduce yourself and play with the toys. You can get a free [MonoTizen](http://monotizen.wordpress.com/about) business card into the bargain! See you soon 🙂
 
-![20140601_004748](/website/assets/images/2014/06/20140601_004748.jpg)
+![20140601_004748](/assets/images/2014/06/20140601_004748.jpg)

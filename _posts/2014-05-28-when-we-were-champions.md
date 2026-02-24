@@ -10,4 +10,4 @@ permalink: /2014/05/28/when-we-were-champions/
 
 Thanks to [Mike Despault ](https://twitter.com/mdespault)for sharing this great photo, from quite a few years ago!
 
-[![Image](/website/assets/images/2016/02/1829023269_dd83de583c_o.jpg)](/website/assets/images/2016/02/1829023269_dd83de583c_o.jpg)
+[![Image](/assets/images/2016/02/1829023269_dd83de583c_o.jpg)](/assets/images/2016/02/1829023269_dd83de583c_o.jpg)

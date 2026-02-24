@@ -12,8 +12,8 @@ Today I have pulled the trigger on a purchase which I have been pondering since 
 
 Here what is coming my way soon, _supposedly_ tested. I certainly hope it all works. I will report back 🙂
 
-[![atari_vcs](/website/assets/images/2015/09/atari_vcs.png)  
-](/website/assets/images/2015/09/atari_vcs_full.png)
+[![atari_vcs](/assets/images/2015/09/atari_vcs.png)  
+](/assets/images/2015/09/atari_vcs_full.png)
 
 From the eBay description:
 

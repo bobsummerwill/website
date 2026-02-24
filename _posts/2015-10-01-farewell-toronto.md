@@ -10,7 +10,7 @@ permalink: /2015/10/01/farewell-toronto/
 
 My time in Toronto is coming to an end next week.
 
-[![2015-05-03 09.06.14](/website/assets/images/2015/05/2015-05-03-09-06-14.jpg)](/website/assets/images/2015/05/2015-05-03-09-06-14.jpg)
+[![2015-05-03 09.06.14](/assets/images/2015/05/2015-05-03-09-06-14.jpg)](/assets/images/2015/05/2015-05-03-09-06-14.jpg)
 
 It has been a blast, but my Vancouver family and home is calling.
 

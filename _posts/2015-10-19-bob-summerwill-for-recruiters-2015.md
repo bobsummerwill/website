@@ -20,7 +20,7 @@ This blog post is intended to act as an initial filter to save everyone's time.
 
 See also [Bob's Resume](http://bobsummerwill.com/resume).
 
-[![bob](/website/assets/images/2014/05/bob.jpeg)](/website/assets/images/2014/05/bob.jpeg)
+[![bob](/assets/images/2014/05/bob.jpeg)](/assets/images/2014/05/bob.jpeg)
 
 ## What does Bob have to offer?
 

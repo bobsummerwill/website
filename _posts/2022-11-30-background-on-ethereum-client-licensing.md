@@ -58,7 +58,7 @@ DCO was not introduced in the Linux Foundation for theoretical reasons. It was i
 
 Here is an example of the DCO used for the majority of Linux Foundation projects.
 
-![DCO example](/website/assets/images/2022/11/screen-shot-2022-11-28-at-4.37.12-pm.png)
+![DCO example](/assets/images/2022/11/screen-shot-2022-11-28-at-4.37.12-pm.png)
 
 ## Use of open source software within corporations
 

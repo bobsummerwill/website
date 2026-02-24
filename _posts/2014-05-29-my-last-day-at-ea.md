@@ -10,7 +10,7 @@ permalink: /2014/05/29/my-last-day-at-ea/
 
 It is D-Day! Today is my last day at EA! I blogged about my [career move](https://bobsummerwill.wordpress.com/2014/05/15/end-of-an-era/) on the day I resigned.
 
-[![20140529_011342](/website/assets/images/2014/05/20140529_011342.jpg)](/website/assets/images/2014/05/20140529_011342.jpg)
+[![20140529_011342](/assets/images/2014/05/20140529_011342.jpg)](/assets/images/2014/05/20140529_011342.jpg)
 
 I started working for EA in the UK Studio on 4th January 1999. My best wishes go out to my colleagues and ex-colleagues for whatever the future may have in store for them, and for EA!
 

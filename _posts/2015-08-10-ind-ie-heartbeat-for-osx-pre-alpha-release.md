@@ -12,11 +12,11 @@ permalink: /2015/08/10/ind-ie-heartbeat-for-osx-pre-alpha-release/
 
 Today is a long awaited day for me and many others - the first [public release](https://forum.ind.ie/t/heartbeat-pre-alpha-update/164) of [Ind.ie](https://www.ind.ie/)'s [Heartbeat](https://www.ind.ie/about/vision/) client for OSX. What is that? It is a social network client which does not spy on you. It is the first step in a journey to **" create a peer-to-peer consumer platform to empower you to share the things that matter to you with the people you care about"**
 
-[![ios-152](/website/assets/images/2015/08/ios-152.png)](/website/assets/images/2015/08/ios-152.png)
+[![ios-152](/assets/images/2015/08/ios-152.png)](/assets/images/2015/08/ios-152.png)
 
 Today is the day that the mud-slingers, vaporware-accusers and general negative whingers can STFU and see what these [talented](https://www.ind.ie/about/team/) and [principled](https://aralbalkan.com/notes/so-long-and-thanks-for-all-the-fish/) individuals have been working on all this time:
 
-[![Heartbeat](/website/assets/images/2015/08/heartbeat.png)](/website/assets/images/2015/08/heartbeat.png)
+[![Heartbeat](/assets/images/2015/08/heartbeat.png)](/assets/images/2015/08/heartbeat.png)
 
 Here is a video of the OS X client in action:
 

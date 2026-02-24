@@ -10,4 +10,4 @@ permalink: /2014/06/14/birdwatch-can-anybody-identify-this-recent-garden-visitor
 
 
 
-[![Image](/website/assets/images/2014/06/dsc_0016.jpg)](/website/assets/images/2014/06/dsc_0016.jpg)
+[![Image](/assets/images/2014/06/dsc_0016.jpg)](/assets/images/2014/06/dsc_0016.jpg)

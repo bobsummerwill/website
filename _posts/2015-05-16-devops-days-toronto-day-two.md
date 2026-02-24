@@ -18,7 +18,7 @@ Introduction …
 
 The first speaker of the day was Kirstin Hunter ([@synedra](https://twitter.com/synedra)) from [Akamai](http://akamai.com) - "Using Continuous Integration to Test your Platform", talking about automation in Jenkins, and specifically about how she used Jenkins to automate non-Java projects.
 
-[![20150515_100850](/website/assets/images/2015/05/20150515_100850.jpg)](/website/assets/images/2015/05/20150515_100850.jpg)
+[![20150515_100850](/assets/images/2015/05/20150515_100850.jpg)](/assets/images/2015/05/20150515_100850.jpg)
 
 Brian Nuszkowski ([@nuszkowski](http://twitter.com/nuszkowski)) - "Handling The Rush", was an excellent talk through of his experience on really understanding your environment and system, and how to make REAL testing of that environment an ongoing part of your process, not just something you do an hour before and say "We're DONE!"
 
@@ -62,10 +62,10 @@ Then he demoed web wrapping for command-lines.
 
 In the afternoon, I attended the "Distributed Teams" session in the first round. There were lots of good discussion points there, with the crux of it boiling down to the fact that to support remote workers, the practices of the on-site location need to change, so that information and communication doesn't get lost between the cracks. Communication needs to be done digitally, even between peers on-site, so that it is visible to everyone. Good videoconferencing, rather than phone calls, is essentially. Finding ways to work on things asynchronously to take advantage of the timezone differences is a potential win for remote working. The main advantage for employers is the worldwide pool of talent which is available outside of their local market. Having quarterly (or whatever cadence) physical-space meetings of all of your employees was highlighted as something which was hugely beneficial. Awareness of cultural differences.
 
-[![20150515_145222](/website/assets/images/2015/05/20150515_145222.jpg)](/website/assets/images/2015/05/20150515_145222.jpg)
+[![20150515_145222](/assets/images/2015/05/20150515_145222.jpg)](/assets/images/2015/05/20150515_145222.jpg)
 
 In the second session I attended "Database as a service", which I didn't personally find particularly useful. And then I had to run!
 
 So best wishes, everyone. I had a blast. Thanks for sharing!
 
-[![20150515_144105](/website/assets/images/2015/05/20150515_144105.jpg)](/website/assets/images/2015/05/20150515_144105.jpg)
+[![20150515_144105](/assets/images/2015/05/20150515_144105.jpg)](/assets/images/2015/05/20150515_144105.jpg)

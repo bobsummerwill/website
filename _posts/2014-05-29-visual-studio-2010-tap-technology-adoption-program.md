@@ -20,4 +20,4 @@ I wanted to provide a unique integration test in the form of "build a simple gam
 
 Lots of fun, and I got this stuff to thank me!
 
-[![Image](/website/assets/images/20140528_135715.jpg)](/website/assets/images/20140528_135715.jpg)[![Image](/website/assets/images/20140528_135724.jpg)](/website/assets/images/20140528_135724.jpg)[![Image](/website/assets/images/20140528_135733.jpg)](/website/assets/images/20140528_135733.jpg)
+[![Image](/assets/images/20140528_135715.jpg)](/assets/images/20140528_135715.jpg)[![Image](/assets/images/20140528_135724.jpg)](/assets/images/20140528_135724.jpg)[![Image](/assets/images/20140528_135733.jpg)](/assets/images/20140528_135733.jpg)

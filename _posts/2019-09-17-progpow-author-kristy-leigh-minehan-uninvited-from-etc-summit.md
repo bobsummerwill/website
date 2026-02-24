@@ -11,7 +11,7 @@ I withdrew her invitation after finding out about connections between herself, C
 
 Craig Wright is a fraud, serial liar and perjurer, and Calvin Ayre is not much better. I cannot have the ETC Cooperative and the ETC Summit associated with such disreputable individuals and companies, so I chose to withdraw my invitation. It was not an easy decision, and was one which personally pained me. I have been known as a bridge builder and "judging" in this way is exceedingly rare. This was important enough for me to do so.
 
-![Screen Shot 2019-09-17 at 3.32.59 PM](/website/assets/images/2019/09/screen-shot-2019-09-17-at-3.32.59-pm.png)
+![Screen Shot 2019-09-17 at 3.32.59 PM](/assets/images/2019/09/screen-shot-2019-09-17-at-3.32.59-pm.png)
 
   * [Squire Advisory Board Member, Dr. Craig Wright Granted U.S. Copyright Registrations for Original Bitcoin White Paper and Early Code](https://www.globenewswire.com/news-release/2019/05/22/1840754/0/en/Squire-Advisory-Board-Member-Dr-Craig-Wright-Granted-U-S-Copyright-Registrations-for-Original-Bitcoin-White-Paper-and-Early-Code.html)
   * [Squire Agrees to Purchase Companies With Cloud Computing Assets Totaling 2,985 Petahash to Become One of the World’s Largest Public Crypto Mining Companies](https://www.globenewswire.com/news-release/2019/05/30/1859754/0/en/Squire-Agrees-to-Purchase-Companies-With-Cloud-Computing-Assets-Totaling-2-985-Petahash-to-Become-One-of-the-World-s-Largest-Public-Crypto-Mining-Companies.html)
@@ -32,19 +32,19 @@ _**Kristy:**__Yes? If they told me to just speak on topics I knew, or educate th
 _**Bob:**__Would you speak at a conference held by the Mafia, if they wanted to talk about blockchain?_  
 _**Kristy:**__Sure, if the mafia is holding a conference that 's public, and somehow they are not arrested and it's all above board - why not. __**I 'd accept a PR from Hitler if it was good.**_
 
-![Screenshot_20190916-173939.png](/website/assets/images/2019/09/screenshot_20190916-173939.png)
+![Screenshot_20190916-173939.png](/assets/images/2019/09/screenshot_20190916-173939.png)
 
 And further, she believes that attending conferences in no way validates them, and is "just about teaching". So [Coingeek Toronto 2019](https://coingeek.com/conferences/toronto-conference/) was about teaching, as per Kristy, and not about promotion of the BSV empire.
 
-![Screenshot_20190916-173950](/website/assets/images/2019/09/screenshot_20190916-173950.png)
+![Screenshot_20190916-173950](/assets/images/2019/09/screenshot_20190916-173950.png)
 
 She also revealed that there were maybe as many as 40 people behind the "IfDefElse" facade, many of who would not be willing to reveal their identities, or to sign Contributor Licensing Agreements (CLAs), as I suggested was necessary to protect Ethereum from potential future lawsuits for unrevealed patent claims, trademarks or copyright claims.
 
-![Screenshot_20190916-174040](/website/assets/images/2019/09/screenshot_20190916-174040.png)
+![Screenshot_20190916-174040](/assets/images/2019/09/screenshot_20190916-174040.png)
 
-![Screenshot_20190916-174045](/website/assets/images/2019/09/screenshot_20190916-174045.png)
+![Screenshot_20190916-174045](/assets/images/2019/09/screenshot_20190916-174045.png)
 
-![Screenshot_20190916-174103](/website/assets/images/2019/09/screenshot_20190916-174103.png)
+![Screenshot_20190916-174103](/assets/images/2019/09/screenshot_20190916-174103.png)
 
 Given these connections (from public press releases), Kristy's seemingly complete lack of discernment about who she associates with, together with the unquantifiable IP risk of accepting code from a group of 40 individuals, only a handful of whom are publicly known, and none of whom (or their employers) have signed CLAs, **I have to view ProgPOW as a serious risk to any project which adopts it, and would urge the Ethereum community to strongly reconsider whether it is wise to proceed unless significantly stronger guarantees can be given around the IP.**
 

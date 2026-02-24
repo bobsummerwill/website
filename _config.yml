@@ -1,6 +1,6 @@
 title: "Bob Summerwill"
-url: "https://bobsummerwill.github.io"
-baseurl: "/website"
+url: "https://bobsummerwill.com"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 
 # Pagination

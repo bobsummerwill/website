@@ -17,7 +17,7 @@ In September, I pledged that ETC Cooperative would contribute ETC support to the
 
 This is a very happy day, and a very satisfying step in a long personal journey.
 
-![brian](/website/assets/images/2019/11/brian.jpeg)
+![brian](/assets/images/2019/11/brian.jpeg)
 
 **Quote from Hyperledger:**
 

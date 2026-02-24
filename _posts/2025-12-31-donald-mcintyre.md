@@ -19,7 +19,7 @@ featured_image: /assets/images/2025/12/donald-and-bob.png
 
 **Content note:** This post discusses suicide, mental health struggles, and grief.
 
-[![](/website/assets/images/2025/12/donald-and-bob.png)](</assets/images/2025/12/donald-and-bob.png>)_(Donald McIntyre and Bob Summerwill, at dinner during Bitcoin Conference in Nashville, July 2024)_
+[![](/assets/images/2025/12/donald-and-bob.png)](</assets/images/2025/12/donald-and-bob.png>)_(Donald McIntyre and Bob Summerwill, at dinner during Bitcoin Conference in Nashville, July 2024)_
 
   
 My dear friend and long-time former colleague, [Donald McIntyre](<https://everloved.com/life-of/donald-mcintyre/>), committed suicide on 2nd November 2025 in Edmond, Oklahoma.  
@@ -34,7 +34,7 @@ I attended Donald's funeral in Denver last weekend, where I got to meet his wond
 
 If you have struggled with suicidal thoughts yourself, some of what follows may feel uncomfortably familiar.
 
-[![](/website/assets/images/2025/12/in-loving-memory.jpg)](</assets/images/2025/12/in-loving-memory.jpg>)_(Photo frame from Donald 's Memorial Mass in Denver, 20th December 2025)_
+[![](/assets/images/2025/12/in-loving-memory.jpg)](</assets/images/2025/12/in-loving-memory.jpg>)_(Photo frame from Donald 's Memorial Mass in Denver, 20th December 2025)_
 
 Donald was never boring, in all the good and all the bad ways!
 
@@ -60,7 +60,7 @@ His loss has hit me hard because I have also had long spells of suicidal ideatio
   
 Behind the spiky public persona was an exceptionally kind, considerate and thoughtful guy. Shy and nervous, even! Many people did not get to see that side of Donald online, but it was very evident in person at conferences. Many people said _" He's so nice - not what I expected!"_
 
-[![](/website/assets/images/2025/12/donald-andrew-angelah.jpg?w=1024)](</assets/images/2025/12/donald-andrew-angelah.jpg>)_(Andrew Dick, Donald McIntyre and Angelah Li, collectively forming the ETC Cooperative Marketing team, at POW Summit in Prague, October 2023)_
+[![](/assets/images/2025/12/donald-andrew-angelah.jpg?w=1024)](</assets/images/2025/12/donald-andrew-angelah.jpg>)_(Andrew Dick, Donald McIntyre and Angelah Li, collectively forming the ETC Cooperative Marketing team, at POW Summit in Prague, October 2023)_
 
 I am not a clinician but I do have a lot of personal experience around people with mental health issues, starting with myself. Over the years, I observed in Donald many patterns commonly associated with [Borderline Personality Disorder](<https://en.wikipedia.org/wiki/Borderline_personality_disorder>), which may help contextualize the frequent online "blow-ups" and "rage-quits". He cycled through many, many Twitter accounts, either being banned or quitting and then returning.  
   

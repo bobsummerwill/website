@@ -35,9 +35,9 @@ Here are some examples of being a friend trumping any formal relationship just i
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Look at this beautiful soul. ♥️🇨🇦 <a href="https://t.co/3ftT2F4JNd">pic.twitter.com/3ftT2F4JNd</a></p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/955150624059949056">January 21, 2018</a></blockquote>
 
-![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/website/assets/images/2018/01/mvimg_20180119_204213.jpg)
+![Maker:S,Date:2017-8-31,Ver:6,Lens:Kan03,Act:Lar02,E-ve](/assets/images/2018/01/mvimg_20180119_204213.jpg)
 
-![FullSizeR](/website/assets/images/2018/01/fullsizer.jpg)
+![FullSizeR](/assets/images/2018/01/fullsizer.jpg)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you, <a href="https://twitter.com/StevenNerayoff">@stevennerayoff</a>, for introducing me to <a href="https://twitter.com/dieguito">@dieguito</a> 🙂<br><br>Great conversation with <a href="https://twitter.com/MattSpoke">@MattSpoke</a> too. So much commonality. Let's worth together. No more tribalism or unnecessarily silos 🙂#blockchain #community <a href="https://t.co/PzSfo76jCe">pic.twitter.com/PzSfo76jCe</a></p>&mdash; Bob Summerwill (@BobSummerwill) <a href="https://twitter.com/BobSummerwill/status/954554370217033728">January 20, 2018</a></blockquote>
 

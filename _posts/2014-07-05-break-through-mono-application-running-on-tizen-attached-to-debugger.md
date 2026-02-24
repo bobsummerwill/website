@@ -10,7 +10,7 @@ permalink: /2014/07/05/break-through-mono-application-running-on-tizen-attached-
 
 BREAK-THROUGH! We have a Mono application running on Tizen attached to debugger.
 
-[![256t](/website/assets/images/2014/07/256t.png)](/website/assets/images/2014/07/256t.png)
+[![256t](/assets/images/2014/07/256t.png)](/assets/images/2014/07/256t.png)
 
  
 

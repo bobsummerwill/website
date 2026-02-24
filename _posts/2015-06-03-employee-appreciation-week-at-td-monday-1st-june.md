@@ -24,12 +24,12 @@ This was also where we could pick up our BBQ tickets for later in the week. I en
 
 Always nice to have a bit of fun at work!
 
-[![2015-06-01 09.04.27](/website/assets/images/2015/05/2015-06-01-09-04-27.jpg)](/website/assets/images/2015/05/2015-06-01-09-04-27.jpg)
+[![2015-06-01 09.04.27](/assets/images/2015/05/2015-06-01-09-04-27.jpg)](/assets/images/2015/05/2015-06-01-09-04-27.jpg)
 
-[![IMG-20150601-00047](/website/assets/images/2015/05/img-20150601-00047.jpg)](/website/assets/images/2015/05/img-20150601-00047.jpg)
+[![IMG-20150601-00047](/assets/images/2015/05/img-20150601-00047.jpg)](/assets/images/2015/05/img-20150601-00047.jpg)
 
-[![2015-06-01 09.04.31](/website/assets/images/2015/05/2015-06-01-09-04-31.jpg)](/website/assets/images/2015/05/2015-06-01-09-04-31.jpg)
+[![2015-06-01 09.04.31](/assets/images/2015/05/2015-06-01-09-04-31.jpg)](/assets/images/2015/05/2015-06-01-09-04-31.jpg)
 
-[![2015-06-01 09.04.34](/website/assets/images/2015/05/2015-06-01-09-04-34.jpg)](/website/assets/images/2015/05/2015-06-01-09-04-34.jpg)
+[![2015-06-01 09.04.34](/assets/images/2015/05/2015-06-01-09-04-34.jpg)](/assets/images/2015/05/2015-06-01-09-04-34.jpg)
 
-[![2015-06-01 18.34.38](/website/assets/images/2015/05/2015-06-01-18-34-38.jpg)](/website/assets/images/2015/05/2015-06-01-18-34-38.jpg)
+[![2015-06-01 18.34.38](/assets/images/2015/05/2015-06-01-18-34-38.jpg)](/assets/images/2015/05/2015-06-01-18-34-38.jpg)

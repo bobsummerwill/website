@@ -10,7 +10,7 @@ permalink: /2014/06/16/why-did-you-leave-ea/
 
 Since I tendered my resignation with EA I have been asked multiple times "Why did you leave EA? What was the one thing which really pushed you to make the change after so many years?"
 
-[![bob-not-at-ea](/website/assets/images/2014/06/bob-not-at-ea.png)](/website/assets/images/2014/06/bob-not-at-ea.png)
+[![bob-not-at-ea](/assets/images/2014/06/bob-not-at-ea.png)](/assets/images/2014/06/bob-not-at-ea.png)
 
 It is a good question. How can plucky little [Roadhouse Interactive](http://roadhouseinteractive.com) have more to offer me than [EA](http://ea.com)?
 

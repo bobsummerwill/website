@@ -11,7 +11,7 @@ featured_image: /assets/images/2016/06/private.jpg
 
 **UPDATE - We have a room assigned! H.3244 on Sunday 2nd February between 14.30 and 15.30. That is upstairs in the H building which has the info centre, T-shirts and some of the rooms for the talks. Look for the BoF signs pointing in the right way.**
 
-![Screen Shot 2020-02-01 at 12.36.19 PM](/website/assets/images/2020/01/screen-shot-2020-02-01-at-12.36.19-pm.png)  
+![Screen Shot 2020-02-01 at 12.36.19 PM](/assets/images/2020/01/screen-shot-2020-02-01-at-12.36.19-pm.png)  
 Greetings!
 
 I am proposing a blockchain "Birds of a Feather" session at FOSDEM 2020.

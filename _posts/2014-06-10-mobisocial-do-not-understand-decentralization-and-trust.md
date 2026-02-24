@@ -11,7 +11,7 @@ permalink: /2014/06/10/mobisocial-do-not-understand-decentralization-and-trust/
 
 One of the keynote speeches at the recent [Tizen Developer Conference 2014](https://www.tizen.org//events/tizen-developer-conference/2014) was given by [Monica Lam](http://suif.stanford.edu/~lam/) of [MobiSocial](http://www.mobisocial.us/about/), presenting their [Omlet chat platform](http://www.omlet.me).
 
-![](/website/assets/images/2016/06/Omlet.png)
+![](/assets/images/2016/06/Omlet.png)
 
 I was interested to hear what they had to say, because I have been following "BitCoin 2.0" technology recently. I am specifically interested in the paradigm-shifting consequences of truly trust-less distributed ledger systems like the [Bitcoin block-chain](https://en.bitcoin.it/wiki/Block_chain) and other distributed consensus systems, such [as the one used by Ripple](https://ripple.com/wiki/Consensus).
 

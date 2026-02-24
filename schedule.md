@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vancouver), except when I am not!
-![IMG_0360](/website/assets/images/2020/01/img_0360.jpg)
+![IMG_0360](/assets/images/2020/01/img_0360.jpg)
 ## Future conferences and events
 #### 2026
 

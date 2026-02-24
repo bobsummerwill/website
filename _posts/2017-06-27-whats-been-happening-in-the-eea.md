@@ -36,7 +36,7 @@ permalink: /2017/06/27/whats-been-happening-in-the-eea/
 
 I've had a number of people asking me recently what has been happening on the technical side of things within the EEA over the last month or so. The answer to that question is "lots", but it has mostly been churning under the surface.
 
-![4319045729_35432efe06_z](/website/assets/images/2017/06/4319045729_35432efe06_z.jpg)  
+![4319045729_35432efe06_z](/assets/images/2017/06/4319045729_35432efe06_z.jpg)  
 [[Churning Water by Indi Samarajiva](https://www.flickr.com/photos/indi/4319045729/in/photolist-7zEePF-UpZU7C-6rnAVo-FgT8N7-8V4ja8-2jz5oP-9psQ-mEioX-tUwC-39LNer-3dXXJv-6haLE8-cjURRQ-4TRPyo-d3LUAW-cgEFV-qSwMQA-nYa5aS-UAJeDS-kte4N-8HEsUy-eZR5uR-nYamMt-Lsr5-5xrQgu-wsXZ5z-o7w3cM-m3C4fh-wWwrWs-eGr3M-9kAaTA-9cDfbe-7tjKUU-531M6P-hmPd2-88kLKL-4X7dt4-dVM8ob-qSwWFw-5ZfTnq-5oJx6p-62GgmR-hj99m-9hwuf7-5B27wS-6SbLBF-qAQUtv-aS6FSV-7YjSAS-8gvQoc)]
 
 The mundane reality of setting up a new organization on the scale of the EEA is that you need a lot of structure, defined operational processes, rules and bureaucracy. Without that you have lots of talk and nothing much being achieved.

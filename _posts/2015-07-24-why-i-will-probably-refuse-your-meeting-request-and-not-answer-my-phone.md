@@ -14,7 +14,7 @@ permalink: /2015/07/24/why-i-will-probably-refuse-your-meeting-request-and-not-a
 
 If you are a geek like me, you will have a good understanding of [synchronous versus asynchronous](http://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean) operations.
 
-[![120301](/website/assets/images/2015/07/120301.gif)](/website/assets/images/2015/07/120301.gif)
+[![120301](/assets/images/2015/07/120301.gif)](/assets/images/2015/07/120301.gif)
 
 When most computers were only single-threaded with one CPU core there was little need for asynchronous operations. You would have queues and stacks for deferred work, but all operations were essentially gated by the total volume of work to be done. You could use data structures to change the order in which that work happened, but there was no potential for truly parallel work.
 
@@ -22,7 +22,7 @@ In my [undergraduate Computer Science course in Leeds, UK](http://www.engineerin
 
 Anybody who has been through such a course will remember [The Mutual Exclusion Problem](https://en.wikipedia.org/wiki/Mutual_exclusion) and [The Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) (both first noted by [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) in 1965. **That is 50 years ago**), semaphores and mutexes. Our exercises at the time were on [Transputers](https://en.wikipedia.org/wiki/Transputer) using [Occam2](https://en.wikipedia.org/wiki/Occam_\(programming_language\)). Those technologies are the ancestors of [Clojure](https://en.wikipedia.org/wiki/Clojure), [Erlang](https://en.wikipedia.org/wiki/Erlang_\(programming_language\)), [Rust](https://en.wikipedia.org/wiki/Rust_\(programming_language\)), [Scala](https://en.wikipedia.org/wiki/Scala_\(programming_language\)) and [Stackless Python](https://en.wikipedia.org/wiki/Stackless_Python).
 
-[![20150724_105245](/website/assets/images/2015/07/20150724_105245.jpg)](/website/assets/images/2015/07/20150724_105245.jpg)
+[![20150724_105245](/assets/images/2015/07/20150724_105245.jpg)](/assets/images/2015/07/20150724_105245.jpg)
 
 Well guess what? Our work "work streams" suffer from exactly the same concurrency problems as computers, because these patterns are the nature of the beast for any coordinated activities, whether that is in digital form for computers or in organization form for team activities within corporations.
 
@@ -34,6 +34,6 @@ Most people have probably seen this quadrant. Repeated allowing unplanned synchr
 
 **So … if I don't answer your call, or reject your meeting request, please don't be offended! Send me an e-mail or IM message (Lync, Twitter, Telegram, Hangouts) and I will get back to you asynchronously. I suggest that you consider doing the same yourself 🙂**
 
-[![MerrillCoveyMatrix](/website/assets/images/2015/07/merrillcoveymatrix.png)](/website/assets/images/2015/07/merrillcoveymatrix.png)
+[![MerrillCoveyMatrix](/assets/images/2015/07/merrillcoveymatrix.png)](/assets/images/2015/07/merrillcoveymatrix.png)
 
 From <https://en.wikipedia.org/wiki/First_Things_First_(book)#/media/File:MerrillCoveyMatrix.png>

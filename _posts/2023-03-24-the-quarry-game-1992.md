@@ -16,7 +16,7 @@ My first paid programming work, from my work experience at Penrhyn Quarry. Made 
 
 I bought a USB 3.5″ disk drive to attach to me Mac, and the disk just worked, and the emulator just worked too:
 
-[![](/website/assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png)](/website/assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png)
+[![](/assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png)](/assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png)
 
 Here is the [**Pascal source code**](https://drive.google.com/file/d/1qPhBhG8FFl3AqPjuKw7CIQhB-nKLVv9_/view?usp=share_link):
 

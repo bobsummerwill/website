@@ -43,7 +43,7 @@ Ultimately the contributors to the C++ codebase will make the decision on whethe
 
  
 
-![apache](/website/assets/images/2016/06/apache.gif)
+![apache](/assets/images/2016/06/apache.gif)
 
 ### What is the paperwork?
 

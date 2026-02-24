@@ -7,7 +7,7 @@ permalink: /2016/02/10/dream-job-working-for-ethereum-foundation/
 
 I am delighted to share the news that I will be starting my dream job on Monday, as a part-time contractor for the [Ethereum Foundation](http://ethereum.org) working on the [Ethereum C++ client](https://github.com/ethereum/webthree-umbrella/).
 
-![ethereum_040414](/website/assets/images/2016/02/ethereum_040414.jpg)
+![ethereum_040414](/assets/images/2016/02/ethereum_040414.jpg)
 
 As anybody who knows me will be aware, I've been **rather obsessed with Ethereum** over the past few months, and have been putting a lot of time and effort into the C++ client via [doublethink.co](http://doublethink.co), first with [Anthony Cros](https://twitter.com/anthony_cros) and then more recently on my own. It has been a real blast.
 
@@ -17,4 +17,4 @@ I truly believe that Ethereum has the potential to impact our technical and soci
 
 Woot, woot - Happy Hat!
 
-![1yrtlkt](/website/assets/images/2016/02/1yrtlkt.jpg)
+![1yrtlkt](/assets/images/2016/02/1yrtlkt.jpg)

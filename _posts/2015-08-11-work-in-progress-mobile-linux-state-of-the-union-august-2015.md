@@ -19,7 +19,7 @@ The battlefield of mobile Linux has essentially been in a state of misery and de
 
 How did we get here? Where are we going? Will a true mobile Linux rise up to form a third eco-system to compete with Android and iOS?
 
-See [Mer and mobile operating systems (SVG)](/website/assets/images/external/misc/Mer_and_mobile_operating_systems.svg) and [MeeGo and co timeline](/website/assets/images/external/misc/MeeGo_and_co_timeline.svg) (SVG).
+See [Mer and mobile operating systems (SVG)](/assets/images/external/misc/Mer_and_mobile_operating_systems.svg) and [MeeGo and co timeline](/assets/images/external/misc/MeeGo_and_co_timeline.svg) (SVG).
 
 _[Caveat - the author's own personal involvement in mobile Linux development began in 2014, so this history is all second-hand. Feedback, corrections, observations on alternative perspectives, etc. are all exceedingly welcome]_
 

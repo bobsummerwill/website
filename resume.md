@@ -7,7 +7,7 @@ permalink: /resume/
 **Bob Summerwill**  
 Senior Software Engineer and Architect ([bob@summerwill.net](mailto:bob@summerwill.net))  
 CTO and Co-Founder, [Varro Technologies](https://varro.tech)  
-**Detail/download here - > [Google Docs](<https://docs.google.com/document/d/1o86_PtG2hWtMAEuRW6iTXs037vvevW2qgrGIUAqspHo/edit?usp=sharing> "Link to original in Google Docs") | [PDF](/website/assets/images/external/misc/bob-summerwill-resume-october-2018.pdf)**
+**Detail/download here - > [Google Docs](<https://docs.google.com/document/d/1o86_PtG2hWtMAEuRW6iTXs037vvevW2qgrGIUAqspHo/edit?usp=sharing> "Link to original in Google Docs") | [PDF](/assets/images/external/misc/bob-summerwill-resume-october-2018.pdf)**
 
 * * *
 
@@ -19,7 +19,7 @@ Stood for Hyperledger TSC in August 2018 after two years of support.
 
 Shipped 20 AAA products at Electronic Arts for 9 platforms, on billion dollar projects.
 
-[![bob](/website/assets/images/external/wordpress/2014/05/bob.jpeg)](/website/assets/images/external/wordpress/2014/05/bob.jpeg)
+[![bob](/assets/images/external/wordpress/2014/05/bob.jpeg)](/assets/images/external/wordpress/2014/05/bob.jpeg)
 
 * * *
 

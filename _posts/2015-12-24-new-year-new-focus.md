@@ -27,7 +27,7 @@ featured_image: /assets/images/2015/12/80163578_80163157.jpg
 
 The New Year is going to see a new phase of development here at **doublethinkco**.
 
-![80163578_80163157](/website/assets/images/2015/12/80163578_80163157.jpg)
+![80163578_80163157](/assets/images/2015/12/80163578_80163157.jpg)
 
 You're going to see a lot more hands-on work from this [old soldier](https://www.linkedin.com/in/bobsummerwill). I'm planning to finally get my hands dirty in the C++ code and start making concrete strides towards a [C++ Light Client](doublethink.co/ethereum-light-client/) after [our porting diversion](http://doublethink.co/2015/09/22/porting-ethereum-to-mobile-linux/).
 
@@ -44,7 +44,7 @@ You're going to see a lot more hands-on work from this [old soldier](https://www
 
 Our flagship target device ([Gear S2 smartwatch](http://www.samsung.com/global/galaxy/gear-s2/)) is still fluttering just a fingertip beyond of our grasp, but it will happen soon, along with various other target devices - some rational (Android, iOS, Intel), some [whimsical (N900, N9)](https://twitter.com/doublethink_co/status/680056050880389120).
 
-![20151020_063054](/website/assets/images/2015/10/20151020_063054.jpg)
+![20151020_063054](/assets/images/2015/10/20151020_063054.jpg)
 
 Anthony has [wrapped up](http://doublethink.co/2015/12/22/wrapping-up/) his contract for **doublethinkco** , and will be moving on to other projects. I would just like to take the opportunity to think him profoundly for everything he's done. I think it's fair to say that he have both learnt **a lot** in the process, and have equally high hopes for Ethereum.
 

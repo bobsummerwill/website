@@ -58,7 +58,7 @@ To complete the circle on this story, Bruce replied to my [End of an Era](https:
 
 He did better than that. He came out for 3-4 hours, and we had a great time talking about EA and FIFA, and even about [Distinctive Software](http://en.wikipedia.org/wiki/Distinctive_Software). There were 40-50 EA folk there (even some who had been at DSI), and many old acquaintances were renewed. What a great night, and what a class act Bruce McMillan is. I was honored to have him there for my big send off.
 
-[![20140530_233118](/website/assets/images/2014/06/20140530_233118.jpg)](/website/assets/images/2014/06/20140530_233118.jpg)
+[![20140530_233118](/assets/images/2014/06/20140530_233118.jpg)](/assets/images/2014/06/20140530_233118.jpg)
 
 Read … [Rejection, tragedy and billions of dollars - The story of FIFA](https://www.mcvuk.com/business/rejection-tragedy-and-billions-of-dollars-the-story-of-fifa). It's the fascinating story of how the very first FIFA game was brought to life by Bruce and friends.
 

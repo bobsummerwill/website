@@ -10,7 +10,7 @@ permalink: /2015/09/14/block-chain-technology-finally-hitting-the-radar-of-the-b
 
 As you may or may not be aware, I am [seriously interested](http://doublethink.co/) in block-chain technology and all other forms of decentralization. There is a massive wave of disruption coming to finance in the very near future. I hope that TD Securities is ready.
 
-[![bitcoin-logo-3d](/website/assets/images/2015/09/bitcoin-logo-3d.jpg)](/website/assets/images/2015/09/bitcoin-logo-3d.jpg)
+[![bitcoin-logo-3d](/assets/images/2015/09/bitcoin-logo-3d.jpg)](/assets/images/2015/09/bitcoin-logo-3d.jpg)
 
 I'll just point out a few block-chain finance articles which I've spotted in the last week or so:
 

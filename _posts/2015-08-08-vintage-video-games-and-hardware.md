@@ -40,28 +40,28 @@ And a shot of the Neo Geo Arcade machine they had for sale:
 
 And some still photos I took:
 
-[![20150808_163318](/website/assets/images/2015/08/20150808_163318.jpg)](/website/assets/images/2015/08/20150808_163318.jpg)
+[![20150808_163318](/assets/images/2015/08/20150808_163318.jpg)](/assets/images/2015/08/20150808_163318.jpg)
 
  
 
-[![20150808_163322](/website/assets/images/2015/08/20150808_163322.jpg)](/website/assets/images/2015/08/20150808_163322.jpg)
+[![20150808_163322](/assets/images/2015/08/20150808_163322.jpg)](/assets/images/2015/08/20150808_163322.jpg)
 
-[![20150808_163328](/website/assets/images/2015/08/20150808_163328.jpg)](/website/assets/images/2015/08/20150808_163328.jpg)
+[![20150808_163328](/assets/images/2015/08/20150808_163328.jpg)](/assets/images/2015/08/20150808_163328.jpg)
 
-[![20150808_163332](/website/assets/images/2015/08/20150808_163332.jpg)](/website/assets/images/2015/08/20150808_163332.jpg)
+[![20150808_163332](/assets/images/2015/08/20150808_163332.jpg)](/assets/images/2015/08/20150808_163332.jpg)
 
-[![20150808_163339](/website/assets/images/2015/08/20150808_163339.jpg)](/website/assets/images/2015/08/20150808_163339.jpg)
+[![20150808_163339](/assets/images/2015/08/20150808_163339.jpg)](/assets/images/2015/08/20150808_163339.jpg)
 
  
 
-[![20150808_163349](/website/assets/images/2015/08/20150808_163349.jpg)](/website/assets/images/2015/08/20150808_163349.jpg)
+[![20150808_163349](/assets/images/2015/08/20150808_163349.jpg)](/assets/images/2015/08/20150808_163349.jpg)
 
-[![20150808_163357](/website/assets/images/2015/08/20150808_163357.jpg)](/website/assets/images/2015/08/20150808_163357.jpg)
+[![20150808_163357](/assets/images/2015/08/20150808_163357.jpg)](/assets/images/2015/08/20150808_163357.jpg)
 
-[![20150808_163410](/website/assets/images/2015/08/20150808_163410.jpg)](/website/assets/images/2015/08/20150808_163410.jpg)
+[![20150808_163410](/assets/images/2015/08/20150808_163410.jpg)](/assets/images/2015/08/20150808_163410.jpg)
 
-[![20150808_164433](/website/assets/images/2015/08/20150808_164433.jpg)](/website/assets/images/2015/08/20150808_164433.jpg)
+[![20150808_164433](/assets/images/2015/08/20150808_164433.jpg)](/assets/images/2015/08/20150808_164433.jpg)
 
-[![20150808_164438](/website/assets/images/2015/08/20150808_164438.jpg)](/website/assets/images/2015/08/20150808_164438.jpg)
+[![20150808_164438](/assets/images/2015/08/20150808_164438.jpg)](/assets/images/2015/08/20150808_164438.jpg)
 
-[![20150808_164449](/website/assets/images/2015/08/20150808_164449.jpg)](/website/assets/images/2015/08/20150808_164449.jpg)
+[![20150808_164449](/assets/images/2015/08/20150808_164449.jpg)](/assets/images/2015/08/20150808_164449.jpg)

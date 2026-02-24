@@ -12,4 +12,4 @@ permalink: /2014/06/25/week-of-geek-extended-play-game-boy-advance-2001/
 
 I dug this old beauty out while tidying up at home this week.
 
-[![2014-06-24 19.48.36](/website/assets/images/2014/06/2014-06-24-19-48-36.jpg)](/website/assets/images/2014/06/2014-06-24-19-48-36.jpg)[![2014-06-24 19.53.53](/website/assets/images/2014/06/2014-06-24-19-53-53.jpg)](/website/assets/images/2014/06/2014-06-24-19-53-53.jpg)
+[![2014-06-24 19.48.36](/assets/images/2014/06/2014-06-24-19-48-36.jpg)](/assets/images/2014/06/2014-06-24-19-48-36.jpg)[![2014-06-24 19.53.53](/assets/images/2014/06/2014-06-24-19-53-53.jpg)](/assets/images/2014/06/2014-06-24-19-53-53.jpg)

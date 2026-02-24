@@ -126,7 +126,7 @@ As to "Tadashi Izumi", well yeah, that doesn't look good. Perhaps you could expl
 
 And as for "AceOfWallStreet" not getting "straight answers" while wading in like a complete tool saying that ADA was the Japanese OneCoin, well, yeah, it is unsurprising that he was not treated as somebody with genuine concerns:
 
-![](/website/assets/images/2018/03/cecbf-1ilb9ho_bsnpwo2htlkxezq.jpeg)
+![](/assets/images/2018/03/cecbf-1ilb9ho_bsnpwo2htlkxezq.jpeg)
 
 Leon Fu asserting that ETC was led by Charles in the same way that ETH was led by @VitalikButerin is wrong on both scores:
 
@@ -140,11 +140,11 @@ And let me make some brief comments on "An Analysis of Charles Hoskinson’s Apo
 
 See quote below. Damn straight. I met @dieguito in Miami. This quote was labeled as FUD, but it is absolutely on the mark, IMHO.
 
-![](/website/assets/images/external/twitter/DUeJMoHVMAATU6_.jpg)
+![](/assets/images/external/twitter/DUeJMoHVMAATU6_.jpg)
 
 This also. Spot on.
 
-![](/website/assets/images/external/twitter/DUeJ2SyVoAAYb4Y.jpg)
+![](/assets/images/external/twitter/DUeJ2SyVoAAYb4Y.jpg)
 
 So anyway … I think we are left with pretty much nothing of substance here. We have @leashless's assertion that @IOHK_Charles did sociopathic things while at the Ethereum Foundation, but Vinay wasn't there. It was stories he heard and my belief now is they were exaggerated.
 
@@ -250,7 +250,7 @@ They have done amazing work for humanity. All free of change. Often under heavy 
 
 Peace out, world. I will stop typing now 🙂
 
-![](/website/assets/images/external/twitter/DUeZqrbU0AEKtXe.jpg)
+![](/assets/images/external/twitter/DUeZqrbU0AEKtXe.jpg)
 
 _([@IOHK_Charles](https://twitter.com/IOHK_Charles): Bob, I appreciate you trying to build bridges and mend the past, but you have to understand that for nearly 4 years there's been a campaign to make Hoskinson a swear word in the Ethereum circles)_
 
@@ -260,7 +260,7 @@ _([@gavofyork](https://twitter.com/gavofyork): See you in a week or two Bob :))_
 
 Just 7 days, my friend 😀 And this time will should get more than the 5 mins of IRL time we have ever had together! This was at DEVCON3.
 
-![](/website/assets/images/external/twitter/DUrI2JAUMAAcjNX.jpg)
+![](/assets/images/external/twitter/DUrI2JAUMAAcjNX.jpg)
 
 [_(@LefterisJP_](https://twitter.com/LefterisJP) _: Get a room you two ;))_
 
@@ -271,6 +271,6 @@ And shortly afterwards …
 
  
 
-![](/website/assets/images/external/twitter/DVvoantX4AAaaq5.jpg)
+![](/assets/images/external/twitter/DVvoantX4AAaaq5.jpg)
 
-![](/website/assets/images/external/twitter/DVvodWLXkAIUpFt.jpg)
+![](/assets/images/external/twitter/DVvodWLXkAIUpFt.jpg)

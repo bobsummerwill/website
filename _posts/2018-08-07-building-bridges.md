@@ -21,7 +21,7 @@ I have been told that I am too altruistic. That I need to be a little more selfi
 
 Integrity and transparency are really important to me. I don't want to wear a mask. I don't want there to be a business Bob and a personal Bob. You get the same Bob whoever you are and whatever the context. It is this one, here with my friend and fellow Vancouver blockchainer, Chelsea Palmer (AKA Ms Gnu) at Decentralized Web Summit last week:
 
-![IMG_20180731_160106](/website/assets/images/2018/08/img_20180731_1601061.jpg)
+![IMG_20180731_160106](/assets/images/2018/08/img_20180731_1601061.jpg)
 
 Last November I started maintaining a [Conflict of Interests Statement](http://bobsummerwill.com/conflict-of-interests-statement/) on my website, so everyone on the planet can know who I am and what my financial incentives are. I want there to be no doubt whatsoever about the purity of my intentions.
 
@@ -35,7 +35,7 @@ Well here we are. Nine months further on and **I am** running for office.
 
 I am [standing for election](http://bobsummerwill.com/2018/07/30/i-am-running-for-election-to-the-hyperledger-technical-steering-committee/) to the Hyperledger Technical Steering Committee (TSC) because I have unfinished business in building what I see is the most important bridge of all to help blockchain reach its full potential: The bridge to mainstream adoption.
 
-![800px-Golden_Gate_Bridge_](/website/assets/images/2016/02/800px-golden_gate_bridge_.jpg)[Golden Gate Bridge in the Evening Sun (Creative Commons Attributed 3.0 Unported)](/website/assets/images/external/misc/Golden_Gate_Bridge_.JPG)
+![800px-Golden_Gate_Bridge_](/assets/images/2016/02/800px-golden_gate_bridge_.jpg)[Golden Gate Bridge in the Evening Sun (Creative Commons Attributed 3.0 Unported)](/assets/images/external/misc/Golden_Gate_Bridge_.JPG)
 
 As I wrote more than two years ago in my [Ethereum Everywhere](https://bobsummerwill.com/2016/07/12/ethereum-everywhere/) blog post while I was attempting to bridge the Ethereum and Hyperledger communities for the first time:
 
@@ -47,7 +47,7 @@ _**The real world never works in black-and-white, and demonizing people with sim
 
 And I still love this quote:
 
-![cow.png](/website/assets/images/2018/08/cow.png)
+![cow.png](/assets/images/2018/08/cow.png)
 
 So maybe the world was not ready for such a public <-> enterprise blockchain bridge in 2016, but I see a real shift in that thinking in the meantime. Maximalism of all forms is melting away as more and more people realize that a one-size-fits all solution is very unlikely for blockchain.
 
@@ -74,11 +74,11 @@ We are starting to make steps towards regulatory clarity.
 
 **We are not playing games anymore. This is seriously impactful stuff. What might have looked like hard lines between public and private and between different technology bases in 2015/2016 are rapidly blurring.**
 
-As John Wolpert said so well in his recent [Bring on the Stateful Internet](https://media.consensys.net/bring-on-the-stateful-internet-d589adc7bb65) post:![Screen Shot 2018-08-07 at 10.28.58 PM](/website/assets/images/2018/08/screen-shot-2018-08-07-at-10-28-58-pm.png)
+As John Wolpert said so well in his recent [Bring on the Stateful Internet](https://media.consensys.net/bring-on-the-stateful-internet-d589adc7bb65) post:![Screen Shot 2018-08-07 at 10.28.58 PM](/assets/images/2018/08/screen-shot-2018-08-07-at-10-28-58-pm.png)
 
 There is no conflict here. His conclusion is spot-on:
 
-![Screen Shot 2018-08-07 at 10.31.17 PM](/website/assets/images/2018/08/screen-shot-2018-08-07-at-10-31-17-pm.png)
+![Screen Shot 2018-08-07 at 10.31.17 PM](/assets/images/2018/08/screen-shot-2018-08-07-at-10-31-17-pm.png)
 
 This is the same perspective which I would bring to my work on the **Hyperledger Technical Steering Committee**. This is not a zero sum game. We need to work together across all of these technologies, and to have a neutral forum where we can all collaborate on the **open source projects** which underpin both commercial and non-commercial efforts. Same as Linux. Same as the web.
 
