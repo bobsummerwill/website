@@ -4,40 +4,6 @@ title: "Game programming notebook (1995)"
 date: "2014-06-22 06:24:01 -0700"
 permalink: /2014/06/22/game-programming-notebook-1995/
 ---
-![image 10](/assets/images/2023/11/image-10.png)
-
-![image 11](/assets/images/2023/11/image-11.png)
-
-![image 12](/assets/images/2023/11/image-12.png)
-
-![image 13](/assets/images/2023/11/image-13.png)
-
-![image 14](/assets/images/2023/11/image-14.png)
-
-![image 15](/assets/images/2023/11/image-15.png)
-
-![image 1](/assets/images/2023/11/image-1.png)
-
-![image 2](/assets/images/2023/11/image-2.png)
-
-![image 3](/assets/images/2023/11/image-3.png)
-
-![image 4](/assets/images/2023/11/image-4.png)
-
-![image 5](/assets/images/2023/11/image-5.png)
-
-![image 6](/assets/images/2023/11/image-6.png)
-
-![image 7](/assets/images/2023/11/image-7.png)
-
-![image 8](/assets/images/2023/11/image-8.png)
-
-![image 9](/assets/images/2023/11/image-9.png)
-
-![image 9](/assets/images/2023/11/image-9.png)
-
-![image](/assets/images/2023/11/image.png)
-
 
 
 I found these notes while I was clearing out my desk at EA.

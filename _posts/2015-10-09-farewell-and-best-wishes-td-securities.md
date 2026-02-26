@@ -6,12 +6,6 @@ permalink: /2015/10/09/farewell-and-best-wishes-td-securities/
 ---
 ![donald and bob](/assets/images/2025/12/donald-and-bob.png)
 
-![donald and bob](/assets/images/2025/12/donald-and-bob.png)
-
-![donald andrew angelah](/assets/images/2025/12/donald-andrew-angelah.jpg)
-
-![in loving memory](/assets/images/2025/12/in-loving-memory.jpg)
-
 
 
 So today, Friday 9th October 2015, is my last day at TD Securities.

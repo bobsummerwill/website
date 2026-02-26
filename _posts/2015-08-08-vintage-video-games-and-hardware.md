@@ -4,30 +4,6 @@ title: "Vintage video games and hardware"
 date: "2015-08-08 18:31:14 -0700"
 permalink: /2015/08/08/vintage-video-games-and-hardware/
 ---
-![bitcoin computer](/assets/images/2025/06/bitcoin_computer.jpeg)
-
-![daniel and john](/assets/images/2025/06/daniel_and-john.jpeg)
-
-![freedom law](/assets/images/2025/06/freedom_law.jpeg)
-
-![hk](/assets/images/2025/06/hk.jpeg)
-
-![justin](/assets/images/2025/06/justin.jpeg)
-
-![paris](/assets/images/2025/06/paris.jpeg)
-
-![ross](/assets/images/2025/06/ross.jpeg)
-
-![schiff](/assets/images/2025/06/schiff.jpeg)
-
-![skull](/assets/images/2025/06/skull.jpeg)
-
-![sycophant](/assets/images/2025/06/sycophant.jpeg)
-
-![the sphere](/assets/images/2025/06/the_sphere.jpeg)
-
-![yago](/assets/images/2025/06/yago.jpeg)
-
 
 
 This afternoon I visited [Buy and Sell Kings](http://www.buyandsellkings.net/), on Danforth Ave in Toronto. It is amazing.
