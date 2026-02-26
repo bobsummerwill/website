@@ -4,10 +4,6 @@ title: "World Cup 2002 Semi-Final trip"
 date: "2014-06-27 07:06:33 -0700"
 permalink: /2014/06/27/world-cup-2002-semi-final-trip/
 ---
-![heartbeat](/assets/images/2015/08/heartbeat.png)
-
-![ios 152](/assets/images/2015/08/ios-152.png)
-
 
 
 I was lucky enough to win an EA raffle to attend the [FIFA World Cup 2002](http://en.wikipedia.org/wiki/2002_FIFA_World_Cup) semi-final between South Korea and Germany in Seoul.

@@ -4,24 +4,6 @@ title: "Geek’s Paradise Is Nearing Completion"
 date: "2014-06-28 11:46:58 -0700"
 permalink: /2014/06/28/geeks-paradise-is-nearing-completion/
 ---
-![2015 05 14 12 55 00](/assets/images/2015/05/2015-05-14-12-55-00.jpg)
-
-![2015 05 14 12 55 08](/assets/images/2015/05/2015-05-14-12-55-08.jpg)
-
-![2015 05 14 12 55 57](/assets/images/2015/05/2015-05-14-12-55-57.jpg)
-
-![2015 05 14 12 56 06](/assets/images/2015/05/2015-05-14-12-56-06.jpg)
-
-![2015 05 14 12 56 19](/assets/images/2015/05/2015-05-14-12-56-19.jpg)
-
-![2015 05 14 13 28 11](/assets/images/2015/05/2015-05-14-13-28-11.jpg)
-
-![2015 05 14 14 44 30](/assets/images/2015/05/2015-05-14-14-44-30.jpg)
-
-![2015 05 14 15 12 03](/assets/images/2015/05/2015-05-14-15-12-03.jpg)
-
-![2015 05 14 16 12 44](/assets/images/2015/05/2015-05-14-16-12-44.jpg)
-
 
 
 I just need to troubleshoot whatever issue there is with the video output on the Commodore 64 and I'm set! Raspberry Pi and Intel NUCs need fresh, clean installs too. Should have all this done very soon. Please excuse the poor quality of the photos. Low light conditions.
