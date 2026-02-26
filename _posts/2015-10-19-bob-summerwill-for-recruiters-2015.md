@@ -8,8 +8,6 @@ permalink: /2015/10/19/bob-summerwill-for-recruiters-2015/
 
 ![80163578 80163157](/assets/images/2015/12/80163578_80163157.jpg)
 
-![80163578 80163157](/assets/images/2015/12/80163578_80163157.jpg)
-
 
 
 ## What is this blog post about?

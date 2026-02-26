@@ -7,8 +7,6 @@ featured_image: /assets/images/2018/03/mvimg_20180308_0926082152047230452517189.
 ---
 ![800px golden gate bridge ](/assets/images/2018/08/800px-golden_gate_bridge_.jpg)
 
-![800px golden gate bridge ](/assets/images/2018/08/800px-golden_gate_bridge_.jpg)
-
 ![cow](/assets/images/2018/08/cow.png)
 
 ![img 20180731 1601061](/assets/images/2018/08/img_20180731_1601061.jpg)

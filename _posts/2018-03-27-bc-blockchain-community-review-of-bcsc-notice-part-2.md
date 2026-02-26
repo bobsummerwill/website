@@ -9,8 +9,6 @@ featured_image: /assets/images/2018/03/mvimg_20180327_1536034509363060262949049.
 
 ![linkedin](/assets/images/2018/07/linkedin.png)
 
-![linkedin](/assets/images/2018/07/linkedin.png)
-
 ![screen shot 2018 07 18 at 10 14 11 am](/assets/images/2018/07/screen-shot-2018-07-18-at-10-14-11-am.png)
 
 ![screen shot 2018 07 18 at 9 52 05 am](/assets/images/2018/07/screen-shot-2018-07-18-at-9-52-05-am.png)

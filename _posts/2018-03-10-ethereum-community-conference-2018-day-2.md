@@ -9,8 +9,6 @@ featured_image: /assets/images/2018/03/mvimg_20180309_0921457575427668156730580.
 
 ![faith](/assets/images/2018/03/faith.jpg)
 
-![faith](/assets/images/2018/03/faith.jpg)
-
 ![mvimg 20180306 1844155731076349108026873](/assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg)
 
 
