@@ -4,31 +4,6 @@ title: "Bitcoin Conference 2025 in Las Vegas"
 date: "2025-06-09 15:30:30 -0700"
 permalink: /2025/06/09/bitcoin-conference-2025-in-las-vegas/
 ---
-![2014 06 22 11 22 45](/assets/images/2014/06/2014-06-22-11-22-45.jpg)
-
-![2014 06 22 11 26 56](/assets/images/2014/06/2014-06-22-11-26-56.jpg)
-
-![2014 06 22 11 27 01](/assets/images/2014/06/2014-06-22-11-27-01.jpg)
-
-![2014 06 22 11 33 281](/assets/images/2014/06/2014-06-22-11-33-281.jpg)
-
-![2014 06 22 11 33 28](/assets/images/2014/06/2014-06-22-11-33-28.jpg)
-
-![2014 06 22 11 33 421](/assets/images/2014/06/2014-06-22-11-33-421.jpg)
-
-![2014 06 22 11 33 42](/assets/images/2014/06/2014-06-22-11-33-42.jpg)
-
-![2014 06 22 11 51 37](/assets/images/2014/06/2014-06-22-11-51-37.jpg)
-
-![2014 06 22 11 52 13](/assets/images/2014/06/2014-06-22-11-52-13.jpg)
-
-![2014 06 22 11 52 51](/assets/images/2014/06/2014-06-22-11-52-51.jpg)
-
-![2014 06 22 11 52 58](/assets/images/2014/06/2014-06-22-11-52-58.jpg)
-
-![2014 06 22 11 53 13](/assets/images/2014/06/2014-06-22-11-53-13.jpg)
-
-
 
 Earlier this month I attended my second [Bitcoin Conference](<https://b.tc/conference/2025>), held at [The Venetian Resort](<https://www.venetianlasvegas.com/>) in Las Vegas.
 
