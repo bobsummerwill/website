@@ -13,7 +13,7 @@ featured_image: /assets/images/2016/06/cpp.png
 
 This is a proposal to re-license the C++ implementation of the Ethereum client runtime ([cpp-ethereum](http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/)) from the copyleft [GPLv3](https://en.wikipedia.org/wiki/GNU_General_Public_License) license to the permissive [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License) license, to enable Ethereum to be used as broadly as possible.
 
-**NB: If you would like to discuss this plan, please let 's all do so on [cpp-ethereum](https://gitter.im/ethereum/cpp-ethereum) Gitter channel. Thanks!**
+**NB: If you would like to discuss this plan, please let's all do so on [cpp-ethereum](https://gitter.im/ethereum/cpp-ethereum) Gitter channel. Thanks!**
 
 Moving to permissive licensing has been the ["plan of record"](https://github.com/ethereum/wiki/wiki/Licensing) for a year or so, which we are belatedly executing on. Gavin Wood actually started the process of relicensing to MIT last year, but it was never completed. So we're going through the process again now.
 

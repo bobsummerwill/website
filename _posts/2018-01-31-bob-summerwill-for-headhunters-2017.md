@@ -9,7 +9,7 @@ permalink: /2018/01/31/bob-summerwill-for-headhunters-2017/
 
 _[Downtown Vancouver. Image via Flickr Creative Commons, by JamesZ_Flickr]_
 
-**[Originally****[published on LinkedIn](https://www.linkedin.com/pulse/bob-summerwill-headhunters-bob-summerwill/)****on 20th December 2017]**
+**Originally [published on LinkedIn](https://www.linkedin.com/pulse/bob-summerwill-headhunters-bob-summerwill/) on 20th December 2017**
 
 This is a follow-up to my [Bob Summerwill for Recruiters (2015)](http://bobsummerwill.com/2015/10/19/bob-summerwill-for-recruiters-2015/) article, written in October 2015. My circumstances have changed since then. I now have a wealth of job opportunities open to me through my own professional network, and I don't really have any need for recruiters anymore. Sorry, my friends!
 

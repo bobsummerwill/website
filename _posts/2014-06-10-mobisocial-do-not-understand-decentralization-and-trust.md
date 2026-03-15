@@ -5,7 +5,7 @@ date: "2014-06-10 16:14:59 -0700"
 permalink: /2014/06/10/mobisocial-do-not-understand-decentralization-and-trust/
 ---
 
-**UPDATE: My[tweet](https://twitter.com/BobSummerwill/status/476514451902828544) of this blog entry got a couple of brief replies from [Monica Lam](http://suif.stanford.edu/~lam/), and I piled on some further criticism.**
+**UPDATE: My [tweet](https://twitter.com/BobSummerwill/status/476514451902828544) of this blog entry got a couple of brief replies from [Monica Lam](http://suif.stanford.edu/~lam/), and I piled on some further criticism.**
 
 * * *
 

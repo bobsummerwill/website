@@ -34,7 +34,7 @@ We have the opportunity to build a set of technologies in the next few years whi
 
 These technologies need to reach into every nook and cranny of our computing fabric: big and small, public and private, independent and corporate; smartwatches to mainframes.
 
-**This is**a large and ambitious undertaking that is addictive and all-consuming for many of us. Diversity of viewpoints, a broad spectrum of use-cases to mature the base technology, and an open and inclusive attitude and environment of collaboration will help us achieve our shared goals.**  **
+**This is** a large and ambitious undertaking that is addictive and all-consuming for many of us. Diversity of viewpoints, a broad spectrum of use-cases to mature the base technology, and an open and inclusive attitude and environment of collaboration will help us achieve our shared goals.
 
  
 
@@ -103,7 +103,7 @@ Open Whisper Systems [recently](<https://whispersystems.org/blog/license-update/
 
 That dual GPL/commercial licensing approach is a sensible approach for open-source friendly companies to take, which balances their desire to make the code available for public good while also generating revenue to keep them alive from those end-users who want or need to use the code in a context which is not GPL-compatible.
 
-**Dual licensing is the approach which Mono took, which Qt have recently switched to and which Ethcore are following with Parity.****That dual licensing approach doesn 't work well for a Foundation, though, which is explicitly non-profit.**
+**Dual licensing is the approach which Mono took, which Qt have recently switched to and which Ethcore are following with Parity. That dual licensing approach doesn't work well for a Foundation, though, which is explicitly non-profit.**
 
 The choice of GPL for a Foundation just reduces the contexts in which the code can be used, because offering a commercial license is not really possible. Commercial licensing would be incompatible with the non-profit mission of the Ethereum Foundation.
 
