@@ -10,7 +10,7 @@ The information below was first published in early 2018 and has not been kept up
   * [The Infinite Machine](https://www.amazon.ca/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142/) – Camilo Russo
   * [The Cryptopians](https://www.amazon.ca/Cryptopians-Idealism-Greed-Making-Cryptocurrency/dp/1541763017/) – Laura Shin
 
-In February 2020, I learnt that the BitcoinTalk announcement of the Ethereum project was modified 8 months after the fact to write various people out of the history, which is very sad.  Compare-and-_contrast the[original post](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) with the [current post](https://bitcointalk.org/index.php?topic=428589.0).  See also [original website team page](https://web.archive.org/web/20150214231051/https://blog.ethereum.org/team/)._
+In February 2020, I learnt that the BitcoinTalk announcement of the Ethereum project was modified 8 months after the fact to write various people out of the history, which is very sad. Compare and contrast the [original post](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) with the [current post](https://bitcointalk.org/index.php?topic=428589.0). See also the [original website team page](https://web.archive.org/web/20150214231051/https://blog.ethereum.org/team/).
 
 * * *
 
@@ -29,7 +29,7 @@ Obviously the list of people who have been involved with the Ethereum Project as
     * [Jonathan James Harrison](https://youtu.be/QCVjk_PU-1U?t=760) (“Johnny Bitcoin”) who [“gave Gav the heads-up”](https://twitter.com/BobSummerwill/status/1060955276096892928) in late 2013.
     * [Yanislav Malahov](https://www.linkedin.com/in/%F0%9F%A6%B8%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8Fyanislav-malahov-5025b712/) – the [“Godfather of Ethereum”](https://yanislav.medium.com/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5)
   * _November 2013_
-    * **[Vitalik Buterin](https://vitalik.ca/) (“[vbuterin](https://github.com/vbuterin)“) – Nov 2013 to present **([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m)) **(co-Founder)**
+    * **[Vitalik Buterin](https://vitalik.ca/)** ([vbuterin](https://github.com/vbuterin)) – Nov 2013 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m)) **(co-Founder)**
   * _December 2013_
     * [Gavin Wood](https://www.linkedin.com/in/gavin-wood-88843316/) (“[gavofyork](https://github.com/gavofyork)“) – Dec 2013 to Oct 2015 ([DEVCON0](https://www.youtube.com/watch?v=_BvvUlKDqp0)) **(co-Founder)**
     * [Jeff Wilcke](https://github.com/obscuren) (“[obscuren](https://github.com/obscuren)“) – Dec 2013 to Feb 2017 ([DEVCON0](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=2018s)) **(co-Founder)**
@@ -56,43 +56,14 @@ Obviously the list of people who have been involved with the Ethereum Project as
 
   
 
-Emanuele Costa – Jan 2014 to ?
-
-  
-
-  
-
+    * Emanuele Costa – Jan 2014 to ?
     * [Eric Lombrozo](https://www.linkedin.com/in/ericlombrozo/) – Jan 2014 to ?
-
-  
-
-  
-
-Max Kaye – Jan 2014 to ?
-
-  
-
-  
-
-  
-
-
-[Wendell Davis](https://www.youtube.com/watch?v=4jGqmlA4KEY) – Jan 2014 to ?
-
-  
-
+    * Max Kaye – Jan 2014 to ?
+    * [Wendell Davis](https://www.youtube.com/watch?v=4jGqmlA4KEY) – Jan 2014 to ?
     * [Paul Snow](https://www.linkedin.com/in/paulsn/) – Jan 2014 to ?
     * [Chris Odom](https://www.linkedin.com/in/chris-odom-257236/) – Jan 2014 to ?
     * [Steve Dakh](https://www.linkedin.com/in/steve-dakh/) – Jan 2014 to ?
-
-  
-
-Kyle Kurbegovich – Jan 2014 to ?
-
-  
-
-  
-
+    * Kyle Kurbegovich – Jan 2014 to ?
     * Dino Mark – Jan 2014 to ?
   * _February 2014_
     * [Aeron Buchanon](https://www.linkedin.com/in/ambuchanan/) – Feb 2014 to Nov 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=15m42s))
@@ -125,16 +96,16 @@ Kyle Kurbegovich – Jan 2014 to ?
     * Roland ??? – Sep 2014 to Nov 2014 (designed the ETHDEV space in Berlin)
   * _October 2014_
     * [Alex van de Sande](https://www.linkedin.com/in/alexvandesande/) (“[avsa](https://github.com/alexvandesande)“) – Oct 2014 to Jan 2019 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=26m38s))
-    * **[Christian Reitwiessner](https://www.linkedin.com/in/dr-christian-reitwiessner-594b0982/) (“[chriseth](https://github.com/chriseth)“) – Oct 2014 to present **([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s))
-    * [Daniel Nagy](https://www.linkedin.com/in/daniel-a-nagy-4b52962/) (“[nagydani](https://github.com/nagydani)“) – Oct 2014 to ???([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m10s))
-    * **[Felix Lange](https://bra.twurst.com/) (“[fjl](https://github.com/fjl)“)- Oct 2014 to present **([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m38s))
-    * [Viktor Tron](https://www.linkedin.com/in/viktortron/) (“[zelig](https://github.com/zelig)“)- Oct 2014 to ???([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=23m41s))
+    * **[Christian Reitwiessner](https://www.linkedin.com/in/dr-christian-reitwiessner-594b0982/)** ([chriseth](https://github.com/chriseth)) – Oct 2014 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s))
+    * [Daniel Nagy](https://www.linkedin.com/in/daniel-a-nagy-4b52962/) ([nagydani](https://github.com/nagydani)) – Oct 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m10s))
+    * **[Felix Lange](https://bra.twurst.com/)** ([fjl](https://github.com/fjl)) – Oct 2014 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m38s))
+    * [Viktor Tron](https://www.linkedin.com/in/viktortron/) ([zelig](https://github.com/zelig)) – Oct 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=23m41s))
     * [Aeron Buchanan](https://www.linkedin.com/in/ambuchanan/) – Oct 2014 to Nov 2015
     * [Marek Kotewicz](https://www.linkedin.com/in/marekkotewicz/) (“[debris](https://github.com/debris)“) – Oct 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m52s))
     * [Vincent G ](https://www.linkedin.com/in/Caktux/)(“[caktux](https://github.com/caktux)“) – Oct 2014 to ??? (was already effectively gone when I started in Feb 2016)
   * _November 2014_
-    * **[Yann Levreau](https://www.linkedin.com/in/yann-levreau-31218891/) (“yann300”) – Nov 2014 to present **([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
-    * **[Paweł Bylica](https://www.linkedin.com/in/pawelbylica/) – Nov 2014 to present ** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
+    * **[Yann Levreau](https://www.linkedin.com/in/yann-levreau-31218891/)** (yann300) – Nov 2014 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
+    * **[Paweł Bylica](https://www.linkedin.com/in/pawelbylica/)** – Nov 2014 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
     * [Piotrek ‘Viggith’ Janiuk](https://www.linkedin.com/in/viggith/) – Nov 2014 to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m46s))
     * Christian Vömel – Nov 2014 to ?? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s))
     * [Lefteris Karapetsas](https://www.linkedin.com/in/eleftherios-karapetsas-1a18b919/) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
