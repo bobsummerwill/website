@@ -83,7 +83,7 @@ At one stage there were 8 working clients:
 
 
 
-The Ruby client was built by Jan Xie of[ Cryptape](<https://cryptape.com>) and the Python client was built by Heiko Hess of Brainbot. Both Cryptape and Brainbot were launch members of the EEA.
+The Ruby client was built by Jan Xie of [Cryptape](<https://cryptape.com>) and the Python client was built by Heiko Hess of Brainbot. Both Cryptape and Brainbot were launch members of the EEA.
 
 [![](/assets/images/2023/11/image.png?w=680)](</assets/images/2023/11/image.png>)Heiko Hess with [Vanessa Grellet](<https://www.linkedin.com/in/vanessa-grellet-10852314>) at the EEA launch event.
 

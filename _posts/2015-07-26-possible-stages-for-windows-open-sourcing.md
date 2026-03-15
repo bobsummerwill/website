@@ -5,7 +5,7 @@ date: "2015-07-26 22:36:31 -0700"
 permalink: /2015/07/26/possible-stages-for-windows-open-sourcing/
 ---
 
-_(first posted on[Engadget Public Access, 21st July 2015](http://www.engadget.com/2015/07/21/possible-stages-for-windows-open-sourcing/))_
+_(first posted on [Engadget Public Access, 21st July 2015](http://www.engadget.com/2015/07/21/possible-stages-for-windows-open-sourcing/))_
 
 A friend responded to my earlier [Will Microsoft open-source Windows?](http://www.engadget.com/2015/07/10/will-microsoft-open-source-windows/) article with the question along the lines of …
 

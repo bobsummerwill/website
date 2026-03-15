@@ -66,7 +66,7 @@ Faith has been accepted as a speaker on **" Crypto Regulations that Protect Inve
 
 ![mvimg_20180306_1844155731076349108026873.jpg](/assets/images/2018/03/mvimg_20180306_1844155731076349108026873.jpg)
 
-_(Bob with[Elena Sinelnikova](https://www.linkedin.com/in/esinelnikova/) and [Natalia Ameline](https://www.linkedin.com/in/natalia-ameline-3475703/) of CryptoChicks in Toronto March 2018)_
+_(Bob with [Elena Sinelnikova](https://www.linkedin.com/in/esinelnikova/) and [Natalia Ameline](https://www.linkedin.com/in/natalia-ameline-3475703/) of CryptoChicks in Toronto March 2018)_
 
 [CryptoChicks](http://cryptochicks.ca/) is a blockchain community made by women for women. This is their first conference and hackathon:
 

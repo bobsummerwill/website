@@ -5,7 +5,7 @@ date: "2015-07-26 22:42:10 -0700"
 permalink: /2015/07/26/tizen-the-emperor-has-no-clothes/
 ---
 
-_(Originally posted on[Mobile Linux News - 25th June 2015](http://www.mobilelinuxnews.com/2015/06/tizen-the-emperor-has-no-clothes/), and on [Engadget Public Access, 22nd July 2015](http://www.engadget.com/2015/07/22/tizen-the-emperor-has-no-clothes/))_
+_(Originally posted on [Mobile Linux News - 25th June 2015](http://www.mobilelinuxnews.com/2015/06/tizen-the-emperor-has-no-clothes/), and on [Engadget Public Access, 22nd July 2015](http://www.engadget.com/2015/07/22/tizen-the-emperor-has-no-clothes/))_
 
 ![](/assets/images/2016/06/Tizen-Logo-1.jpg)
 
