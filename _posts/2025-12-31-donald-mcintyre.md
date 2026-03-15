@@ -24,7 +24,7 @@ featured_image: /assets/images/2025/12/donald-and-bob.png
   
 My dear friend and long-time former colleague, [Donald McIntyre](<https://everloved.com/life-of/donald-mcintyre/>), committed suicide on 2nd November 2025 in Edmond, Oklahoma.  
   
-**Here is[Donald's Memorial Website](<https://everloved.com/life-of/donald-mcintyre/>), where you can leave your condolences, upload photos or videos and record memories you have of Donald, to share with his friends and family.**
+**Here is [Donald's Memorial Website](<https://everloved.com/life-of/donald-mcintyre/>), where you can leave your condolences, upload photos or videos and record memories you have of Donald, to share with his friends and family.**
 
 Donald was living alone in a trailer on a remote piece of land, having, over the years, repeatedly severed family and social connections. He had even left the local church which was his primary social forum after finding his Christian faith in 2021, following many years as an atheist.
 
@@ -92,7 +92,7 @@ Many people will not reach out for the help that they desperately need. Do not f
   
 **Know that you are not alone. Please do reach out for help. However desperate you may feel, know that there are people who love you.**
 
-If you think that it would be helpful to talk to me then **please feel free to[contact me](<https://bobsummerwill.com/contact/>) anytime**, irrespective of whether we have even had any prior contact. This is an ongoing open offer to the world, which I have made multiple times over the years.
+If you think that it would be helpful to talk to me then **please feel free to [contact me](<https://bobsummerwill.com/contact/>) anytime**, irrespective of whether we have even had any prior contact. This is an ongoing open offer to the world, which I have made multiple times over the years.
 
   
 Here are some resources if you or someone you know is struggling. Free and confidential help is available in many countries — by phone, text, or online chat

@@ -15,7 +15,7 @@ featured_image: /assets/images/2020/01/l5-v1-18_9-turn-around.jpg
 
 **UPDATE - We have a room assigned! H.3244 on Sunday 2nd February between 11.30 and 12.30. That is upstairs in the H building which has the info centre, T-shirts and some of the rooms for the talks. Look for the BoF signs pointing in the right way. **
 
-**Bonus: Stay in your seat for Pinephone Porters from 12.30 to 13.30 and for PineTime from 13.30 to 14.30. Then from 15.00 to 15.50[Regaining control of your smartphone with postmarketOS and Maemo Leste](https://fosdem.org/2020/schedule/event/smartphones/) in Janson.**
+**Bonus: Stay in your seat for Pinephone Porters from 12.30 to 13.30 and for PineTime from 13.30 to 14.30. Then from 15.00 to 15.50 [Regaining control of your smartphone with postmarketOS and Maemo Leste](https://fosdem.org/2020/schedule/event/smartphones/) in Janson.**
 
 **Bonus: Sailfish/Mer BoF session 1st Saturday (today) at 15.00 to 14.00 also in room H.3244 booked by Nokius!**
 

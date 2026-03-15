@@ -102,6 +102,6 @@ So, if you are looking for a digital native who can actually help you as a partn
 
 She tells me that she is dealing with clients in Canada, the USA and Hong Kong so far.
 
-**Bijou Lee on[LinkedIn](<https://www.linkedin.com/in/bijou-lee-165325118/>), [Twitter (@crypto_lawyers)](<https://twitter.com/crypto_lawyers>) and [Website (bgl.legal)](<https://bgl.legal/>).**
+**Bijou Lee on [LinkedIn](<https://www.linkedin.com/in/bijou-lee-165325118/>), [Twitter (@crypto_lawyers)](<https://twitter.com/crypto_lawyers>) and [Website (bgl.legal)](<https://bgl.legal/>).**
 
 ![bijou](/assets/images/2018/07/bijou.jpg)

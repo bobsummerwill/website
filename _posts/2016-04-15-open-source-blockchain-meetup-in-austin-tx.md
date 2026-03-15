@@ -14,7 +14,7 @@ permalink: /2016/04/15/open-source-blockchain-meetup-in-austin-tx/
 
 
 
-**UPDATE! EVENT LINKS:[Austin Bitcoin Meetup](http://www.meetup.com/Austin-Bitcoin-Meetup/events/230060854/), [Austin Ethereum Meetup](http://www.meetup.com/Austin-Ethereum-Meetup/events/230447959/).**
+**UPDATE! EVENT LINKS: [Austin Bitcoin Meetup](http://www.meetup.com/Austin-Bitcoin-Meetup/events/230060854/), [Austin Ethereum Meetup](http://www.meetup.com/Austin-Ethereum-Meetup/events/230447959/).**
 
 Greetings! My name is [Bob Summerwill](https://bobsummerwill.com/about/) and I work for the [Ethereum Foundation](https://bobsummerwill.com/2016/03/18/100-ethereum/), mainly on the [Ethereum C++ client](http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/).
 

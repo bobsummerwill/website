@@ -80,8 +80,8 @@ Faith estimates that it will cost her about $2,000 USD to attend.
 
 Please do donate, if you would like to help support her. If not enough funds are raised, she will send all the funds to CryptoChicks. If any excess funds are raised, they will go to CryptoChicks too.
 
-**BTC = 12jTAgdXWSrTmcoM3JMXKCUU5WhwAVvfEx ([blockchain.info](https://blockchain.info/address/12jTAgdXWSrTmcoM3JMXKCUU5WhwAVvfEx))**
+**BTC = 12jTAgdXWSrTmcoM3JMXKCUU5WhwAVvfEx** ([blockchain.info](https://blockchain.info/address/12jTAgdXWSrTmcoM3JMXKCUU5WhwAVvfEx))
 
 **BCH = qzzxwws9439dhksj0l7qkt78mtkwm9k3x5e2u96w0c**
 
-**ETH = 0x212f954f8a75102160ef6dc1328051563c4ff918 ([etherscan.io](https://etherscan.io/address/0x212f954f8a75102160ef6dc1328051563c4ff918))**
+**ETH = 0x212f954f8a75102160ef6dc1328051563c4ff918** ([etherscan.io](https://etherscan.io/address/0x212f954f8a75102160ef6dc1328051563c4ff918))
