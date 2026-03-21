@@ -3,7 +3,6 @@ layout: post
 title: "Ethereum Everywhere"
 date: "2016-07-12 13:23:13 -0700"
 permalink: /2016/07/12/ethereum-everywhere/
-featured_image: /assets/images/2016/06/private.jpg
 ---
 
 

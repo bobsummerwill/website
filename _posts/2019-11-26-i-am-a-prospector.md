@@ -3,7 +3,6 @@ layout: post
 title: "I am a Prospector"
 date: "2019-11-26 07:03:41 -0800"
 permalink: /2019/11/26/i-am-a-prospector/
-featured_image: /assets/images/2019/11/gold_prospector.jpg
 ---
 ![conferencecallphone](/assets/images/2019/12/conferencecallphone.jpg)
 

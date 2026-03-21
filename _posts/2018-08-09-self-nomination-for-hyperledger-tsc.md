@@ -3,7 +3,6 @@ layout: post
 title: "Self-nomination for Hyperledger TSC"
 date: "2018-08-09 18:19:53 -0700"
 permalink: /2018/08/09/self-nomination-for-hyperledger-tsc/
-featured_image: /assets/images/2018/08/the_canadian_house_of_commons.jpg
 ---
 ![coindesk](/assets/images/2018/08/coindesk.jpg)
 

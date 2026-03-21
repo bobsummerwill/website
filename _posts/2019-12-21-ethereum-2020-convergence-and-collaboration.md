@@ -3,7 +3,6 @@ layout: post
 title: "Ethereum 2020: Convergence and Collaboration"
 date: "2019-12-21 05:39:38 -0800"
 permalink: /2019/12/21/ethereum-2020-convergence-and-collaboration/
-featured_image: /assets/images/2016/02/800px-golden_gate_bridge_.jpg
 ---
 
 First published on Coindesk on 26th December 2019 as [The Ethereum Community is No Longer Fighting with Itself.](https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself) This is my original draft.

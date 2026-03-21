@@ -3,7 +3,6 @@ layout: post
 title: "Hyperledger TSC candidates and thoughts on diversity"
 date: "2018-08-15 23:18:47 -0700"
 permalink: /2018/08/15/hyperledger-tsc-candidates-and-thoughts-on-diversity/
-featured_image: /assets/images/2018/08/horses.jpg
 ---
 ![finish](/assets/images/2018/08/finish.jpg)
 
