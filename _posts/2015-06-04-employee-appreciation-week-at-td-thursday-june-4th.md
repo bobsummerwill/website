@@ -4,7 +4,6 @@ title: "Employee Appreciation Week at TD – Thursday June 4th"
 date: "2015-06-04 11:56:56 -0700"
 permalink: /2015/06/04/employee-appreciation-week-at-td-thursday-june-4th/
 ---
-![mvimg 20180310 1309517908106363318801990](/assets/images/2018/03/mvimg_20180310_1309517908106363318801990.jpg)
 
 ![mvimg 20180310 1310042695884678956995246](/assets/images/2018/03/mvimg_20180310_1310042695884678956995246.jpg)
 

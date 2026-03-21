@@ -5,7 +5,6 @@ date: "2020-01-30 14:34:41 -0800"
 permalink: /2020/01/30/fosdem-2020-librem-5-state-of-the-union/
 featured_image: /assets/images/2020/01/l5-v1-18_9-turn-around.jpg
 ---
-![20140528 135715](/assets/images/2014/05/20140528_135715.jpg)
 
 ![20140528 135724](/assets/images/2014/05/20140528_135724.jpg)
 

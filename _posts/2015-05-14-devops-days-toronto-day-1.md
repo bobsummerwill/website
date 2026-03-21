@@ -4,7 +4,6 @@ title: "DevOps Days Toronto – Day 1"
 date: "2015-05-14 20:44:30 -0700"
 permalink: /2015/05/14/devops-days-toronto-day-1/
 ---
-![christian](/assets/images/2016/06/christian.jpg)
 
 ![ethereum logo bw](/assets/images/2016/06/ethereum_logo_bw.png)
 

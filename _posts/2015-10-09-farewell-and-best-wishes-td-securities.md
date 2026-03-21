@@ -4,7 +4,6 @@ title: "Farewell and best wishes, TD Securities!"
 date: "2015-10-09 16:31:20 -0800"
 permalink: /2015/10/09/farewell-and-best-wishes-td-securities/
 ---
-![donald and bob](/assets/images/2025/12/donald-and-bob.png)
 
 
 

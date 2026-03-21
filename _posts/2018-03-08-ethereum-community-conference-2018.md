@@ -3,7 +3,6 @@ layout: post
 title: "Ethereum Community Conference 2018 – Day 1"
 date: "2018-03-08 14:37:30 -0700"
 permalink: /2018/03/08/ethereum-community-conference-2018/
-featured_image: /assets/images/2018/03/mvimg_20180308_0926082152047230452517189.jpg
 ---
 
 

@@ -3,7 +3,6 @@ layout: post
 title: "Women of Hyperledger – How can I help you?"
 date: "2018-08-22 09:55:23 -0700"
 permalink: /2018/08/22/women-of-hyperledger-how-can-i-help-you/
-featured_image: /assets/images/2016/02/finish.jpg
 ---
 ![christian xu bw 1 362x362](/assets/images/2019/10/christian_xu-bw-1-362x362.jpg)
 
