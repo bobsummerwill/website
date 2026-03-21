@@ -3,7 +3,6 @@ layout: post
 title: "ASIC Resistance is a myth"
 date: "2020-02-02 05:59:14 -0700"
 permalink: /2020/02/02/asic-resistance-is-a-myth/
-featured_image: /assets/images/2020/02/fist.png
 ---
 ![explainer 1](/assets/images/2022/10/explainer-1.png)
 

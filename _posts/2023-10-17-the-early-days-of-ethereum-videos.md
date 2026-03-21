@@ -5,7 +5,6 @@ date: "2023-10-17 16:52:20 -0700"
 permalink: /2023/10/17/the-early-days-of-ethereum-videos/
 featured_image: /assets/images/2023/11/image-3.png
 ---
-![2014 07 27 12 45 24](/assets/images/2014/07/2014-07-27-12-45-24.jpg)
 
 ![2014 07 27 12 45 32](/assets/images/2014/07/2014-07-27-12-45-32.jpg)
 

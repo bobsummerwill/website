@@ -4,7 +4,6 @@ title: "Visual Studio QFE Thank You Card.   Bob the Builder.   Roughriders."
 date: "2014-06-26 07:25:24 -0700"
 permalink: /2014/06/26/visual-studio-qfe-thank-you-card-bob-the-builder-roughriders/
 ---
-![20151006 131247](/assets/images/2015/10/20151006_131247.jpg)
 
 ![20151006 131250](/assets/images/2015/10/20151006_131250.jpg)
 

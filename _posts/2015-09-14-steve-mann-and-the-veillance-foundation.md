@@ -4,7 +4,6 @@ title: "Steve Mann and the Veillance Foundation"
 date: "2015-09-14 06:35:46 -0700"
 permalink: /2015/09/14/steve-mann-and-the-veillance-foundation/
 ---
-![bob](/assets/images/2014/05/bob.jpeg)
 
 ![aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng](/assets/images/2016/04/aaeaaqaaaaaaaaczaaaajge0n2nmyje4lthmotqtngqxzc04mty1ltc2mzcwmtrhmjc2ng.jpg)
 

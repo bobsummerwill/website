@@ -3,7 +3,6 @@ layout: post
 title: "Gas Limit Configuration Call"
 date: "2019-12-27 06:47:58 -0800"
 permalink: /2019/12/27/gas-limit-configuration-call/
-featured_image: /assets/images/2019/12/conferencecallphone.jpg
 ---
 ![img 20180801 122417](/assets/images/2018/08/img_20180801_122417.jpg)
 

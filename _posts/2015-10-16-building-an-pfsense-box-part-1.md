@@ -4,7 +4,6 @@ title: "Building an pfSense box – part 1"
 date: "2015-10-16 07:55:53 -0700"
 permalink: /2015/10/16/building-an-pfsense-box-part-1/
 ---
-![140601271](/assets/images/2014/06/140601271.jpg)
 
 ![bob philip baybridge](/assets/images/2014/06/bob-philip-baybridge.jpg)
 
