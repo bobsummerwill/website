@@ -9,7 +9,6 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ## Future conferences and events
 #### 2026
 
-* Mar 30 to Apr 2 – [ETHCC[9]](https://ethcc.io/) – Cannes, France – speaking, participation?
 * Aug 6 to Aug 9 – [FOSSY 2026](https://2026.fossy.ca/) – University of British Columbia, Vancouver, Canada
 * Nov 2 – [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) – Mumbai, India – speaking?
 * Nov 3 to Nov 6 – [DEVCON8](https://devcon.org/en/) – Mumbai, India – speaking?
@@ -18,6 +17,7 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 #### 2026
 
 * Feb 17 to Feb 21 – [ETHDenver 2026](https://ethdenver.com/) – Denver, CO – speaking, Museum of Ethereum
+* Mar 30 to Apr 2 – [ETHCC[9]](https://ethcc.io/) – Cannes, France – speaking, participation?
 
 #### 2025
 
