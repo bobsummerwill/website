@@ -9,6 +9,9 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ## Future conferences and events
 #### 2026
 
+* Jul – STRATO onsite – Brooklyn, NY
+* Jul 18 to Aug 2 – UK trip
+* Oct – STRATO onsite – Brooklyn, NY
 * Aug 6 to Aug 9 – [FOSSY 2026](https://2026.fossy.ca/) – University of British Columbia, Vancouver, Canada
 * Nov 2 – [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) – Mumbai, India – speaking?
 * Nov 3 to Nov 6 – [DEVCON8](https://devcon.org/en/) – Mumbai, India – speaking?
@@ -16,11 +19,19 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ## Past conferences and events
 #### 2026
 
+* Jan 5 to Jan 9 – STRATO management offsite – Miami, FL
+* Jan 12 to Jan 16 – STRATO onsite – Brooklyn, NY
+* Apr 13 to Apr 17 – STRATO onsite – Brooklyn, NY
 * Feb 17 to Feb 21 – [ETHDenver 2026](https://ethdenver.com/) – Denver, CO – speaking, Museum of Ethereum
 * Mar 30 to Apr 2 – [ETHCC[9]](https://ethcc.io/) – Cannes, France – speaking, participation?
 
 #### 2025
 
+* Jan 6 to Jan 10 – STRATO management offsite – Miami, FL
+* Jan 15 to Jan 18 – STRATO onsite – Brooklyn, NY
+* Apr 16 to Apr 23 – STRATO onsite – Brooklyn, NY
+* Jul 12 to Jul 19 – STRATO onsite – Brooklyn, NY
+* Oct 11 to Oct 18 – STRATO onsite – Brooklyn, NY
 * Feb 23 to Mar 2 – [ETHDenver 2025](https://ethdenver.com) – attending
 * May 27 to May 29 – [Bitcoin 2025](https://bitcoin2024.b.tc/2025) – Las Vegas, NV – attending
 * Jun 30 to Jul 3 – [ETHCC[8]](https://ethcc.io) – Cannes, France – attending
