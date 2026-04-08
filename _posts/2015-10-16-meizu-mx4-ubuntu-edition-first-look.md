@@ -4,7 +4,6 @@ title: "Meizu MX4 Ubuntu Edition – first look"
 date: "2015-10-16 19:28:07 -0700"
 permalink: /2015/10/16/meizu-mx4-ubuntu-edition-first-look/
 ---
-![bob](/assets/images/2018/03/bob.jpg)
 
 ![mvimg 20180308 080608216661156025326362](/assets/images/2018/03/mvimg_20180308_080608216661156025326362.jpg)
 

@@ -3,9 +3,7 @@ layout: post
 title: "Donald McIntyre"
 date: "2025-12-31 07:10:00 -0800"
 permalink: /2025/12/31/donald-mcintyre/
-featured_image: /assets/images/2025/12/donald-and-bob.png
 ---
-![2015 05 15 21 38 03](/assets/images/2015/05/2015-05-15-21-38-03.jpg)
 
 ![2015 05 15 21 38 14](/assets/images/2015/05/2015-05-15-21-38-14.jpg)
 

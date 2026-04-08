@@ -3,7 +3,6 @@ layout: post
 title: "Ethereum Community Conference 2018"
 date: "2018-03-10 22:00:24 -0800"
 permalink: /2018/03/10/ethereum-community-conference-2018-2/
-featured_image: /assets/images/2018/03/mvimg_20180308_0926082152047230452517189.jpg
 ---
 ![img 20180310 wa00005136994490396288835](/assets/images/2018/03/img-20180310-wa00005136994490396288835.jpg)
 

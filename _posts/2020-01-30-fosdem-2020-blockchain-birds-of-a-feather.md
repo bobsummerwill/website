@@ -3,7 +3,6 @@ layout: post
 title: "FOSDEM 2020 – Blockchain Birds of a Feather"
 date: "2020-01-30 15:20:16 -0800"
 permalink: /2020/01/30/fosdem-2020-blockchain-birds-of-a-feather/
-featured_image: /assets/images/2016/06/private.jpg
 ---
 ![fist](/assets/images/2020/02/fist.png)
 
