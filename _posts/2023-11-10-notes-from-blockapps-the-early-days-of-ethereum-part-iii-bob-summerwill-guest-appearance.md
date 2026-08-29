@@ -5,7 +5,6 @@ date: "2023-11-10 16:56:12 -0800"
 permalink: /2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/
 featured_image: /assets/images/2023/11/image-9.png
 ---
-![20150730 092311](/assets/images/2015/08/20150730_092311.jpg)
 
 ![20150730 092316](/assets/images/2015/08/20150730_092316.jpg)
 

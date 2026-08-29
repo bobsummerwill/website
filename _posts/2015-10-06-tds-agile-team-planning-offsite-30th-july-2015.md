@@ -4,7 +4,6 @@ title: "TDS Agile Team – Planning offsite, 30th July 2015"
 date: "2015-10-06 14:16:16 -0700"
 permalink: /2015/10/06/tds-agile-team-planning-offsite-30th-july-2015/
 ---
-![2014 05 17 06 26 39](/assets/images/2014/06/2014-05-17-06-26-39.jpg)
 
 ![2014 05 17 09 38 20](/assets/images/2014/06/2014-05-17-09-38-20.jpg)
 

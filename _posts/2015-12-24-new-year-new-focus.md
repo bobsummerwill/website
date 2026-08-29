@@ -3,7 +3,6 @@ layout: post
 title: "New Year, New Focus"
 date: "2015-12-24 13:08:32 -0800"
 permalink: /2015/12/24/new-year-new-focus/
-featured_image: /assets/images/2015/12/80163578_80163157.jpg
 ---
 ![capitalfactorylogoblack](/assets/images/2016/06/capitalfactorylogoblack.png)
 

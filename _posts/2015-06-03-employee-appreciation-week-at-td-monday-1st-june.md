@@ -4,7 +4,6 @@ title: "Employee Appreciation Week at TD – Monday 1st June"
 date: "2015-06-03 02:43:46 -0700"
 permalink: /2015/06/03/employee-appreciation-week-at-td-monday-1st-june/
 ---
-![20150604 144713](/assets/images/2015/06/20150604_144713.jpg)
 
 ![20150604 144726](/assets/images/2015/06/20150604_144726.jpg)
 

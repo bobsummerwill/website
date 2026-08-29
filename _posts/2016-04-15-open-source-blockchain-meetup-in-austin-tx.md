@@ -4,7 +4,6 @@ title: "Open source Blockchain Meetup in Austin, TX"
 date: "2016-04-15 01:45:50 -0700"
 permalink: /2016/04/15/open-source-blockchain-meetup-in-austin-tx/
 ---
-![20140507 104911](/assets/images/2014/06/20140507_104911.jpg)
 
 ![20140511 102323](/assets/images/2014/06/20140511_102323.jpg)
 

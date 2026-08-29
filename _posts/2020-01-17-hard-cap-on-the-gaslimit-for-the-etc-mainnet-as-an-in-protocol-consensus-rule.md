@@ -3,7 +3,6 @@ layout: post
 title: "Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule"
 date: "2020-01-17 16:20:33 -0800"
 permalink: /2020/01/17/hard-cap-on-the-gaslimit-for-the-etc-mainnet-as-an-in-protocol-consensus-rule/
-featured_image: /assets/images/2018/08/img_20180801_122417.jpg
 ---
 ![private](/assets/images/2016/07/private.jpg)
 

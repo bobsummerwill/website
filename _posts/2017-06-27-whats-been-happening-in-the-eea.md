@@ -4,7 +4,6 @@ title: "What’s been happening in the EEA?"
 date: "2017-06-27 16:24:44 -0700"
 permalink: /2017/06/27/whats-been-happening-in-the-eea/
 ---
-![gregor](/assets/images/2018/02/gregor.jpg)
 
 ![jon](/assets/images/2018/02/jon.jpg)
 
