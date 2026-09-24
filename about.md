@@ -4,8 +4,6 @@ title: "About Bob"
 permalink: /about/
 ---
 
-![Bob Summerwill](/assets/images/external/wordpress/2018/12/IMG_-b8cpdw.jpg)
-
 ## Overview
 
 Bob Summerwill is a software engineering leader in Vancouver, BC. He spent fifteen years at [Electronic Arts](https://ea.com), most of it on EA SPORTS titles (FIFA, NHL and the first EA SPORTS UFC), then a decade in Ethereum infrastructure and ecosystem leadership: core developer on the Ethereum Foundation's C++ client, lead architect at the launch of the [Enterprise Ethereum Alliance](https://entethalliance.org), Executive Director of the [ETC Cooperative](https://etccooperative.org/) from 2019 to 2024, and Head of Ecosystem at [BlockApps](https://blockapps.net) in 2025 and 2026, where he drove the [open-source release of STRATO](https://github.com/strato-net/strato-platform).
@@ -15,7 +13,6 @@ He is now looking for his next role: leading an engineering team in Vancouver, h
 ## Now
 
 - [The Early Days of Ethereum](https://earlydaysofeth.org), a history project he runs for fun: an oral-history archive of the project's founding era, with fourteen long-form [conversations](https://earlydaysofeth.org/conversations) so far, profiles of more than 180 people, and a timeline from 2013 onwards, all CC BY-SA.
-- The [Ethereum Time Machine](https://github.com/bobsummerwill/EthereumTimeMachine), which brought the 2016 Homestead-era Ethereum chain back to life and was exhibited as the [Museum of Ethereum](https://ethdenver.com/museum/) at ETHDenver 2026.
 - Local LLMs and agents at home: a [Hermes Agent](https://github.com/NousResearch/hermes-agent) instance running against a self-hosted Qwen model, served by [llama.cpp](https://github.com/ggml-org/llama.cpp) from a two-GPU workstation and shared over [Tailscale](https://tailscale.com) with the rest of his Linux machines. There is always some new model or tool being tried out.
 - Next up: [Ethereum Cypherpunk Congress 3](https://congress.web3privacy.info) and Devcon8 in Mumbai, November 2026. Past and upcoming talks are on the [schedule](/schedule/) page.
 
