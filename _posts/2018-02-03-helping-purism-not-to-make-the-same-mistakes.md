@@ -5,8 +5,6 @@ date: "2018-02-03 13:15:41 -0800"
 permalink: /2018/02/03/helping-purism-not-to-make-the-same-mistakes/
 ---
 
-![](/assets/images/2016/06/220px-tux8496358109139481696.png)
-
 I spoke to Ash Nazir, Carsten Munk and Carsten Haitzler and a few more people last night about wanting to help Purism NOT make avoidable mistakes with the Librem 5.
 
 I had contacted Zlatan Todorić, who is the technical lead for Purism OS, a few days back. I told Zlatan that I love Librem's approach, but that I felt that Librem 5 would fail because their approach looked like a naive port of Desktop Linux.

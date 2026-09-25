@@ -5,6 +5,7 @@ date: "2018-03-12 01:03:26 -0700"
 permalink: /2018/03/12/help-faith-obafemi-get-to-the-cryptochicks-conference-hackathon-in-toronto/
 featured_image: /assets/images/2018/07/faith.jpg
 ---
+
 ![img 20180327 1540296619437114839574586](/assets/images/2018/03/img_20180327_1540296619437114839574586.jpg)
 
 ![mvimg 20180327 1520416477138076397915893](/assets/images/2018/03/mvimg_20180327_1520416477138076397915893.jpg)
@@ -42,10 +43,6 @@ featured_image: /assets/images/2018/07/faith.jpg
 ![mvimg 20180327 1540241166260270868966526](/assets/images/2018/03/mvimg_20180327_1540241166260270868966526.jpg)
 
 ![mvimg 20180327 1547052420884583282511443](/assets/images/2018/03/mvimg_20180327_1547052420884583282511443.jpg)
-
-
-
-![faith](/assets/images/2018/07/faith.jpg)
 
 [Faith Obafemi](https://www.linkedin.com/in/faithobafemi/) is from Nigeria and is very, very multi-talented **( "Digital Lawyer || Digital Content Consultant || Blockchain and Crypto Researcher || Freelance Writer")**.
 

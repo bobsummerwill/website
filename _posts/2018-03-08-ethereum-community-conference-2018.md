@@ -6,9 +6,6 @@ permalink: /2018/03/08/ethereum-community-conference-2018/
 featured_image: /assets/images/2018/03/mvimg_20180308_0926082152047230452517189.jpg
 ---
 
-
-![bob](/assets/images/2015/05/bob.jpg)
-
 I gave the opening keynote at the Ethereum Community Conference 2018 on the morning of Thursday 8th March 2018:
 
   * VIDEO - Ethereum - Your Turn (narrated by Charles Hoskinson)
