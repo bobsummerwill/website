@@ -13,7 +13,8 @@ He is now looking for his next role: leading an engineering team in Vancouver, h
 ## Now
 
 - [The Early Days of Ethereum](https://earlydaysofeth.org), a history project he runs for fun: an oral-history archive of the project's founding era, with fourteen long-form [conversations](https://earlydaysofeth.org/conversations) so far, profiles of more than 180 people, and a timeline from 2013 onwards, all CC BY-SA.
-- Local LLMs and agents at home: a [Hermes Agent](https://github.com/NousResearch/hermes-agent) instance running against a self-hosted Qwen model, served by [llama.cpp](https://github.com/ggml-org/llama.cpp) from a two-GPU workstation and shared over [Tailscale](https://tailscale.com) with the rest of his Linux machines. There is always some new model or tool being tried out.
+- Local LLMs and agents at home: a [Hermes Agent](https://github.com/NousResearch/hermes-agent) instance running against a self-hosted Qwen 3.8 27B model, served by [llama.cpp](https://github.com/ggml-org/llama.cpp) from a 2 x
+RTX 3090 + NVLink workstation and shared over [Tailscale](https://tailscale.com) with the rest of his Linux machines. There is always some new model or tool being tried out.
 - Next up: [Ethereum Cypherpunk Congress 3](https://congress.web3privacy.info) and Devcon8 in Mumbai, November 2026. Past and upcoming talks are on the [schedule](/schedule/) page.
 
 ## Prior Lives
