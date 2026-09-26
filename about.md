@@ -8,7 +8,7 @@ permalink: /about/
 
 Bob Summerwill is a software engineering leader in Vancouver, BC. He spent fifteen years at [Electronic Arts](https://ea.com), most of it on EA SPORTS titles (FIFA, NHL and the first EA SPORTS UFC), then a decade in Ethereum infrastructure and ecosystem leadership: core developer on the Ethereum Foundation's C++ client, lead architect at the launch of the [Enterprise Ethereum Alliance](https://entethalliance.org), Executive Director of the [ETC Cooperative](https://etccooperative.org/) from 2019 to 2024, and Head of Ecosystem at [BlockApps](https://blockapps.net) in 2025 and 2026, where he drove the [open-source release of STRATO](https://github.com/strato-net/strato-platform).
 
-He is now looking for his next role: leading an engineering team in Vancouver, hybrid, with mentoring and real technical work as part of the job. Not sales or marketing. He is available from mid-November 2026. If you are hiring, start with the [résumé](/resume/), then [get in touch](/contact/).
+He is now looking for his next role: leading an engineering team in Vancouver, hybrid, with mentoring and real technical work as part of the job. Not sales or marketing. If you are hiring, start with the [résumé](/resume/), then [get in touch](/contact/).
 
 ## Now
 
