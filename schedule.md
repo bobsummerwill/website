@@ -19,23 +19,23 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 
 * Jan 5 to Jan 9 - STRATO management offsite - Miami, FL
 * Jan 12 to Jan 16 - STRATO onsite - Brooklyn, NY
-* Apr 13 to Apr 17 - STRATO onsite - Brooklyn, NY
 * Feb 17 to Feb 21 - [ETHDenver 2026](https://ethdenver.com/) - Denver, CO - speaking "[The Early Days of Ethereum](https://ethdenver.com/speakers/bob-summerwill/)", [Museum of Ethereum](https://ethdenver.com/museum/)
 * Mar 30 to Apr 2 - [ETHCC[9]](https://ethcc.io/) - Cannes, France - speaking "[The Early Days of Ethereum](https://ethcc.io/ethcc-9/agenda/the-early-days-of-ethereum)"
+* Apr 13 to Apr 17 - STRATO onsite - Brooklyn, NY
 
 #### 2025
 
 * Jan 6 to Jan 10 - STRATO management offsite - Miami, FL
 * Jan 15 to Jan 18 - STRATO onsite - Brooklyn, NY
-* Apr 16 to Apr 23 - STRATO onsite - Brooklyn, NY
-* Jul 12 to Jul 19 - STRATO onsite - Brooklyn, NY
-* Oct 11 to Oct 18 - STRATO onsite - Brooklyn, NY
 * Feb 23 to Mar 2 - [ETHDenver 2025](https://ethdenver.com) - attending
+* Apr 16 to Apr 23 - STRATO onsite - Brooklyn, NY
 * May 27 to May 29 - [Bitcoin 2025](https://bitcoin2024.b.tc/2025) - Las Vegas, NV - attending
 * Jun 30 to Jul 3 - [ETHCC[8]](https://ethcc.io) - Cannes, France - attending
+* Jul 12 to Jul 19 - STRATO onsite - Brooklyn, NY
 * Aug 16 to Aug 17 - [Learning Bitcoin](https://www.learningbitcoin.ca/) - Vancouver, Canada - attending
 * Sep 28 to Oct 2 - [TOKEN2049](https://www.token2049.com/) - Singapore - attending
 * Oct 3 to Oct 5 - [Dark Prague](https://darkprague.com) - speaking "Ethereum - a social history"
+* Oct 11 to Oct 18 - STRATO onsite - Brooklyn, NY
 * Nov 16 - [Ethereum Cypherpunk Congress 2](https://congress.web3privacy.info/) - Buenos Aires, Argentina - speaking - "Was Ethereum Ever Cypherpunk?"
 * Nov 17 to Nov 22 - [Devconnect 2025](https://devconnect.org/) - Buenos Aires, Argentina - attending
 
