@@ -3,6 +3,7 @@ layout: post
 title: "Bitcoin Conference 2025 in Las Vegas"
 date: "2025-06-09 15:30:30 -0700"
 permalink: /2025/06/09/bitcoin-conference-2025-in-las-vegas/
+featured_image: /assets/images/2025/06/paris.jpeg
 ---
 
 Earlier this month I attended my second [Bitcoin Conference](<https://b.tc/conference/2025>), held at [The Venetian Resort](<https://www.venetianlasvegas.com/>) in Las Vegas.

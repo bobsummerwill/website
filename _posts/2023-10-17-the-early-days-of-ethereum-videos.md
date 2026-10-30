@@ -3,7 +3,7 @@ layout: post
 title: "BlockApps “The Early Days of Ethereum” videos"
 date: "2023-10-17 16:52:20 -0700"
 permalink: /2023/10/17/the-early-days-of-ethereum-videos/
-featured_image: /assets/images/2023/11/image-3.png
+featured_image: /assets/images/2023/11/image-4.png
 ---
 
 [Kieren James-Lubin](<https://www.linkedin.com/in/kjameslubin/>), [Victor Wong](<https://www.linkedin.com/in/vic4wong/>) and [James Hormuzdiar](<https://www.linkedin.com/in/james-hormuzdiar-b276778/>), the Co-Founders of [BlockApps](<https://blockapps.net/>), have produced two videos in the last month or so reminiscing on the early days of Ethereum. The videos have been a delight for me to watch. While their journey overlaps with my own, I am learning some things which I did not already know. Their vantage point was slightly different to my own. Recording this history before it is forgotten is very important!
