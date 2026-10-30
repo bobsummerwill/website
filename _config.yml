@@ -30,3 +30,7 @@ plugins:
 # Author
 author:
   name: "Bob Summerwill"
+
+# Default image for social/link previews (Telegram, Signal, X, etc.)
+# when a page has no featured_image.
+social_image: /assets/images/bob-summerwill.png
