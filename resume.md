@@ -6,12 +6,12 @@ permalink: /resume/
 
 **Bob Summerwill**  
 Software Engineering Leader  
-Vancouver, BC · [bob@summerwill.net](mailto:bob@summerwill.net) · [linkedin.com/in/bobsummerwill](https://www.linkedin.com/in/bobsummerwill) · [github.com/bobsummerwill](https://github.com/bobsummerwill)  
+Vancouver, BC or remote · [bob@summerwill.net](mailto:bob@summerwill.net) · [linkedin.com/in/bobsummerwill](https://www.linkedin.com/in/bobsummerwill) · [github.com/bobsummerwill](https://github.com/bobsummerwill)  
 **Download: [PDF](/assets/bob-summerwill-resume-2026-09.pdf)**
 
 ---
 
-Thirty years in games, platform engineering and distributed systems: fifteen at Electronic Arts on FIFA, NBA, NHL and the first EA SPORTS UFC; six as Executive Director of a nonprofit, line-managing a team of up to ten across engineering, communications, events and finance; and recent hands-on AI-assisted development work. Enjoys mentoring engineers and helping them develop their skills. Looking to lead an engineering team in Vancouver.
+Thirty years across games, platform engineering and crypto infrastructure: fifteen at Electronic Arts on FIFA, NBA, NHL and the first EA SPORTS UFC; a decade in Ethereum infrastructure and ecosystem leadership, including six years as Executive Director of a nonprofit, line-managing a team of up to ten across engineering, communications, events and finance; and recent hands-on AI-assisted development work. Enjoys mentoring engineers and helping them develop their skills. Looking to lead an engineering team, Vancouver, BC or remote.
 
 ## Highlights
 
@@ -19,7 +19,7 @@ Thirty years in games, platform engineering and distributed systems: fifteen at 
 
 - **Technical strategy and tooling:** Progressed from product engineering into build, tooling and architecture leadership during fifteen years at EA. Built tools adopted across teams and chaired the EA SPORTS Architecture Council, collaborating across teams, studios and organizations.
 
-- **Distributed systems and open source:** Core developer on the Ethereum Foundation’s C++ client; lead architect at the Enterprise Ethereum Alliance launch; six years funding and coordinating Ethereum Classic client teams through seven network upgrades; drove STRATO’s Apache-2.0 release in 2026.
+- **Distributed systems and open source:** Core developer on the Ethereum Foundation’s C++ client; co-lead architect at the Enterprise Ethereum Alliance launch; six years funding and coordinating Ethereum Classic client teams through seven network upgrades; drove STRATO’s Apache-2.0 release in 2026.
 
 - **AI-assisted development:** In 2025–26 built AI-assisted engineering workflows and an MCP server at BlockApps and helped the team adopt them.
 
@@ -51,7 +51,7 @@ Ecosystem leadership and AI adoption for STRATO, BlockApps’ Haskell-based, Eth
 
 - **Ethereum Foundation, 2016:** Core C++ client developer; led the codebase consolidation and the proposed Apache-2.0 relicensing; cross-platform build, release and CI.
 
-- **ConsenSys / Enterprise Ethereum Alliance, 2016–2017:** Lead architect at the 2017 launch (30 founding members); presented the roadmap; secretary of the technical working group and set up its first working groups.
+- **ConsenSys / Enterprise Ethereum Alliance, 2016–2017:** Co-lead architect at the 2017 launch (30 founding members); presented the roadmap; secretary of the technical working group and set up its first working groups.
 
 - **2017–2018:** Sweetbridge (principal developer); Quantfury (blockchain lead).
 

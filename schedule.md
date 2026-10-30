@@ -11,8 +11,8 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ## Future conferences and events
 #### 2026
 
-* Nov 2 - [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) - Mumbai, India - speaking
-* Nov 3 to Nov 6 - [DEVCON8](https://devcon.org/en/) - Mumbai, India - attending
+* Nov 2 - [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) - Mumbai, India - MC-ing and speaking
+* Nov 3 to Nov 6 - [DEVCON8](https://devcon.org/en/) - Mumbai, India - facilitating
 
 ## Past conferences and events
 #### 2026
