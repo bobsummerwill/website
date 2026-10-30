@@ -3,6 +3,7 @@ layout: post
 title: "The Quarry Game – 1992"
 date: "2023-03-24 13:06:42 -0700"
 permalink: /2023/03/24/the-quarry-game-1992/
+featured_image: /assets/images/2023/03/screenshot-2023-03-22-at-6.40.49-pm.png
 ---
 
 Recovered 🙂

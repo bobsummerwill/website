@@ -3,6 +3,7 @@ layout: post
 title: "Inaccuracies in “Ethereum – How A Lie Became Worth Billions”"
 date: "2024-04-15 17:11:46 -0700"
 permalink: /2024/04/15/inaccuracies-in-ethereum-how-a-lie-became-worth-billions/
+featured_image: /assets/images/2024/04/ethereum-lie-video-thumb.jpg
 ---
 
 Last week, Isabella Santos released an 11 minute video entitled “Ethereum – How a Lie Became Worth Billions”, which has had a good number of views and retweets. I watched it and am sorry to say that it contains a large number of inaccuracies and bad assumptions. I made some notes in a Telegram group and it turned into an essay, which I’ve saved here from posterity and future reference.
