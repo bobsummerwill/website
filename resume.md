@@ -7,7 +7,7 @@ permalink: /resume/
 **Bob Summerwill**  
 Software Engineering Leader  
 Vancouver, BC or remote · [bob@summerwill.net](mailto:bob@summerwill.net) · [linkedin.com/in/bobsummerwill](https://www.linkedin.com/in/bobsummerwill) · [github.com/bobsummerwill](https://github.com/bobsummerwill)  
-**Download: [PDF](/assets/bob-summerwill-resume-2026-09.pdf)**
+**Download: [PDF](/assets/bob-summerwill-resume-2026-10.pdf)**
 
 ---
 
@@ -81,7 +81,9 @@ Selected game credits: FIFA Football 2004 and 2005; FIFA 06 Road to FIFA World C
 
 ## Independent projects
 
-- **Local LLMs:** Hermes Agent running against a self-hosted Qwen 3.8 27B model, served by llama.cpp from a 2 x RTX 3090 + NVLink workstation and shared over Tailscale with several other Linux machines.
+- **Home AI lab:** a two-machine local-LLM lab serving the whole family over a private Tailscale network — an Ubuntu workstation with two RTX 3090s (NVLink) and a Mac mini M4 running local models, with Hermes Agent tying it together.
+
+- **Museum of Ethereum:** an ETHDenver 2026 exhibit built with Jessica Angel, mixing physical and digital artifacts from the founding era and featuring the Ethereum Time Machine.
 
 - **Early Days of Ethereum:** founder and host of the founding-era oral-history project; 14 interviews, 180+ profiles.
 
@@ -95,4 +97,4 @@ BSc Computer Science with Artificial Intelligence, University of Leeds, 1996
 
 ---
 
-*Last updated September 2026.*
+*Last updated October 2026.*
