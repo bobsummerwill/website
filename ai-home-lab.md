@@ -18,6 +18,7 @@ Two machines, one private tailnet. The lab serves every family device over [Tail
 | Storage | WD_BLACK SN850X 4 TB NVMe | 1 TB Apple SSD (AP1024Z) |
 | Networking | 10 GbE, 2.5 GbE, 5 GbE, Wi-Fi 7, Thunderbolt 3 | 10 GbE, Wi-Fi 6E, 3 x Thunderbolt 5 |
 | Operating system | Ubuntu 24.04.5 LTS (kernel 7.0.0-38) | macOS 27.0.1 |
+| Estimated cost | ~US$5,650 (second-hand GPUs, rest new) | ~US$2,500 |
 
 ## Shadowfax
 
