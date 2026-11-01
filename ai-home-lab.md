@@ -6,6 +6,11 @@ permalink: /ai-home-lab/
 
 Two machines, one private tailnet. The lab serves every family device over [Tailscale](https://tailscale.com): laptops, phones, desktops and the servers themselves. Access is governed by Tailscale ACLs, and no services are port-forwarded to the internet.
 
+<video controls preload="metadata" style="width:100%;max-width:100%;border-radius:8px;">
+  <source src="{{ '/assets/images/home-ai-lab-video.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Fleet
 
 | | **Shadowfax** | **Zebra** |
