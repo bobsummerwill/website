@@ -13,13 +13,13 @@ He is now looking for his next role: leading an engineering team, Vancouver, BC 
 ## Now
 
 - [The Early Days of Ethereum](https://earlydaysofeth.org), a history project he runs for fun: an oral-history archive of the project's founding era, with fourteen long-form [conversations](https://earlydaysofeth.org/conversations) so far, profiles of more than 180 people, and a timeline from 2013 onwards, all CC BY-SA.
-- [Museum of Ethereum](https://earlydaysofeth.org/videos/museum-of-ethereum-walkthrough/), an exhibit at [ETHDenver](https://ethdenver.com/) 2026 in collaboration with Jessica Angel: a mixture of physical and digital artifacts leaning heavily on Early Days of Ethereum content, also featuring the [Ethereum Time Machine](https://github.com/bobsummerwill/EthereumTimeMachine).
 - A [home AI lab](/ai-home-lab/) serving every family device over a private [Tailscale](https://tailscale.com) network: an Ubuntu workstation with two RTX 3090s and a Mac mini M4 run local models, with [Hermes Agent](https://github.com/NousResearch/hermes-agent) tying it together. There is always some new model or tool being tried out.
 - Next up: [Ethereum Cypherpunk Congress 3](https://congress.web3privacy.info) and [DEVCON8](https://devcon.org/en/) in Mumbai, November 2026. Past and upcoming talks are on the [schedule](/schedule/) page.
 
 ## Prior Lives
 
 - Head of Ecosystem at [BlockApps](https://blockapps.net) in 2025 and 2026: the [open-source release of STRATO](https://github.com/strato-net/strato-platform) under Apache-2.0, AI-assisted development tooling, and the public face of the project at [EthCC\[9\]](https://ethcc.io/archives/the-early-days-of-ethereum) and [ETHDenver](https://earlydaysofeth.org/videos/museum-of-ethereum-walkthrough/) 2026
+- [Museum of Ethereum](https://earlydaysofeth.org/videos/museum-of-ethereum-walkthrough/), an exhibit at [ETHDenver](https://ethdenver.com/) 2026 in collaboration with Jessica Angel: a mixture of physical and digital artifacts leaning heavily on Early Days of Ethereum content, also featuring the [Ethereum Time Machine](https://github.com/bobsummerwill/EthereumTimeMachine).
 - Executive Director of the [ETC Cooperative](https://etccooperative.org/) from 2019 to 2024, the 501(c)(3) that funded and coordinated open-source client development for Ethereum Classic: up to ten staff, two client teams, seven network upgrades. Vice-chair of the EEA Technical Specification Working Group from 2020
 - Organized [Proof of Work Summit](https://powsummit.com) conferences in 2023 and 2024, and [ETC Summit](https://web.archive.org/web/20190519100846/https://etcsummit.com/) in 2019
 - Worked full-time on the launch and first year of the [Enterprise Ethereum Alliance](http://entethalliance.org) in 2016-2017 while working at [ConsenSys](https://consensys.io)
