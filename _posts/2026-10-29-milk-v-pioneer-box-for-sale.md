@@ -19,6 +19,7 @@ excerpt: "Selling my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) des
 .milkv-table th { width: 42%; color: #555; font-weight: 600; }
 .milkv-buy { background: #f7f7f7; border-left: 4px solid #1F3A5F; padding: 1em 1.25em; margin: 0 0 2em; }
 .milkv-buy h3 { margin-top: 0; }
+.milkv-buy ul:last-child { margin-bottom: 0; }
 </style>
 
 For sale: a **Milk-V Pioneer Box** — one of the most powerful RISC-V desktop machines you can buy. This is the unit I backed on [Crowd Supply](https://www.crowdsupply.com/milk-v/pioneer) during the original crowdfunding campaign. It arrived in January 2024 and has been used very little since. No known issues; it works exactly as it should.
@@ -97,9 +98,14 @@ This unit was backed during the original [Crowd Supply](https://www.crowdsupply.
 
 ## Price &amp; shipping
 
-- **US$1,300** (≈ C$1,800) or nearest offer
-- [PayPal G&amp;S](https://www.paypal.com) or cash on pickup
-- Vancouver, Canada — ships domestically or internationally at buyer's cost, or local pickup
+<div class="milkv-buy">
+<ul>
+<li><strong>US$1,300</strong> (≈ C$1,800) or nearest offer</li>
+<li>[PayPal G&amp;S](https://www.paypal.com), Interac e-transfer, or cash on pickup</li>
+<li>Vancouver, Canada — ships domestically or internationally at buyer's cost, or local pickup</li>
+<li>Payment can be made in USD or CAD</li>
+</ul>
+</div>
 
 These are very rare. If you're interested, or want more photos or a specific benchmark, [get in touch](/contact/).
 
