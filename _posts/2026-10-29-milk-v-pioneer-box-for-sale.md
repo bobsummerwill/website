@@ -101,7 +101,7 @@ This unit was backed during the original [Crowd Supply](https://www.crowdsupply.
 <div class="milkv-buy">
 <ul>
 <li><strong>US$1,300</strong> (≈ C$1,800) or nearest offer</li>
-<li>[PayPal G&amp;S](https://www.paypal.com), Interac e-transfer, or cash on pickup</li>
+<li><a href="https://www.paypal.com">PayPal G&amp;S</a>, Interac e-transfer, or cash on pickup</li>
 <li>Vancouver, Canada — ships domestically or internationally at buyer's cost, or local pickup</li>
 <li>Payment can be made in USD or CAD</li>
 </ul>

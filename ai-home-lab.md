@@ -18,7 +18,7 @@ Two machines, one private tailnet. The lab serves every family device over [Tail
 | Role | GPU serving and orchestration | Always-on serving and RPC |
 | Machine | Custom desktop | Mac mini (Mac16,11) |
 | CPU | AMD Ryzen 9 9950X3D, 16C/32T, up to 5.76 GHz, 128 MB L3 | Apple M4 Pro, 14 cores (10 performance + 4 efficiency) |
-| GPU | 2 x NVIDIA GeForce RTX 3090, 24 GB each, NVLink-capable | Apple M4 Pro, 20-core GPU, Metal 4 |
+| GPU | 2 x NVIDIA GeForce RTX 3090, 24 GB each, NVLink-bridged | Apple M4 Pro, 20-core GPU, Metal 4 |
 | Memory | 64 GB DDR5 | 64 GB unified |
 | Storage | WD_BLACK SN850X 4 TB NVMe | 1 TB Apple SSD (AP1024Z) |
 | Networking | 10 GbE, 2.5 GbE, 5 GbE, Wi-Fi 7, Thunderbolt 3 | 10 GbE, Wi-Fi 6E, 3 x Thunderbolt 5 |
@@ -27,7 +27,7 @@ Two machines, one private tailnet. The lab serves every family device over [Tail
 
 ## Shadowfax
 
-Shadowfax is a custom AMD desktop with two RTX 3090s. It runs the large-model serving stack and the Hermes Agent gateway.
+Shadowfax is a custom AMD desktop with two RTX 3090s joined by NVLink. It runs the large-model serving stack and the Hermes Agent gateway.
 
 ### Hardware
 
@@ -36,7 +36,7 @@ Shadowfax is a custom AMD desktop with two RTX 3090s. It runs the large-model se
 - **CPU cooler:** DeepCool Assassin IV dual-tower air cooler
 - **Memory:** 64 GB Kingston Fury Beast DDR5-6000 CL30 (2 × 32 GB), about 62 GiB usable
 - **GPUs:** two EVGA GeForce RTX 3090 FTW3 Ultra cards (GA102, 24 GB GDDR6X each), driver 595.99.02, CUDA 13.2; board power limits 500 W and 450 W
-- **GPU interconnect:** NVLink-capable; the EVGA 4-slot bridge is now listed separately
+- **GPU interconnect:** EVGA 4-slot NVLink bridge, four links at 14.062 GB/s each (`NV4`, roughly 56 GB/s per direction)
 - **Storage:** WD_BLACK SN850X 4 TB NVMe, about 1.7 TB in use
 - **Power supply:** Seasonic PRIME PX-1600 ATX 3, 1600 W 80+ Platinum, fully modular
 - **Case:** Fractal Design Torrent, high-airflow tower
