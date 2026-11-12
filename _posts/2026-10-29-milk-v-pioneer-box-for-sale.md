@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Milk-V Pioneer Box — for sale"
+title: "Milk-V Pioneer Box — SOLD"
 date: 2026-10-29
 author: Bob Summerwill
 featured_image: /assets/milkv-pioneer/photo-2.jpg
-excerpt: "Selling my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) desktop with 128 GB RAM, 1 TB NVMe and four Ethernet ports. Barely used since the 2024 Crowd Supply delivery. US$1,300 (≈ C$1,800) or nearest offer."
+excerpt: "Sold my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) desktop with 128 GB RAM, 1 TB NVMe and four Ethernet ports. Barely used since the 2024 Crowd Supply delivery. Was US$1,300 (≈ C$1,800)."
 ---
 
 <style>
@@ -19,17 +19,18 @@ excerpt: "Selling my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) des
 .milkv-table th { width: 42%; color: #555; font-weight: 600; }
 .milkv-buy { background: #f7f7f7; border-left: 4px solid #1F3A5F; padding: 1em 1.25em; margin: 0 0 2em; }
 .milkv-buy h3 { margin-top: 0; }
+.milkv-buy ul:last-child { margin-bottom: 0; }
 </style>
 
-For sale: a **Milk-V Pioneer Box** — one of the most powerful RISC-V desktop machines you can buy. This is the unit I backed on [Crowd Supply](https://www.crowdsupply.com/milk-v/pioneer) during the original crowdfunding campaign. It arrived in January 2024 and has been used very little since. No known issues; it works exactly as it should.
+**SOLD.** I listed a **Milk-V Pioneer Box** — one of the most powerful RISC-V desktop machines you can buy. This was the unit I backed on [Crowd Supply](https://www.crowdsupply.com/milk-v/pioneer) during the original crowdfunding campaign. It arrived in January 2024 and had been used very little since. No known issues; it worked exactly as it should.
 
-It is a complete, ready-to-use RISC-V PC in a standard mATX-class enclosure — not a single-board computer. If you want a real RISC-V workstation for native builds, distro porting, compiler and toolchain work, or CI, this is the machine.
+It was a complete, ready-to-use RISC-V PC in a standard mATX-class enclosure — not a single-board computer. If you wanted a real RISC-V workstation for native builds, distro porting, compiler and toolchain work, or CI, this was the machine.
 
 ## Why it's interesting
 
 The Pioneer is built around the **SOPHON SG2042**, a 64-core RISC-V system chip. That makes it the most capable RISC-V desktop available, and a genuinely useful platform for working on the RISC-V ecosystem rather than just running it. It boots via UEFI and runs Fedora, Debian, Ubuntu, openKylin and other RISC-V distributions.
 
-The [Milk-V Pioneer](https://milkv.io/pioneer) page has the full board documentation; the highlights below are what matter for a working machine.
+The [Milk-V Pioneer](https://milkv.io/pioneer) page has the full board documentation; the highlights below are what mattered for a working machine.
 
 ## The chip — SOPHON SG2042
 
@@ -40,9 +41,9 @@ The [Milk-V Pioneer](https://milkv.io/pioneer) page has the full board documenta
 - 2 × PCIe Gen4 x16 with CCIX support
 - Typical power consumption around 120 W (cooler rated to 160 W TDP)
 
-## What's in the box
+## What was in the box
 
-The Pioneer Box is the fully assembled, ready-to-run configuration:
+The Pioneer Box was the fully assembled, ready-to-run configuration:
 
 | Component | Specification |
 |---|---|
@@ -83,7 +84,7 @@ The Pioneer Box is the fully assembled, ready-to-run configuration:
 
 ## Condition
 
-Used, but barely. Backed through the Crowd Supply crowdfunding round, delivered January 2024, and hardly used since. No known faults — it boots and runs as expected. Currently installed OS is **Fedora 38 Workstation**.
+Used, but barely. Backed through the Crowd Supply crowdfunding round, delivered January 2024, and hardly used since. No known faults — it booted and ran as expected. The installed OS was **Fedora 38 Workstation**.
 
 ## The crowdfunding order
 
@@ -98,10 +99,11 @@ This unit was backed during the original [Crowd Supply](https://www.crowdsupply.
 ## Price &amp; shipping
 
 - **US$1,300** (≈ C$1,800) or nearest offer
-- [PayPal G&amp;S](https://www.paypal.com) or cash on pickup
-- Vancouver, Canada — ships domestically or internationally at buyer's cost, or local pickup
+- [PayPal G&amp;S](https://www.paypal.com), Interac e-transfer, or cash on pickup
+- Vancouver, Canada — shipped domestically or internationally at buyer's cost, or local pickup
+- Payment could be made in USD or CAD
 
-These are very rare. If you're interested, or want more photos or a specific benchmark, [get in touch](/contact/).
+These are very rare. Thanks to everyone who expressed interest.
 
 ---
 
