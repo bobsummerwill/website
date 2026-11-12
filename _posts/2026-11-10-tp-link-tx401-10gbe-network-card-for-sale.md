@@ -1,21 +1,25 @@
 ---
 layout: post
-title: "TP-Link TX401 10 GbE network card — new, sealed"
+title: "TP-Link TX401 10 GbE network card — RETURNED"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/tx401/tx401-box-sealed.jpg
-excerpt: "Brand new, still sealed in shrink wrap: a TP-Link TX401 10 Gigabit PCIe network adapter with a 2-year warranty, Aquantia AQC107 controller, RJ45 10GBase-T, low-profile bracket and 1.5 m CAT6A cable. US$55 (≈ C$78) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
+excerpt: "Returned — no longer for sale. A brand-new, sealed TP-Link TX401 10 Gigabit PCIe network adapter with a 2-year warranty, Aquantia AQC107 controller, RJ45 10GBase-T, low-profile bracket and 1.5 m CAT6A cable."
 ---
 
 <style>
-.sale-buy { background: #f7f7f7; border-left: 4px solid #1F3A5F; padding: 1em 1.25em; margin: 0 0 2em; }
-.sale-buy p:last-child { margin-bottom: 0; }
+.sale-status { background: #f7f7f7; border-left: 4px solid #8a6d3b; padding: 1em 1.25em; margin: 0 0 2em; }
+.sale-status p:last-child { margin-bottom: 0; }
 .tx401-media { max-width: 720px; margin: 0 0 2em; }
 .tx401-media img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
 .tx401-media figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
-For sale: a **TP-Link TX401** 10 Gigabit PCI Express network adapter, brand new and still sealed in its shrink wrap. It has never been opened or installed.
+<div class="sale-status">
+<p><strong>RETURNED — no longer for sale.</strong> This card has been returned and is no longer available. The specifications and photos below are retained for reference.</p>
+</div>
+
+This listing was for a **TP-Link TX401** 10 Gigabit PCI Express network adapter, brand new and still sealed in its shrink wrap. It was never opened or installed.
 
 This is a simple way to add a 10 GbE port to a desktop, NAS or home-lab machine without replacing the motherboard. The TX401 uses the Marvell/Aquantia **AQC107** controller — the same class of 10GBASE-T chip found in many pricier cards — and it is well supported on Windows and Linux.
 
@@ -55,12 +59,8 @@ The CAT6A cable matters: a standard CAT5e/CAT6 cable will not reliably carry 10 
   <figcaption>The retail box, still sealed in shrink wrap.</figcaption>
 </figure>
 
-## Price and shipping
+## Status
 
-<div class="sale-buy">
-<p><strong>US$55</strong> (≈ C$78) or nearest offer. Current retail is around US$60, so this is below retail for an unopened box with a 2-year warranty.</p>
-<p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. The card is small and light, so tracked shipping is inexpensive. Payment can be made in USD or CAD.</p>
-<p><small>CAD price is approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
-</div>
+Listed at **US$55** (≈ C$78) on November 10, 2026. Returned before sale — no longer available.
 
-Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. If you want more photos of the sealed box or the model label, [get in touch](/contact/).
+Thanks to everyone who expressed interest.
