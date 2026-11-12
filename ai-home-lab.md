@@ -15,7 +15,7 @@ Two machines, one private tailnet. The lab serves every family device over [Tail
 
 | | **Shadowfax** | **Zebra** |
 |---|---|---|
-| Role | GPU serving and orchestration | Always-on serving and RPC |
+| Role | GPU serving and orchestration | Local model serving and RPC |
 | Machine | Custom desktop | Mac mini (Mac16,11) |
 | CPU | AMD Ryzen 9 9950X3D, 16C/32T, up to 5.76 GHz, 128 MB L3 | Apple M4 Pro, 14 cores (10 performance + 4 efficiency) |
 | GPU | 2 x NVIDIA GeForce RTX 3090, 24 GB each, NVLink-bridged | Apple M4 Pro, 20-core GPU, Metal 4 |
@@ -53,7 +53,7 @@ Shadowfax is a custom AMD desktop with two RTX 3090s joined by NVLink. It runs t
 
 ## Zebra
 
-Zebra is a Mac mini with an M4 Pro, 64 GB of unified memory and 10 Gigabit Ethernet. It runs the always-on model server and can act as an RPC worker.
+Zebra is a Mac mini with an M4 Pro, 64 GB of unified memory and 10 Gigabit Ethernet. It serves local models and can act as an RPC worker. It has been left running for long stretches, but in practice it has seen light, occasional use rather than a constant workload. Zebra is [currently for sale](/2026/11/10/zebra-mac-mini-m4-pro-for-sale/).
 
 ### Hardware
 
@@ -61,16 +61,24 @@ Zebra is a Mac mini with an M4 Pro, 64 GB of unified memory and 10 Gigabit Ether
 - **CPU:** 14 cores — 10 performance and 4 efficiency
 - **GPU:** 20-core Apple GPU, Metal 4
 - **Memory:** 64 GB unified
-- **Storage:** 1 TB Apple SSD (AP1024Z, 994.7 GB), about 548 GB in use
+- **Storage:** 1 TB Apple SSD (AP1024Z, 994.7 GB), about 615 GB in use (379 GB free)
 - **Networking:** 10 Gigabit Ethernet (10Gbase-T), Wi-Fi 6E (802.11ax), three Thunderbolt 5 ports (up to 120 Gb/s)
 - **Operating system:** macOS 27.0.1 (build 26A434)
 
 ### Serving stack
 
-- **llama.cpp 0.6.0-dev** (build 132, commit `42c787e`, Metal) serves **Gemma-4-31B-it Q4_K_M** (17 GB) around the clock.
-- The server runs 999 GPU layers with flash attention, batch 1024 / ubatch 512, a **131,072-token context** and the alias `gemma-4-31b` on port `18080`, managed by the `com.zebra.llama-gemma` LaunchAgent.
+- **llama.cpp 0.6.0-dev** (build 132, commit `42c787e`, Metal) serves **Gemma-4-31B-it Q4_K_M** (17 GB) on demand.
+- The server runs 999 GPU layers with flash attention, batch 1024 / ubatch 512, a **131,072-token context** and the alias `gemma-4-31b` on port `18080`, managed by the `com.zebra.llama-gemma` LaunchAgent so it is available after a reboot.
 - The local model cache also carries Qwen3.8-27B and Qwen3-30B-A3B Q4_K_M.
 - Zebra can join Shadowfax as an RPC worker when a model needs more memory than either machine has alone.
+
+### Health
+
+Measured 12 November 2026 with `smartctl` and `macmon`:
+
+- **SSD:** SMART overall **PASSED**; **0%** of rated endurance used; **5.60 TB written** and 48.3 TB read; zero media/data-integrity errors; 100% available spare; **281 power-on hours** and 133 power cycles.
+- **Thermals:** macOS has never recorded a thermal or performance warning. Idle temperatures are about 38 °C CPU and 35 °C GPU. Under a 45-second sustained full-GPU inference load, the GPU stayed at 100% utilisation and its maximum clock (1576–1578 MHz) throughout — no throttling. Peak temperatures were 70.8 °C CPU and 89.2 °C GPU, with package power averaging 72 W (peak 77 W).
+- **Stability:** no kernel panics in the last 30 days of system logs, no panic reports on disk, and 15 days of uptime at check time.
 
 ## On the tailnet
 
@@ -90,4 +98,4 @@ Most of the useful behavior here comes from custom skills the agent wrote for th
 
 ---
 
-*Last verified 2026-10-29. Hardware and software versions are point-in-time observations.*
+*Last verified 2026-11-12. Hardware and software versions are point-in-time observations.*
