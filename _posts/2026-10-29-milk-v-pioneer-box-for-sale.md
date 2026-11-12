@@ -4,7 +4,7 @@ title: "Milk-V Pioneer Box — SOLD"
 date: 2026-10-29
 author: Bob Summerwill
 featured_image: /assets/milkv-pioneer/photo-2.jpg
-excerpt: "Sold my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) desktop with 128 GB RAM, 1 TB NVMe and four Ethernet ports. Barely used since the 2024 Crowd Supply delivery. Was US$1,300 (≈ C$1,800)."
+excerpt: "Sold my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) desktop with 128 GB RAM, 1 TB NVMe and four Ethernet ports. Listed at US$1,300, sold for US$1,000 after 13 days."
 ---
 
 <style>
@@ -22,7 +22,7 @@ excerpt: "Sold my Milk-V Pioneer Box — a 64-core RISC-V (SOPHON SG2042) deskto
 .milkv-buy ul:last-child { margin-bottom: 0; }
 </style>
 
-**SOLD.** I listed a **Milk-V Pioneer Box** — one of the most powerful RISC-V desktop machines you can buy. This was the unit I backed on [Crowd Supply](https://www.crowdsupply.com/milk-v/pioneer) during the original crowdfunding campaign. It arrived in January 2024 and had been used very little since. No known issues; it worked exactly as it should.
+**SOLD for US$1,000 after 13 days.** I listed a **Milk-V Pioneer Box** — one of the most powerful RISC-V desktop machines you can buy — at US$1,300 (≈ C$1,800) on October 29, 2026. It sold for US$1,000 on November 11, 2026. This was the unit I backed on [Crowd Supply](https://www.crowdsupply.com/milk-v/pioneer) during the original crowdfunding campaign. It arrived in January 2024 and had been used very little since. No known issues; it worked exactly as it should.
 
 It was a complete, ready-to-use RISC-V PC in a standard mATX-class enclosure — not a single-board computer. If you wanted a real RISC-V workstation for native builds, distro porting, compiler and toolchain work, or CI, this was the machine.
 
@@ -96,9 +96,10 @@ This unit was backed during the original [Crowd Supply](https://www.crowdsupply.
   <img src="/assets/milkv-pioneer/crowdfund-email-3.png" alt="Crowd Supply delivery email" />
 </div>
 
-## Price &amp; shipping
+## Sale
 
-- **US$1,300** (≈ C$1,800) or nearest offer
+Listed at **US$1,300** (≈ C$1,800) on October 29, 2026. Sold for **US$1,000** on November 11, 2026 — 13 days on the market.
+
 - [PayPal G&amp;S](https://www.paypal.com), Interac e-transfer, or cash on pickup
 - Vancouver, Canada — shipped domestically or internationally at buyer's cost, or local pickup
 - Payment could be made in USD or CAD
