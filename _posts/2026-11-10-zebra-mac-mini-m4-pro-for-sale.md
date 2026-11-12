@@ -4,7 +4,7 @@ title: "Mac mini M4 Pro (64 GB / 1 TB) — for sale"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/mac-mini/mac-mini-01.jpg
-excerpt: "Selling the Mac mini M4 Pro from my AI home lab: 14-core CPU, 20-core GPU, 64 GB unified memory, 1 TB SSD, 10 Gigabit Ethernet and AppleCare+ until 2 March 2029. US$2,500 (≈ C$3,500) or nearest offer. Pickup in Vancouver or worldwide shipping at buyer's expense."
+excerpt: "Selling the Mac mini M4 Pro from my AI home lab: 14-core CPU, 20-core GPU, 64 GB unified memory, 1 TB SSD, 10 Gigabit Ethernet and AppleCare+ until 2 March 2029. Lightly used — 281 power-on hours, 0% SSD endurance consumed. US$2,500 (≈ C$3,500) or nearest offer. Pickup in Vancouver or worldwide shipping at buyer's expense."
 ---
 
 <style>
@@ -20,13 +20,13 @@ excerpt: "Selling the Mac mini M4 Pro from my AI home lab: 14-core CPU, 20-core 
 .mac-mini-receipt figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
-I have some new purchases planned for the [AI home lab](/ai-home-lab/), so **Zebra** — the lab's always-on Mac mini — is for sale. It is an M4 Pro with the maximum 64 GB of unified memory, a 1 TB SSD and 10 Gigabit Ethernet, bought new from Apple in February 2026 and still covered by AppleCare+ until 2 March 2029.
+I have some new purchases planned for the [AI home lab](/ai-home-lab/), so **Zebra** — the lab's Mac mini — is for sale. It is an M4 Pro with the maximum 64 GB of unified memory, a 1 TB SSD and 10 Gigabit Ethernet, bought new from Apple in February 2026 and still covered by AppleCare+ until 2 March 2029.
 
-It has been running as a 24/7 local model server. It is quiet, sips power, and is still one of the nicest small machines for local inference on Apple silicon. The 64 GB of memory and 10 GbE are both build-to-order options — 64 GB is the maximum Apple offered in the M4 Pro mini, and 10 GbE was a paid upgrade.
+It has been part of the lab as a local model server, left running for long stretches, but in practice it has seen light use rather than a constant workload. The drive reports **281 power-on hours**, **0%** of its rated endurance consumed and zero media errors. It is quiet, sips power, and is still one of the nicest small machines for local inference on Apple silicon. The 64 GB of memory and 10 GbE are both build-to-order options — 64 GB is the maximum Apple offered in the M4 Pro mini, and 10 GbE was a paid upgrade.
 
 ## Why it is interesting
 
-The 64 GB of unified memory is the point. The GPU can address the whole pool, so this machine comfortably runs models that would not fit on a typical 8 GB or 16 GB graphics card. It currently serves **Gemma-4-31B-it Q4_K_M** around the clock with a **131,072-token context**, and it can also join a larger machine as an RPC worker when a model needs more memory than either host has alone.
+The 64 GB of unified memory is the point. The GPU can address the whole pool, so this machine comfortably runs models that would not fit on a typical 8 GB or 16 GB graphics card. It serves **Gemma-4-31B-it Q4_K_M** with a **131,072-token context** when loaded, and it can also join a larger machine as an RPC worker when a model needs more memory than either host has alone.
 
 It is also a very good general-purpose Mac: fast CPU, three Thunderbolt 5 ports, 10 GbE, and very little fan noise.
 
@@ -45,12 +45,36 @@ It is also a very good general-purpose Mac: fast CPU, three Thunderbolt 5 ports,
 | Dimensions | 5.0 × 5.0 × 2.0 in (127 × 127 × 50 mm) |
 | Weight | 1.6 lb (0.73 kg) |
 
+## Health and performance
+
+Checked on 12 November 2026 with `smartctl` (smartmontools 7.5) and `macmon`.
+
+| SSD metric | Reading |
+|---|---|
+| SMART overall | **PASSED** |
+| Endurance used | **0%** |
+| Data written | **5.60 TB** (10,944,005 data units) |
+| Data read | 48.3 TB |
+| Media / data-integrity errors | **0** |
+| Available spare | 100% (threshold 99%) |
+| Power-on hours | **281** |
+| Power cycles | 133 |
+| Temperature (idle) | 31 °C |
+
+281 hours is about 11.7 days of powered-on time since February. The machine has been left running, but it has not been used heavily.
+
+- **Stability:** no kernel panics in the system logs over the last 30 days, no panic reports on disk, and 15 days of uptime at check time.
+- **Thermals:** macOS has never recorded a thermal or performance warning. Idle temperatures are about 38 °C CPU and 35 °C GPU.
+- **Load test:** 45 seconds of sustained full-GPU inference on Gemma-4-31B Q4_K_M. The GPU stayed at 100% utilisation and its maximum clock (1576–1578 MHz) for the whole run — no throttling. Peak temperatures were **70.8 °C CPU** and **89.2 °C GPU**; package power averaged 72 W (peak 77 W); the fan reported around 1000 rpm; memory pressure peaked at 51% of 64 GB.
+
+The full `smartctl` output is available on request, and I am happy to repeat any of these checks over a video call.
+
 ## Purchase and warranty
 
 - Bought new from Apple on 7 February 2026; single owner.
 - Original configuration: M4 Pro 14-core CPU / 20-core GPU / 16-core Neural Engine, 64 GB unified memory, 1 TB SSD and 10 Gigabit Ethernet.
 - Original Apple price: **CA$3,649**, plus **CA$119** for AppleCare+.
-- AppleCare+ for Mac mini (M4) is active until **2 March 2029**. Full details, including the agreement number and proof of coverage, will be made available on sale; I can help transfer the plan to the buyer.
+- AppleCare+ for Mac mini (M4) is active until **2 March 2029**. I will confirm the transfer process with Apple before sale and provide the agreement number and proof of coverage.
 
 <figure class="mac-mini-receipt">
   <img src="/assets/mac-mini/apple-order-2026-02-07.png" alt="Apple order receipt for the Mac mini M4 Pro" />
@@ -59,9 +83,9 @@ It is also a very good general-purpose Mac: fast CPU, three Thunderbolt 5 ports,
 
 ## What it runs today
 
-- **llama.cpp 0.6.0-dev** (build 132, Metal) serving **Gemma-4-31B-it Q4_K_M** (17 GB) 24/7.
+- **llama.cpp 0.6.0-dev** (build 132, Metal) set up to serve **Gemma-4-31B-it Q4_K_M** (17 GB) on demand.
 - 999 GPU layers, flash attention, batch 1024 / ubatch 512, **131,072-token context**, alias `gemma-4-31b` on port `18080`.
-- Managed by a LaunchAgent so it comes back after a reboot.
+- Managed by a LaunchAgent so it is available after a reboot. It has been left running, but lightly used.
 - The local model cache also carries Qwen3.8-27B and Qwen3-30B-A3B Q4_K_M.
 - Can act as an RPC worker alongside another llama.cpp host for larger models.
 
@@ -90,7 +114,7 @@ An HDMI dummy plug is included if you want it. With the plug fitted, macOS keeps
 
 ## Condition and what is included
 
-- Single owner, bought new in February 2026. Fully working, no known faults; it has been running continuously as a lab server.
+- Single owner, bought new in February 2026. Fully working, no known faults. It has been left running as a lab server for long stretches, with no panics, crashes or thermal warnings, but it has seen light use.
 - Sold erased and signed out of iCloud, with macOS reinstalled and ready for setup.
 - Original Accessory Kit and power cable included.
 - Can be inspected and tested in Vancouver by arrangement.
@@ -98,7 +122,7 @@ An HDMI dummy plug is included if you want it. With the plug fitted, macOS keeps
 ## Price and shipping
 
 <div class="sale-buy">
-<p><strong>US$2,500</strong> (≈ C$3,500) or nearest offer. Includes the remaining AppleCare+ coverage until 2 March 2029.</p>
+<p><strong>US$2,500</strong> (≈ C$3,500) or nearest offer. AppleCare+ runs until 2 March 2029; I will confirm the transfer process with Apple before sale.</p>
 <p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. The Mac mini is small and light, so international shipping is straightforward. Payment can be made in USD or CAD.</p>
 <p><small>CAD price is approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
 </div>
