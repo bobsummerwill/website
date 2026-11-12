@@ -32,11 +32,11 @@ Around March 2002, [Larry Probst](http://en.wikipedia.org/wiki/Larry_Probst), th
 
 At that studio we had worked on three iterations of FA Premier League Football Manager and two iterations of the Premier League Stars arcade game, but Stars had been cancelled, and Football Manager has been outsourced.
 
-     * [FA Premier League Football Manager 99](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_99)
-     * [FA Premier League Football Manager 2000](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_2000)
-     * [FA Premier League Football Manager 2001](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_2001)
-     * [FA Premier League Stars](http://en.wikipedia.org/wiki/FA_Premier_League_Stars)
-     * [FA Premier League Stars 2](http://en.wikipedia.org/wiki/Stars_%28series%29)
+- [FA Premier League Football Manager 99](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_99)
+- [FA Premier League Football Manager 2000](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_2000)
+- [FA Premier League Football Manager 2001](http://en.wikipedia.org/wiki/The_F.A._Premier_League_Football_Manager_2001)
+- [FA Premier League Stars](http://en.wikipedia.org/wiki/FA_Premier_League_Stars)
+- [FA Premier League Stars 2](http://en.wikipedia.org/wiki/Stars_%28series%29)
 
 So, in this meeting I stood up and told a rather stunned-looking **[Larry Probst](http://en.wikipedia.org/wiki/Larry_Probst)** that none of us in the UK studio played FIFA. We all played Konami's [Winning Eleven / PES](http://en.wikipedia.org/wiki/Pro_Evolution_Soccer) because FIFA just wasn't a good game, and wasn't authentic. I had heard that the FIFA team wanted to "fix FIFA" but were never given the resources to do so in the form of a "leapfrog team", but were just stuck in a yearly grind which never gave them time to resolve the major issues with the game.
 
