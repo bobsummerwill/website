@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iPhone 13 Pro 256 GB (Graphite) — for sale"
-date: 2026-11-14 00:01:00 +0530
+date: 2026-11-13
 author: Bob Summerwill
 featured_image: /assets/iphone-13-pro/back.jpg
 excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. C$400, Vancouver pickup only."
