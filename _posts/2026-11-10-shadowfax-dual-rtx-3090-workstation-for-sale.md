@@ -33,7 +33,7 @@ It had been in daily use serving local models, and it worked. There were no know
 
 Two 24 GB RTX 3090s remain one of the most cost-effective ways to get 48 GB of VRAM for local inference. The 9950X3D and 64 GB of DDR5 kept the host responsive while the GPUs were loaded, and the board has enough PCIe and networking for a small lab.
 
-This was not a gaming build with AI bolted on. It was a working inference box: it served **Qwen3.8-27B at EXL3 5 bpw** across both GPUs with a **131,072-token context**, and it also ran **DeepSeek-V4-Flash-REAP** — a 132-expert FP8 mixture-of-experts with 79 GB of local weights — through the [Colibri](https://github.com/bobsummerwill/colibri) runtime.
+This was not a gaming build with AI bolted on. It was a working inference box: it served **Qwen3.8-27B at EXL3 5 bpw** across both GPUs with a single **262,144-token (256K) context**, and it also ran **DeepSeek-V4-Flash-REAP** — a 132-expert FP8 mixture-of-experts with 79 GB of local weights — through the [Colibri](https://github.com/bobsummerwill/colibri) runtime.
 
 ## Hardware
 
@@ -88,7 +88,7 @@ The two cards are NVLink-capable, and the EVGA 4-slot bridge was included in the
 
 - **Tabby with ExLlamaV3 1.6.3** served Qwen3.8-27B at EXL3 5 bpw, tensor-parallel across both GPUs with a 22/22 GB split.
 - Speculative decoding with **MTP and 5 draft tokens**, maximum batch size 4.
-- **131,072-token context** per request with a 262,144-token FP16 KV cache.
+- A single **262,144-token (256K)** context window.
 - **DeepSeek-V4-Flash-REAP** through Colibri: 132 experts, 6 active, 43 layers, 1M-token maximum context, 79 GB of local weights.
 - OpenAI-compatible endpoint on the tailnet, with the model backend bound to `127.0.0.1:18083`.
 
