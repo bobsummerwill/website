@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "NVIDIA 4-slot NVLink bridge for RTX 3090 — for sale"
+title: "NVIDIA 4-slot NVLink bridge for RTX 3090 — SOLD"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/nvlink/nvlink-01.jpg
-excerpt: "Genuine NVIDIA 4-slot NVLink HB bridge (P3657 / 900-13657-2500-000) for a pair of RTX 3090 or 3090 Ti cards. Original box and leaflet, daily proven use in Shadowfax, and video of it running. US$1,000 (≈ C$1,410) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
+excerpt: "Sold with the Shadowfax dual RTX 3090 workstation. Genuine NVIDIA 4-slot NVLink HB bridge (P3657 / 900-13657-2500-000) for a pair of RTX 3090 or 3090 Ti cards, with its original box and leaflet and video of it running."
 ---
 
 <style>
@@ -20,9 +20,9 @@ excerpt: "Genuine NVIDIA 4-slot NVLink HB bridge (P3657 / 900-13657-2500-000) fo
 .nvlink-video figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
-For sale: a genuine **NVIDIA 4-slot NVLink bridge** for a pair of RTX 3090 or RTX 3090 Ti cards. This is the high-bandwidth bridge — part **P3657**, NVIDIA part number **900-13657-2500-000** — not the shorter 3-slot version.
+**SOLD with the Shadowfax dual RTX 3090 workstation.** This was a genuine **NVIDIA 4-slot NVLink bridge** for a pair of RTX 3090 or RTX 3090 Ti cards. This was the high-bandwidth bridge — part **P3657**, NVIDIA part number **900-13657-2500-000** — not the shorter 3-slot version.
 
-The 4-slot bridge has become very hard to find, and prices for used examples have climbed with demand for dual-3090 AI builds. This is the bridge from my dual-3090 machine, **Shadowfax**, where it was in daily use — and it comes with its **original box and leaflet**.
+The 4-slot bridge has become very hard to find, and prices for used examples have climbed with demand for dual-3090 AI builds. This was the bridge from my dual-3090 machine, **Shadowfax**, where it was in daily use — and it came with its **original box and leaflet**.
 
 ## What NVLink does for a pair of 3090s
 
@@ -55,10 +55,10 @@ It does not merge the two 24 GB frame buffers into one 48 GB allocation. Each ca
 
 - Used, genuine NVIDIA part, removed from Shadowfax, my dual-RTX-3090 workstation.
 - Proven working in daily use — the video below shows it installed and running in Shadowfax.
-- Tested in that machine: `nvidia-smi topo -m` reports `NV4`, and `nvidia-smi nvlink -s` shows all four links active at 14.062 GB/s on each GPU.
+- Tested in that machine: `nvidia-smi topo -m` reported `NV4`, and `nvidia-smi nvlink -s` showed all four links active at 14.062 GB/s on each GPU.
 - Original NVIDIA box and leaflet included.
 - No cracks, no bent or damaged connector fingers. Cosmetic wear is minimal.
-- It has now been removed and will be packed carefully for shipping.
+- It was removed from Shadowfax and packed with the workstation.
 
 ## Photos and video
 
@@ -97,12 +97,8 @@ It does not merge the two 24 GB frame buffers into one 48 GB allocation. Each ca
   <figcaption>The bridge running in Shadowfax before removal.</figcaption>
 </figure>
 
-## Price and shipping
+## Sale
 
-<div class="sale-buy">
-<p><strong>US$1,000</strong> (≈ C$1,410) or nearest offer.</p>
-<p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. It is small and light, so tracked international shipping is inexpensive. Payment can be made in USD or CAD.</p>
-<p><small>CAD price is approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
-</div>
+Sold together with [Shadowfax, the dual RTX 3090 workstation](/2026/11/10/shadowfax-dual-rtx-3090-workstation-for-sale/), for **C$8,500** (≈ US$6,000) on November 13, 2026. The bridge had been listed separately at US$1,000 (≈ C$1,410).
 
-Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. If you are buying [the dual RTX 3090 workstation](/2026/11/10/shadowfax-dual-rtx-3090-workstation-for-sale/), I can include this bridge with the machine instead — [get in touch](/contact/) and we can work out a bundle.
+Thanks to everyone who expressed interest.
