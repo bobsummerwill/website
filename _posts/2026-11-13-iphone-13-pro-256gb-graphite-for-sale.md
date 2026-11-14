@@ -3,7 +3,7 @@ layout: post
 title: "iPhone 13 Pro 256 GB (Graphite) — for sale"
 date: 2026-11-13
 author: Bob Summerwill
-featured_image: /assets/iphone-13-pro/back.jpg
+featured_image: /assets/iphone-13-pro/front-screen-on.jpg
 excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. C$400, Vancouver pickup only."
 ---
 
@@ -77,6 +77,10 @@ If you want to see it working or check anything before buying, [get in touch](/c
 ## Photos
 
 <div class="iphone-gallery">
+  <figure>
+    <a href="/assets/iphone-13-pro/front-screen-on.jpg" target="_blank" rel="noopener"><img src="/assets/iphone-13-pro/front-screen-on.jpg" alt="iPhone 13 Pro front with the screen on, showing the lock screen" loading="lazy"></a>
+    <figcaption>Front, screen on.</figcaption>
+  </figure>
   <figure>
     <a href="/assets/iphone-13-pro/front-screen-off.jpg" target="_blank" rel="noopener"><img src="/assets/iphone-13-pro/front-screen-off.jpg" alt="iPhone 13 Pro front with the screen off, showing light surface scuffs" loading="lazy"></a>
     <figcaption>Front, screen off — light surface scuffs, no cracks.</figcaption>
