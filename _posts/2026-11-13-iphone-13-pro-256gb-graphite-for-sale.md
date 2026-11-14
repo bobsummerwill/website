@@ -10,6 +10,9 @@ excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully f
 <style>
 .sale-buy { background: #f7f7f7; border-left: 4px solid #1F3A5F; padding: 1em 1.25em; margin: 0 0 2em; }
 .sale-buy p:last-child { margin-bottom: 0; }
+.iphone-receipt { max-width: 720px; margin: 0 0 2em; }
+.iphone-receipt img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
+.iphone-receipt figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 .iphone-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin: 0 0 2em; }
 .iphone-gallery figure { margin: 0; }
 .iphone-gallery a { display: block; }
@@ -64,6 +67,18 @@ It is also **carrier unlocked** — the phone reports **“No SIM restrictions.�
 - **No box, cable, charger, case or screen protector.**
 - Factory reset and iCloud activation lock removed on purchase.
 - Original purchase receipt available.
+
+## Purchase receipt
+
+<figure class="iphone-receipt">
+  <img src="/assets/iphone-13-pro/receipt-1.jpg" alt="Rogers receipt for the iPhone 13 Pro 256 GB" loading="lazy">
+  <figcaption>Rogers receipt, 7 October 2022 — iPhone 13 Pro 256 GB. Personal details redacted.</figcaption>
+</figure>
+
+<figure class="iphone-receipt">
+  <img src="/assets/iphone-13-pro/receipt-2.jpg" alt="Rogers receipt totals for the iPhone 13 Pro purchase" loading="lazy">
+  <figcaption>Receipt totals for the phone, case, charger and SIM. Payment details redacted.</figcaption>
+</figure>
 
 ## Price and pickup
 
