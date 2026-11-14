@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Pixel 8 128 GB (Obsidian) — for sale"
-date: 2026-11-14 00:01:00 +0530
+date: 2026-11-14 00:01:00 +0000
 redirect_from:
   - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
