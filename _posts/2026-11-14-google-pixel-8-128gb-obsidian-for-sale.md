@@ -6,7 +6,7 @@ redirect_from:
   - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
 featured_image: /assets/pixel-8/hero-hi-there.jpg
-excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. No manufacturer warranty, but includes a transferable Best Buy Protection Plan until 16 August 2027. C$450 or nearest offer, Vancouver pickup only."
+excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. No manufacturer warranty, but includes a transferable Best Buy Protection Plan until 16 August 2027. C$400, Vancouver pickup only."
 ---
 
 <style>
@@ -23,7 +23,7 @@ excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen
 </style>
 
 <div class="sale-buy">
-<p><strong>C$450 or nearest offer — local sale, Vancouver pickup only.</strong></p>
+<p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
 <p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. No manufacturer warranty, but the original Best Buy receipt includes a transferable 3-year Best Buy Protection Plan valid to 16 August 2027.</p>
 </div>
 
@@ -80,7 +80,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 ## Price and pickup
 
 <div class="sale-buy">
-<p><strong>C$450 or nearest offer</strong>, local sale only. Pickup in Vancouver, BC.</p>
+<p><strong>C$400</strong>, local sale only. Pickup in Vancouver, BC.</p>
 <p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
 <p>The Best Buy Protection Plan transfers at no cost; I’ll provide the original receipt and help with the transfer.</p>
 </div>
