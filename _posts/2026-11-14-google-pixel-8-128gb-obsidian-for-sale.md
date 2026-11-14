@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Google Pixel 8 256 GB (Obsidian) — for sale"
+title: "Google Pixel 8 128 GB (Obsidian) — for sale"
 date: 2026-11-14 00:01:00 +0530
+redirect_from:
+  - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
 featured_image: /assets/pixel-8/hero-hi-there.jpg
-excerpt: "Google Pixel 8 256 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. C$400, Vancouver pickup only."
+excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. C$400, Vancouver pickup only."
 ---
 
 <style>
@@ -19,23 +21,23 @@ excerpt: "Google Pixel 8 256 GB in Obsidian, running stock Android. Matte screen
 
 <div class="sale-buy">
 <p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
-<p>Google Pixel 8 256 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. No warranty; original purchase receipt available.</p>
+<p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. No warranty; original purchase receipt available.</p>
 </div>
 
-For sale: a **Google Pixel 8 256 GB in Obsidian**, running **stock Android**. It has a **matte screen protector** fitted and the screen itself has **no scratches**. The **rugged case** shown in the photos is included.
+For sale: a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**. It has a **matte screen protector** fitted and the screen itself has **no scratches**. The **rugged case** shown in the photos is included.
 
 There are no carrier restrictions and no IMEI issues. It will be **factory reset and signed out of Google** before handover.
 
 ## Why it is interesting
 
-The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz**, Google’s **Tensor G3** chip, 8 GB of RAM, and a 50 MP main camera. It is still supported by current Android releases, and 256 GB gives it useful headroom for photos and apps.
+The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz**, Google’s **Tensor G3** chip, 8 GB of RAM, and a 50 MP main camera. It is still supported by current Android releases, with 128 GB of storage.
 
 ## Hardware
 
 | Component | Specification |
 |---|---|
 | Model | Google Pixel 8 |
-| Storage | **256 GB** |
+| Storage | **128 GB** |
 | Colour | **Obsidian** |
 | Display | 6.2-inch Actua OLED, 120 Hz |
 | Chip | Google Tensor G3 |
@@ -57,7 +59,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 
 ## What is included
 
-- Google Pixel 8 256 GB.
+- Google Pixel 8 128 GB.
 - Rugged case (shown in the photos).
 - Fitted matte screen protector.
 - No box, cable or charger.
