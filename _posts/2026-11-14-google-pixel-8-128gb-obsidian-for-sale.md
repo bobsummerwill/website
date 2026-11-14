@@ -6,7 +6,7 @@ redirect_from:
   - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
 featured_image: /assets/pixel-8/hero-hi-there.jpg
-excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. No manufacturer warranty, but includes a transferable Best Buy Protection Plan until 16 August 2027. C$400, Vancouver pickup only."
+excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. Includes a transferable Best Buy Protection Plan (Geek Squad Protection) until 16 August 2027. C$400, Vancouver pickup only."
 ---
 
 <style>
@@ -24,7 +24,7 @@ excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen
 
 <div class="sale-buy">
 <p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
-<p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. No manufacturer warranty, but the original Best Buy receipt includes a transferable 3-year Best Buy Protection Plan valid to 16 August 2027.</p>
+<p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. Includes a transferable 3-year Best Buy Protection Plan (Geek Squad Protection) valid to 16 August 2027.</p>
 </div>
 
 For sale: a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**. It has a **matte screen protector** fitted and the screen itself has **no scratches**. The **rugged case** shown in the photos is included.
@@ -50,7 +50,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 | Operating system | **Stock Android** |
 | SIM | Nano-SIM + eSIM; unlocked, no carrier restrictions |
 | Port | USB-C |
-| Warranty | No manufacturer warranty; transferable Best Buy Protection Plan until 16 Aug 2027 |
+| Protection | Best Buy Protection Plan (Geek Squad Protection) to 16 Aug 2027; transferable at no cost |
 
 ## Condition
 
@@ -58,7 +58,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 - **Body:** clean, with no known damage; see the photos.
 - **Software:** stock Android.
 - **Carrier/IMEI:** no carrier restrictions and no IMEI issues.
-- **Warranty:** no manufacturer warranty. The original Best Buy receipt includes a 3-year Best Buy Protection Plan, fully transferable at no cost, valid until **16 August 2027**.
+- **Protection:** Best Buy Protection Plan (Geek Squad Protection) to **16 August 2027**, fully transferable at no cost. This is the Best Buy Protection (BPP) tier; accidental damage is not included.
 
 ## What is included
 
@@ -68,13 +68,13 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 - No box, cable or charger.
 - Factory reset and Google account removed before handover.
 - Original purchase receipt available.
-- Transferable Best Buy Protection Plan valid until **16 August 2027**; the buyer must contact Best Buy with the original receipt to complete the transfer.
+- Transferable Best Buy Protection Plan (Geek Squad Protection) valid until **16 August 2027**; the buyer must contact Best Buy with the original receipt to complete the transfer.
 
 ## Purchase receipt
 
 <figure class="pixel-receipt">
   <img src="/assets/pixel-8/receipt.jpg" alt="Best Buy receipt for the Google Pixel 8 128 GB" loading="lazy">
-  <figcaption>Best Buy receipt, 16 August 2024 — Pixel 8 128 GB. IMEI and contract details redacted. The 3-year Best Buy Protection Plan is transferable at no cost and runs to 16 August 2027.</figcaption>
+  <figcaption>Best Buy receipt, 16 August 2024 — Pixel 8 128 GB. IMEI and contract details redacted. The 3-year Best Buy Protection Plan (Geek Squad Protection, BPP tier) is transferable at no cost and runs to 16 August 2027; accidental damage is not included.</figcaption>
 </figure>
 
 ## Price and pickup
@@ -82,7 +82,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 <div class="sale-buy">
 <p><strong>C$400</strong>, local sale only. Pickup in Vancouver, BC.</p>
 <p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
-<p>The Best Buy Protection Plan transfers at no cost; I’ll provide the original receipt and help with the transfer.</p>
+<p>The Best Buy Protection Plan (Geek Squad Protection) transfers at no cost; I’ll provide the original receipt and help with the transfer.</p>
 </div>
 
 If you want to see it working or check anything before buying, [get in touch](/contact/).

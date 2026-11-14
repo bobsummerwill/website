@@ -22,12 +22,12 @@ excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully f
 
 <div class="sale-buy">
 <p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
-<p>Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. Phone only; factory reset and iCloud activation lock removed on purchase.</p>
+<p>Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. Phone only; I’ll erase it and remove it from my Apple ID in front of you at pickup.</p>
 </div>
 
 For sale: an unlocked **iPhone 13 Pro 256 GB in Graphite**. It has been used as a daily phone but is now surplus to requirements. Everything works, there is no water damage, and the edges and back are clean. The screen has light surface scuffs — visible mainly at an angle — but no cracks.
 
-It will be **factory reset** and **signed out of iCloud / activation lock removed** on purchase.
+I’ll erase it and remove it from my Apple ID in front of you at pickup.
 
 ## Why it is interesting
 
@@ -65,7 +65,7 @@ It is also **carrier unlocked** — the phone reports **“No SIM restrictions.�
 
 - iPhone 13 Pro only.
 - **No box, cable, charger, case or screen protector.**
-- Factory reset and iCloud activation lock removed on purchase.
+- I’ll erase it and remove it from my Apple ID in front of you at pickup.
 - Original purchase receipt available.
 
 ## Purchase receipt
@@ -77,7 +77,7 @@ It is also **carrier unlocked** — the phone reports **“No SIM restrictions.�
 
 <figure class="iphone-receipt">
   <img src="/assets/iphone-13-pro/receipt-2.jpg" alt="Rogers receipt totals for the iPhone 13 Pro purchase" loading="lazy">
-  <figcaption>Receipt totals for the phone, case, charger and SIM. Payment details redacted.</figcaption>
+  <figcaption>Receipt totals for the phone, case, charger and SIM — the case and charger are not included in this sale. Payment details redacted.</figcaption>
 </figure>
 
 ## Price and pickup
