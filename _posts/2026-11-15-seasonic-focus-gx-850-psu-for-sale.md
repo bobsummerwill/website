@@ -4,7 +4,7 @@ title: "Seasonic Focus GX-850 850 W 80+ Gold Fully Modular PSU — for sale"
 date: 2026-11-15
 author: Bob Summerwill
 featured_image: /assets/seasonic-focus-gx-850/psu-01.jpg
-excerpt: "Seasonic Focus GX-850 (SSR-850FX): 850 W, 80 Plus Gold, fully modular, hybrid fan mode. Used, no box, but the PSU and its original modular cables are included. C$100, Vancouver pickup."
+excerpt: "Seasonic Focus GX-850 (SSR-850FX): 850 W, 80 Plus Gold, fully modular, hybrid fan mode. Used, no box, but the PSU and its original modular cables are included. C$100, Vancouver pickup only."
 ---
 
 <style>
@@ -18,7 +18,7 @@ excerpt: "Seasonic Focus GX-850 (SSR-850FX): 850 W, 80 Plus Gold, fully modular,
 </style>
 
 <div class="sale-buy">
-<p><strong>C$100 — Vancouver pickup.</strong></p>
+<p><strong>C$100 — Vancouver pickup only.</strong></p>
 <p>Seasonic <strong>Focus GX-850</strong> (SSR-850FX): 850 W, 80 Plus Gold, fully modular, with the original modular cable set. Used; no retail box. Sold as-is with a <strong>7-day return if it does not power up</strong>.</p>
 </div>
 
@@ -74,7 +74,7 @@ It is used, not new: there are light dust marks and normal handling marks, but n
 
 <div class="sale-buy">
 <p><strong>C$100</strong> or nearest offer.</p>
-<p>Vancouver pickup preferred; shipping at the buyer's expense. Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup.</p>
+<p><strong>Vancouver pickup only; no shipping.</strong> Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup.</p>
 </div>
 
 If you want more photos, the cable count, or a photo of the connectors before buying, [get in touch](/contact/).
