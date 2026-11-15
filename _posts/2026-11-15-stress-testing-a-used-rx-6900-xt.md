@@ -15,9 +15,6 @@ excerpt: "For sale as-is: AMD Radeon RX 6900 XT 16 GB at C$350. It detected fine
 .gpu-gallery a { display: block; }
 .gpu-gallery img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
 .gpu-gallery figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.5em; }
-.gpu-hero { max-width: 900px; margin: 0 0 2em; }
-.gpu-hero img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
-.gpu-hero figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
 <div class="sale-buy">
@@ -25,11 +22,6 @@ excerpt: "For sale as-is: AMD Radeon RX 6900 XT 16 GB at C$350. It detected fine
 <p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. It detected fine, but shut down once during a stress test while powered through a daisy-chained cable. I have not been able to fully retest it. Could be the cable setup, could be the card. Priced to reflect that. <strong>7-day return if it does not work for you.</strong></p>
 <p>Vancouver pickup. <a href="/contact/">Get in touch</a> if you want it.</p>
 </div>
-
-<figure class="gpu-hero">
-  <img src="/assets/rx-6900-xt/card-and-box.jpg" alt="AMD Radeon RX 6900 XT in front of its retail box">
-  <figcaption>The RX 6900 XT and its box.</figcaption>
-</figure>
 
 It would not fit in my Razer Core X eGPU enclosure — that has only two 8-pin connectors — so I needed a desktop to test it in.
 
