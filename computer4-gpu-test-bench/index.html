@@ -1,0 +1,313 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>computer4 GPU Test Bench</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: single reading column with a sticky phase nav; steps as numbered procedure blocks, commands as copyable terminal slabs */
+:root{
+  --bg:#f5f7f8; --surface:#ffffff; --fg:#17212b; --muted:#5a6773; --line:#d6dde3;
+  --accent:#c2410c; --accent-soft:#fdeee5; --code-bg:#14191f; --code-fg:#e3e9ee;
+  --warn-bg:#fff6e6; --warn-line:#e0a23a; --ok:#15803d; --bad:#b91c1c;
+  --f-display:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1418; --surface:#161d23; --fg:#e4eaef; --muted:#93a1ad; --line:#2a343d;
+  --accent:#fb8a4c; --accent-soft:#2b1c13; --code-bg:#0a0d10; --code-fg:#dfe6ec;
+  --warn-bg:#2a2112; --warn-line:#b9822a; --ok:#4ade80; --bad:#f87171; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1418; --surface:#161d23; --fg:#e4eaef; --muted:#93a1ad; --line:#2a343d;
+  --accent:#fb8a4c; --accent-soft:#2b1c13; --code-bg:#0a0d10; --code-fg:#dfe6ec;
+  --warn-bg:#2a2112; --warn-line:#b9822a; --ok:#4ade80; --bad:#f87171; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:16px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 64px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:780px;margin:0 auto}
+header.top{padding-block:40px 20px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-weight:700;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:8px 0 10px;text-wrap:balance}
+.lede{color:var(--muted);max-width:62ch;margin:0}
+.specs{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.chip{font-family:var(--f-mono);font-size:12px;border:1px solid var(--line);border-radius:4px;padding:3px 8px;color:var(--muted);background:var(--surface)}
+nav.phases{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);
+  display:flex;gap:4px;overflow-x:auto;padding-block:8px;scrollbar-width:none}
+nav.phases a{flex:0 0 auto;font-family:var(--f-mono);font-size:13px;color:var(--fg);text-decoration:none;padding:6px 10px;border-radius:4px}
+nav.phases a:hover,nav.phases a:focus-visible{background:var(--accent-soft);color:var(--accent);outline:none}
+.progress{margin-left:auto;flex:0 0 auto;font-family:var(--f-mono);font-size:12px;color:var(--muted);align-self:center;padding-right:4px}
+h2{font-family:var(--f-display);font-weight:700;font-size:26px;margin:44px 0 6px;text-wrap:balance;scroll-margin-top:64px}
+h2 small{display:block;font-family:var(--f-mono);font-weight:400;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+.step{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;padding-block:18px;border-top:1px solid var(--line)}
+.step:first-of-type{border-top:0}
+.step > div{min-width:0}
+.step .num{font-family:var(--f-mono);font-weight:600;font-size:13px;color:var(--accent);padding-top:3px;min-width:2.4em}
+.step h3{font-family:var(--f-display);font-weight:600;font-size:19px;margin:0 0 6px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.step h3 label{display:flex;align-items:center;gap:10px;cursor:pointer}
+.step input[type=checkbox]{width:18px;height:18px;accent-color:var(--accent);flex:0 0 auto}
+.step.done h3 span{color:var(--muted);text-decoration:line-through}
+p{margin:0 0 10px;max-width:68ch}
+ul{margin:0 0 10px;padding-left:20px;max-width:68ch}
+li{margin-bottom:4px}
+code{font-family:var(--f-mono);font-size:.88em;background:var(--accent-soft);padding:1px 5px;border-radius:3px}
+.term{position:relative;background:var(--code-bg);color:var(--code-fg);border-radius:6px;margin:8px 0 12px}
+.term pre{margin:0;padding:14px 16px;overflow-x:auto;font-family:var(--f-mono);font-size:13px;line-height:1.6;white-space:pre}
+.term .c{color:#7d8b97}
+.copy{position:absolute;top:8px;right:8px;font-family:var(--f-mono);font-size:11px;background:transparent;color:#aab6c0;
+  border:1px solid #39444e;border-radius:4px;padding:3px 8px;cursor:pointer}
+.copy:hover,.copy:focus-visible{color:#fff;border-color:#8a99a6;outline:none}
+.note{background:var(--warn-bg);border-left:3px solid var(--warn-line);padding:12px 14px;border-radius:0 6px 6px 0;margin:10px 0 14px;max-width:68ch}
+.pass{color:var(--ok);font-weight:600}
+.fail{color:var(--bad);font-weight:600}
+.limits{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin:8px 0 12px}
+.limit{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+.limit b{display:block;font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.limit span{font-family:var(--f-mono);font-size:18px;font-variant-numeric:tabular-nums}
+.tablewrap{overflow-x:auto;margin:10px 0 14px}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:15px}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+td.price{font-family:var(--f-mono);white-space:nowrap;font-variant-numeric:tabular-nums}
+footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+button.reset{font-family:var(--f-mono);font-size:12px;background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:5px 10px;cursor:pointer}
+button.reset:focus-visible{outline:2px solid var(--accent)}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="eyebrow">computer4 &middot; pre-sale check</div>
+  <h1>Omarchy on the second drive, then stress-test the RX 6900 XT</h1>
+  <p class="lede">Install Omarchy (Arch + Hyprland) without touching your son's main drive, then prove the card is healthy before listing it. Tick steps off as you go; your ticks stay in this browser.</p>
+  <div class="specs">
+    <span class="chip">RX 6900 XT OC &middot; 16 GB</span>
+    <span class="chip">3 &times; 8-pin</span>
+    <span class="chip">~1.5&ndash;2 h total</span>
+    <span class="chip">Listing target ~C$600</span>
+  </div>
+</header>
+
+<nav class="phases" aria-label="Sections">
+  <a href="#prep">Prep</a><a href="#install">A &middot; Install</a><a href="#test">B &middot; Test</a><a href="#results">Results</a><a href="#after">Afterwards</a>
+  <span class="progress" id="progress">0 / 0 done</span>
+</nav>
+
+<section id="prep">
+<h2><small>Before you start</small>Prep</h2>
+<ul>
+  <li><b>Back up anything on the second drive.</b> The Omarchy installer wipes the whole drive you pick.</li>
+  <li><b>Know which drive is your son's.</b> Note its make, model and size (Windows: Disk Management).</li>
+  <li>A USB stick of 8 GB or more. It will be erased.</li>
+  <li><b>Power:</b> PSU of 750 W or more with <b>three separate 8-pin PCIe cables</b>. No daisy-chained cable feeding two plugs.</li>
+  <li>An Ethernet cable to the router, and a disk-encryption passphrase you'll remember (you type it every boot).</li>
+</ul>
+<div class="note"><b>Safest method:</b> physically unplug your son's main drive (SATA data cable, or remove the M.2) while installing. The installer then can't see it and the bootloader can't land on it. Plug it back in afterwards.</div>
+</section>
+
+<section id="install">
+<h2><small>Part A</small>Install Omarchy on the second drive</h2>
+
+<div class="step" data-id="a1"><div class="num">A1</div><div>
+  <h3><label><input type="checkbox" id="chk-a1"><span>Make the USB installer</span></label></h3>
+  <p>Download the ISO from <a href="https://omarchy.org" target="_blank" rel="noopener">omarchy.org</a> and write it with <b>balenaEtcher</b>, or from a Linux terminal:</p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>lsblk                       <span class="c"># find the USB stick, e.g. /dev/sdX (check the size!)</span>
+sudo dd if=omarchy.iso of=/dev/sdX bs=4M status=progress oflag=sync</pre></div>
+  <p>Double-check <code>/dev/sdX</code> is the USB stick. dd overwrites whatever you point it at.</p>
+</div></div>
+
+<div class="step" data-id="a2"><div class="num">A2</div><div>
+  <h3><label><input type="checkbox" id="chk-a2"><span>Swap the graphics card</span></label></h3>
+  <ul>
+    <li>Shut down, switch the PSU off at the back, unplug it, press the power button once to drain.</li>
+    <li>Remove the RX 6750 XT. Fit the RX 6900 XT in the top x16 slot and connect <b>all three 8-pin plugs</b>, each on its own cable.</li>
+    <li>Plug the monitor into the <b>6900 XT</b>, not the motherboard output.</li>
+    <li>Photograph the card's BIOS switch position. Start in the default/performance position.</li>
+    <li>While the case is open, unplug your son's drive.</li>
+  </ul>
+</div></div>
+
+<div class="step" data-id="a3"><div class="num">A3</div><div>
+  <h3><label><input type="checkbox" id="chk-a3"><span>BIOS settings and boot the USB</span></label></h3>
+  <ul>
+    <li>Enter the BIOS (usually <b>Del</b> or <b>F2</b>). <b>Disable Secure Boot</b>; on some boards set OS Type to "Other OS".</li>
+    <li>Make sure it's in UEFI mode, not Legacy/CSM-only. Optional: enable Resizable BAR / Above 4G Decoding.</li>
+    <li>Save, then press the one-time boot menu key: <b>F8</b> ASUS, <b>F11</b> MSI/ASRock, <b>F12</b> Gigabyte/Dell/Lenovo. Pick the <b>UEFI</b> entry for the USB stick.</li>
+  </ul>
+</div></div>
+
+<div class="step" data-id="a4"><div class="num">A4</div><div>
+  <h3><label><input type="checkbox" id="chk-a4"><span>Check which drives are visible</span></label></h3>
+  <p>If you can get a shell, confirm only the second drive and the USB stick appear:</p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>lsblk -o NAME,SIZE,MODEL,SERIAL,TYPE,MOUNTPOINTS</pre></div>
+</div></div>
+
+<div class="step" data-id="a5"><div class="num">A5</div><div>
+  <h3><label><input type="checkbox" id="chk-a5"><span>Run the installer</span></label></h3>
+  <ul>
+    <li>Fill in keyboard, username, password, name, email, hostname and timezone. Ethernet usually just works.</li>
+    <li><b>Disk selection: pick the second drive by size and model. Read it twice.</b> It is erased and fully used.</li>
+    <li>Keep the default full-disk encryption and set the passphrase.</li>
+    <li>Wait 10&ndash;30 min (slower on a spinning HDD), remove the USB when told, reboot.</li>
+    <li>First boot: passphrase, then log in. <b>Super+Enter</b> opens a terminal, <b>Super+Space</b> the launcher.</li>
+  </ul>
+</div></div>
+
+<div class="step" data-id="a6"><div class="num">A6</div><div>
+  <h3><label><input type="checkbox" id="chk-a6"><span>Update, then restore your son's drive</span></label></h3>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>omarchy-update          <span class="c"># full system + Omarchy update; reboot if it asks</span></pre></div>
+  <ul>
+    <li>Shut down, plug your son's drive back in, and in the BIOS put <b>his drive (Windows Boot Manager) first</b>.</li>
+    <li>Start Omarchy from the one-time boot menu (F8/F11/F12) when you need it.</li>
+    <li>Optional: <code>sudo limine-scan</code> in Omarchy adds Windows to Omarchy's boot menu. Not needed for this test.</li>
+  </ul>
+</div></div>
+</section>
+
+<section id="test">
+<h2><small>Part B</small>Stress-test the RX 6900 XT</h2>
+<p>All commands run in an Omarchy terminal. Open several and let Hyprland tile them.</p>
+
+<div class="step" data-id="b1"><div class="num">B1</div><div>
+  <h3><label><input type="checkbox" id="chk-b1"><span>Install the test tools</span></label></h3>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>sudo pacman -Syu
+yay -S --needed vulkan-radeon vulkan-tools lm_sensors pciutils git cmake \
+       base-devel shaderc vulkan-headers glmark2 vkmark amdgpu_top
+mkdir -p ~/gputest &amp;&amp; cd ~/gputest</pre></div>
+</div></div>
+
+<div class="step" data-id="b2"><div class="num">B2</div><div>
+  <h3><label><input type="checkbox" id="chk-b2"><span>Identify the card</span></label></h3>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>lspci -nnk | grep -A3 -i vga        <span class="c"># expect Navi 21 ... 6900 XT, driver amdgpu</span>
+GPU=$(lspci | grep -iE 'vga.*(amd|ati)' | awk '{print $1}')
+sudo lspci -vv -s $GPU | grep -i lnksta
+cat /sys/class/drm/card*/device/mem_info_vram_total   <span class="c"># expect ~17163091968 (16 GB)</span>
+vulkaninfo --summary | grep -i devicename             <span class="c"># expect AMD Radeon RX 6900 XT (RADV NAVI21)</span></pre></div>
+  <p><span class="pass">Pass:</span> 16 GB VRAM, amdgpu driver, Vulkan sees the card. Screenshot this for the listing.</p>
+</div></div>
+
+<div class="step" data-id="b3"><div class="num">B3</div><div>
+  <h3><label><input type="checkbox" id="chk-b3"><span>Start the monitors (leave running)</span></label></h3>
+  <p><b>Terminal 1, kernel errors.</b> Anything printed here during the tests is a red flag:</p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>sudo journalctl -k -f | grep -iE "amdgpu|ring|timeout|reset|fault"</pre></div>
+  <p><b>Terminal 2, temperatures, clocks, power and fan:</b></p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>amdgpu_top        <span class="c"># or:  watch -n1 sensors</span></pre></div>
+  <div class="limits">
+    <div class="limit"><b>Edge</b><span>&lt; 85 &deg;C</span></div>
+    <div class="limit"><b>Junction</b><span>&lt; 100 &deg;C</span></div>
+    <div class="limit"><b>Memory</b><span>&lt; 95 &deg;C</span></div>
+    <div class="limit"><b>Board power</b><span>255&ndash;300 W</span></div>
+  </div>
+  <p>Junction (hotspot) more than about 25&ndash;30 &deg;C above edge points to dried paste. 100&ndash;110 &deg;C junction means it is throttling.</p>
+</div></div>
+
+<div class="step" data-id="b4"><div class="num">B4</div><div>
+  <h3><label><input type="checkbox" id="chk-b4"><span>VRAM test with memtest_vulkan (20&ndash;30 min)</span></label></h3>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>cd ~/gputest
+URL=$(curl -s https://api.github.com/repos/GpuZelenograd/memtest_vulkan/releases/latest \
+      | grep browser_download_url | grep -i linux | grep -iv aarch64 | head -1 | cut -d'"' -f4)
+echo $URL &amp;&amp; curl -L -o memtest.tar.xz "$URL"
+mkdir -p memtest &amp;&amp; tar -xf memtest.tar.xz -C memtest
+MT=$(find memtest -type f -name 'memtest_vulkan*' | head -1)
+chmod +x "$MT" &amp;&amp; "$MT"</pre></div>
+  <p>Pick the RX 6900 XT if asked, run 20&ndash;30 minutes, then Ctrl+C. <span class="pass">Pass:</span> zero errors. <span class="fail">Any error line</span> means faulty or unstable VRAM.</p>
+</div></div>
+
+<div class="step" data-id="b5"><div class="num">B5</div><div>
+  <h3><label><input type="checkbox" id="chk-b5"><span>3D load loop (20&ndash;30 min)</span></label></h3>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>while true; do vkmark || glmark2; done</pre></div>
+  <p><span class="pass">Pass:</span> no crashes, black screens, artefacts or kernel messages; temperatures settle inside the limits above.</p>
+</div></div>
+
+<div class="step" data-id="b6"><div class="num">B6</div><div>
+  <h3><label><input type="checkbox" id="chk-b6"><span>Compute test with llama.cpp on Vulkan (~20 min)</span></label></h3>
+  <p>The test an AI buyer cares about. Builds llama.cpp, downloads a ~5 GB model, and checks the card gives <b>bit-identical output three times</b>. Unstable cards drift.</p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>cd ~/gputest
+git clone --depth 1 https://github.com/ggml-org/llama.cpp
+cmake -S llama.cpp -B llama.cpp/build -DGGML_VULKAN=ON -DCMAKE_BUILD_TYPE=Release
+cmake --build llama.cpp/build -j$(nproc)
+curl -L -o qwen3-8b-q4km.gguf \
+  https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_K_M.gguf
+
+BIN=llama.cpp/build/bin
+for i in 1 2 3; do
+  $BIN/llama-simple -m qwen3-8b-q4km.gguf -ngl 99 -n 300 \
+    "Explain how a graphics card works, step by step." &gt; run$i.txt 2&gt;/dev/null
+done
+diff run1.txt run2.txt &amp;&amp; diff run1.txt run3.txt &amp;&amp; echo "IDENTICAL - PASS"</pre></div>
+  <p>Then a sustained compute load for 10&ndash;15 minutes:</p>
+  <div class="term"><button class="copy" type="button">Copy</button><pre>while true; do $BIN/llama-bench -m qwen3-8b-q4km.gguf -ngl 99 -p 512 -n 128; done</pre></div>
+  <p><span class="pass">Pass:</span> "IDENTICAL - PASS", steady <code>pp512</code> / <code>tg128</code> numbers run after run, no kernel messages. Screenshot the numbers.</p>
+</div></div>
+
+<div class="step" data-id="b7"><div class="num">B7</div><div>
+  <h3><label><input type="checkbox" id="chk-b7"><span>If something fails</span></label></h3>
+  <ul>
+    <li><b>Crash, black screen, "ring timeout" or "GPU reset":</b> flip the BIOS switch, reboot, repeat B4&ndash;B6.</li>
+    <li><b>Hotspot over 105&ndash;110 &deg;C or a big edge-to-hotspot gap:</b> works but needs new paste (maybe pads).</li>
+    <li><b>memtest_vulkan errors:</b> faulty VRAM. Sell for parts and say so.</li>
+    <li><b>Only one BIOS position stable:</b> sell as working, noting the unstable BIOS.</li>
+    <li>Reseat the 8-pin cables and confirm they're on separate PSU leads before blaming the card.</li>
+  </ul>
+</div></div>
+</section>
+
+<section id="results">
+<h2><small>Listing</small>Results and price guide</h2>
+<div class="tablewrap"><table>
+  <thead><tr><th>Outcome</th><th>What to say</th><th>Ask (CAD)</th></tr></thead>
+  <tbody>
+    <tr><td>All tests pass</td><td>Fully tested: VRAM, 3D and compute stress; temps OK</td><td class="price">~$600</td></tr>
+    <tr><td>Passes, hotspot hot</td><td>Works; would benefit from a repaste</td><td class="price">$500&ndash;550</td></tr>
+    <tr><td>One BIOS stable</td><td>Works on BIOS 1; BIOS 2 unstable</td><td class="price">$550&ndash;600</td></tr>
+    <tr><td>VRAM errors or crashes</td><td>For parts or repair, described honestly</td><td class="price">$150&ndash;300</td></tr>
+  </tbody>
+</table></div>
+<p><b>Screenshots to keep:</b> B2 output (16 GB, card name), memtest_vulkan after 20+ min with no errors, amdgpu_top under load, "IDENTICAL - PASS" with llama-bench numbers, plus photos of the card, its three 8-pin sockets and the BIOS switch.</p>
+</section>
+
+<section id="after">
+<h2><small>Wrap up</small>Afterwards</h2>
+<div class="step" data-id="z1"><div class="num">Z1</div><div>
+  <h3><label><input type="checkbox" id="chk-z1"><span>Put computer4 back the way it was</span></label></h3>
+  <ul>
+    <li>Refit the <b>RX 6750 XT</b> and plug the monitor back into it.</li>
+    <li>Check his drive is <b>first in the boot order</b> and Windows starts normally.</li>
+    <li>Re-enable Secure Boot if his games or anti-cheat need it. Omarchy won't boot until it's off again.</li>
+  </ul>
+</div></div>
+</section>
+
+<footer>
+  <button class="reset" type="button" id="reset">Clear my ticks</button>
+  <p style="margin-top:10px">Prepared 14 Nov 2026. Commands are untested on this exact PC; if one fails, paste the output back to Claude.</p>
+</footer>
+</div>
+
+<script>
+(function(){
+  var KEY='c4-gputest-v1', state={};
+  try{ state=JSON.parse(localStorage.getItem(KEY)||'{}')||{}; }catch(e){ state={}; }
+  var steps=[].slice.call(document.querySelectorAll('.step'));
+  function save(){ try{ localStorage.setItem(KEY,JSON.stringify(state)); }catch(e){} }
+  function update(){
+    var n=0;
+    steps.forEach(function(s){ var on=!!state[s.dataset.id]; s.classList.toggle('done',on); s.querySelector('input').checked=on; if(on)n++; });
+    document.getElementById('progress').textContent=n+' / '+steps.length+' done';
+  }
+  steps.forEach(function(s){
+    s.querySelector('input').addEventListener('change',function(e){ state[s.dataset.id]=e.target.checked; save(); update(); });
+  });
+  document.getElementById('reset').addEventListener('click',function(){ state={}; save(); update(); });
+  update();
+  document.querySelectorAll('.copy').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      var pre=btn.parentNode.querySelector('pre'), text=pre.innerText;
+      function done(t){ btn.textContent=t; setTimeout(function(){btn.textContent='Copy';},1500); }
+      function fallback(){ var r=document.createRange(); r.selectNodeContents(pre); var sel=getSelection(); sel.removeAllRanges(); sel.addRange(r); done('Selected'); }
+      try{ navigator.clipboard.writeText(text).then(function(){done('Copied');},fallback); }catch(e){ fallback(); }
+    });
+  });
+})();
+</script>
+
+</body></html>
