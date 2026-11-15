@@ -1,19 +1,30 @@
 ---
 layout: post
-title: "I stress-tested a used RX 6900 XT before selling it — and I'm glad I did"
+title: "For sale as-is: AMD Radeon RX 6900 XT 16 GB — C$350"
 date: 2026-11-15
 author: Bob Summerwill
-excerpt: "The card detected fine, then the whole PC shut down during a VRAM stress test. It is still for sale as-is at C$350, with the failure disclosed. Here is what I tested, what happened, and what I would check next."
+excerpt: "For sale as-is: AMD Radeon RX 6900 XT 16 GB at C$350. It detected fine, then shut down once during a VRAM stress test while powered through a daisy-chained cable. I have not been able to fully retest it; could be the cable setup, could be the card. Seven-day return if it does not work for you."
 ---
 
 <style>
 .sale-buy { background: #f7f7f7; border-left: 4px solid #1F3A5F; padding: 1em 1.25em; margin: 0 0 2em; }
 .sale-buy p:last-child { margin-bottom: 0; }
+.gpu-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; margin: 0 0 2em; }
+.gpu-gallery figure { margin: 0; }
+.gpu-gallery a { display: block; }
+.gpu-gallery img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
+.gpu-gallery figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.5em; }
 </style>
 
-I was getting ready to sell a used **AMD Radeon RX 6900 XT** to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. I'm glad I did.
+<div class="sale-buy">
+<p><strong>For sale as-is: C$350.</strong></p>
+<p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. It detected fine, but shut down once during a stress test while powered through a daisy-chained cable. I have not been able to fully retest it. Could be the cable setup, could be the card. Priced to reflect that. <strong>7-day return if it does not work for you.</strong></p>
+<p>Vancouver pickup. <a href="/contact/">Get in touch</a> if you want it.</p>
+</div>
 
-The card is a factory-overclocked **16 GB GDDR6** model with **three 8-pin power connectors** and a dual-BIOS switch. It would not fit in my Razer Core X eGPU enclosure — that has only two 8-pin connectors — so I needed a desktop to test it in.
+It would not fit in my Razer Core X eGPU enclosure — that has only two 8-pin connectors — so I needed a desktop to test it in.
+
+I was getting ready to sell it to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. The test found a problem.
 
 ## The test setup
 
@@ -37,6 +48,40 @@ Detection was clean: the right model, 16 GB of VRAM, the amdgpu driver, and visi
 
 When I powered it back up, there was no display.
 
+## Photos
+
+<div class="gpu-gallery">
+  <figure>
+    <a href="/assets/rx-6900-xt/card-and-box.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/card-and-box.jpg" alt="AMD Radeon RX 6900 XT in front of its retail box" loading="lazy"></a>
+    <figcaption>The RX 6900 XT and its box.</figcaption>
+  </figure>
+  <figure>
+    <a href="/assets/rx-6900-xt/installed.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/installed.jpg" alt="AMD Radeon RX 6900 XT installed in the test PC" loading="lazy"></a>
+    <figcaption>Installed in computer4 for testing.</figcaption>
+  </figure>
+  <figure>
+    <a href="/assets/rx-6900-xt/lspci.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/lspci.jpg" alt="lspci and vulkaninfo output showing the RX 6900 XT, Navi 21 and 16 GB of VRAM" loading="lazy"></a>
+    <figcaption>Detected correctly: RX 6900 XT, Navi 21, 16 GB of VRAM, visible to Vulkan.</figcaption>
+  </figure>
+  <figure>
+    <a href="/assets/rx-6900-xt/amdgpu-top.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/amdgpu-top.jpg" alt="amdgpu_top showing clocks, power and temperatures" loading="lazy"></a>
+    <figcaption>amdgpu_top during the test.</figcaption>
+  </figure>
+</div>
+
+For context, the batch also included photos of the **XFX QICK319 Radeon RX 6750 XT** that came out of the PC — that is the card it replaced, not the 6900 XT.
+
+<div class="gpu-gallery">
+  <figure>
+    <a href="/assets/rx-6900-xt/replaced-6750-xt-front.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/replaced-6750-xt-front.jpg" alt="XFX QICK319 Radeon RX 6750 XT front" loading="lazy"></a>
+    <figcaption>XFX QICK319 RX 6750 XT — front.</figcaption>
+  </figure>
+  <figure>
+    <a href="/assets/rx-6900-xt/replaced-6750-xt-side.jpg" target="_blank" rel="noopener"><img src="/assets/rx-6900-xt/replaced-6750-xt-side.jpg" alt="XFX QICK319 Radeon RX 6750 XT side" loading="lazy"></a>
+    <figcaption>XFX QICK319 RX 6750 XT — side.</figcaption>
+  </figure>
+</div>
+
 ## What it means
 
 A sudden power-off under a memory stress test usually means the card pulled a burst of current, often from a failing memory chip or power stage, and the PSU's protection cut power. A modern 1000 W ATX 3.x supply should not trip on a healthy 6900 XT's power spikes. That, plus no picture afterwards, points at the card.
@@ -45,13 +90,7 @@ But I am not going to pretend that is proven. The card was on a daisy-chained ca
 
 Before I change the listing, the next checks are: look and smell for scorching around the 8-pin sockets, try the other BIOS position and other outputs after a full power drain, retest with separate 8-pin cables, and put the 6750 XT back to confirm the PC is fine.
 
-## For sale
-
-<div class="sale-buy">
-<p><strong>Still for sale as-is: C$350.</strong></p>
-<p>Detected fine, but shut down once during a stress test while powered through a daisy-chained cable. I have not been able to fully retest it. Could be the cable setup, could be the card. Priced to reflect that. <strong>7-day return if it does not work for you.</strong></p>
-<p>Vancouver pickup. <a href="/contact/">Get in touch</a> if you want it.</p>
-</div>
+## What happens next
 
 If a full retest passes, I will relist it as a working card at around **C$600**. If it boots but I cannot get a full pass, it stays as-is at **C$350**. If it stays black, it becomes a **C$200 parts card**. That is the honest range.
 
