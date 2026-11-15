@@ -4,7 +4,7 @@ title: "Razer Core X eGPU enclosure (RC21-0131) — for sale"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/razer-core-x/egpu-01.jpg
-excerpt: "Thunderbolt 3 external GPU enclosure, Razer Core X model RC21-0131, with a 650 W internal PSU and 100 W laptop charging. US$250 (≈ C$350) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
+excerpt: "Thunderbolt 3 external GPU enclosure, Razer Core X model RC21-0131, with a 650 W internal PSU and 100 W laptop charging. Price reduced to C$350 (≈ US$250) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
 ---
 
 <style>
@@ -84,9 +84,9 @@ Check your card's length, thickness and power connectors against those figures b
 ## Price and shipping
 
 <div class="sale-buy">
-<p><strong>US$250</strong> (≈ C$350) or nearest offer.</p>
+<p><strong>Price reduced to C$350</strong> (≈ US$250) or nearest offer.</p>
 <p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. The enclosure is about 6.5 kg, so I will quote exact shipping before you commit. Payment can be made in USD or CAD.</p>
-<p><small>CAD prices are approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
+<p><small>USD prices are approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
 </div>
 
 Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. If you want more photos or the exact serial number before buying, [get in touch](/contact/).

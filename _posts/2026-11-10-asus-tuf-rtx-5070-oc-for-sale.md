@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ASUS TUF Gaming RTX 5070 OC 12 GB — for sale"
+title: "ASUS TUF Gaming RTX 5070 OC 12 GB — SOLD"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/rtx-5070/gpu-02.jpg
-excerpt: "ASUS TUF Gaming GeForce RTX 5070 OC Edition, 12 GB GDDR7, bought new in November 2025 with original box, accessories, receipt and 3-year warranty. US$825 (≈ C$1,165) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
+excerpt: "Sold my ASUS TUF Gaming GeForce RTX 5070 OC Edition, 12 GB GDDR7, bought new in November 2025 with original box, accessories, receipt and 3-year warranty. Listed at US$825 (≈ C$1,165); sold for C$1,200."
 ---
 
 <style>
@@ -23,9 +23,9 @@ excerpt: "ASUS TUF Gaming GeForce RTX 5070 OC Edition, 12 GB GDDR7, bought new i
 .gpu-video figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
-For sale: an **ASUS TUF Gaming GeForce RTX 5070 OC Edition** with **12 GB of GDDR7**. I bought it new in November 2025, and it has been used in a desktop since. It is fully working and comes complete with the original box, cables, documentation, decal and receipt.
+**SOLD for C$1,200.** I listed an **ASUS TUF Gaming GeForce RTX 5070 OC Edition** with **12 GB of GDDR7** at US$825 (≈ C$1,165) on November 10, 2026. I bought it new in November 2025, and it had been used in a desktop since. It was fully working and came complete with the original box, cables, documentation, decal and receipt.
 
-This is the 3.125-slot TUF model with the large triple-fan cooler, so check your case clearance before buying. It is a strong 1440p card, and the 12 GB frame buffer is also useful for local AI work.
+This was the 3.125-slot TUF model with the large triple-fan cooler, so buyers needed to check case clearance. It was a strong 1440p card, and the 12 GB frame buffer was also useful for local AI work.
 
 ## Specifications
 
@@ -45,10 +45,10 @@ This is the 3.125-slot TUF model with the large triple-fan cooler, so check your
 ## Purchase, warranty and condition
 
 - Bought new on 2 November 2025 for **CA$829.99** plus tax (CA$929.59 total). Original receipt included.
-- One owner, used in a home desktop and actively driving three monitors in daily use. Fully working, no known faults.
+- One owner; it had been used in a home desktop and was actively driving three monitors in daily use. It was fully working, with no known faults.
 - Original box, original power cables/16-pin adapter, quick start guide and TUF decal included.
-- **3-year ASUS warranty** as printed on the box, running through November 2028 (subject to ASUS terms).
-- Can be inspected and tested in Vancouver by arrangement.
+- The **3-year ASUS warranty** printed on the box ran through November 2028 (subject to ASUS terms).
+- Could be inspected and tested in Vancouver by arrangement.
 
 <figure class="receipt">
   <img src="/assets/rtx-5070/best-buy-receipt-2025-11-02.png" alt="Best Buy receipt for the ASUS TUF Gaming GeForce RTX 5070 OC 12GB GDDR7" />
@@ -88,12 +88,11 @@ This is the 3.125-slot TUF model with the large triple-fan cooler, so check your
   <figcaption>A short clip of the card running.</figcaption>
 </figure>
 
-## Price and shipping
+## Sale
 
-<div class="sale-buy">
-<p><strong>US$825</strong> (≈ C$1,165) or nearest offer.</p>
-<p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. The card is small enough to ship tracked and insured without difficulty. Payment can be made in USD or CAD.</p>
-<p><small>CAD prices are approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
-</div>
+Listed at **US$825** (≈ C$1,165) on November 10, 2026. Sold for **C$1,200**.
 
-Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. If you want more photos, the receipt, or a benchmark before buying, [get in touch](/contact/).
+- Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense
+- Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup
+
+Thanks to everyone who expressed interest.
