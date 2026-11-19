@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Google Pixel 8 128 GB (Obsidian) — for sale"
+title: "Google Pixel 8 128 GB (Obsidian) — SOLD"
 date: 2026-11-14 00:01:00 +0000
 redirect_from:
   - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
 featured_image: /assets/pixel-8/hero-hi-there.jpg
-excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted with no scratches on the screen; rugged case included. Unlocked, with no carrier or IMEI issues. Includes a transferable Best Buy Protection Plan (Geek Squad Protection) until 16 August 2027. C$400, Vancouver pickup only."
+excerpt: "Sold my Google Pixel 8 128 GB in Obsidian — stock Android, matte screen protector fitted with no screen scratches, rugged case included, unlocked with no carrier or IMEI issues, and a transferable Best Buy Protection Plan (Geek Squad Protection) to 16 August 2027. Listed at C$400, sold for C$250."
 ---
 
 <style>
@@ -23,15 +23,15 @@ excerpt: "Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen
 </style>
 
 <div class="sale-buy">
-<p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
-<p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, and the rugged case is included. Unlocked with no carrier or IMEI issues. Includes a transferable 3-year Best Buy Protection Plan (Geek Squad Protection) valid to 16 August 2027.</p>
+<p><strong>SOLD for C$250 — local sale, Vancouver pickup.</strong></p>
+<p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, rugged case included. Unlocked with no carrier or IMEI issues. Included a transferable 3-year Best Buy Protection Plan (Geek Squad Protection) valid to 16 August 2027.</p>
 </div>
 
-For sale: a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**. It has a **matte screen protector** fitted and the screen itself has **no scratches**. The **rugged case** shown in the photos is included.
+**SOLD for C$250.** I listed a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**, at C$400 on November 14, 2026. It had a **matte screen protector** fitted and the screen itself had **no scratches**. The **rugged case** shown in the photos was included.
 
-There are no carrier restrictions and no IMEI issues. It will be **factory reset and signed out of Google** before handover.
+There were no carrier restrictions and no IMEI issues. It was **factory reset and signed out of Google** before handover.
 
-## Why it is interesting
+## Why it's interesting
 
 The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz**, Google’s **Tensor G3** chip, 8 GB of RAM, and a 50 MP main camera. It is still supported by current Android releases, with 128 GB of storage.
 
@@ -60,15 +60,15 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 - **Carrier/IMEI:** no carrier restrictions and no IMEI issues.
 - **Protection:** Best Buy Protection Plan (Geek Squad Protection) to **16 August 2027**, fully transferable at no cost. This is the Best Buy Protection (BPP) tier; accidental damage is not included.
 
-## What is included
+## What was included
 
 - Google Pixel 8 128 GB.
 - Rugged case (shown in the photos).
 - Fitted matte screen protector.
 - No box, cable or charger.
 - Factory reset and Google account removed before handover.
-- Original purchase receipt available.
-- Transferable Best Buy Protection Plan (Geek Squad Protection) valid until **16 August 2027**; the buyer must contact Best Buy with the original receipt to complete the transfer.
+- Original purchase receipt provided.
+- Transferable Best Buy Protection Plan (Geek Squad Protection) valid until **16 August 2027**; the buyer contacts Best Buy with the original receipt to complete the transfer.
 
 ## Purchase receipt
 
@@ -77,15 +77,15 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
   <figcaption>Best Buy receipt, 16 August 2024 — Pixel 8 128 GB. IMEI and contract details redacted. The 3-year Best Buy Protection Plan (Geek Squad Protection, BPP tier) is transferable at no cost and runs to 16 August 2027; accidental damage is not included.</figcaption>
 </figure>
 
-## Price and pickup
+## Sale
 
-<div class="sale-buy">
-<p><strong>C$400</strong>, local sale only. Pickup in Vancouver, BC.</p>
-<p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
-<p>The Best Buy Protection Plan (Geek Squad Protection) transfers at no cost; I’ll provide the original receipt and help with the transfer.</p>
-</div>
+Listed at **C$400** on November 14, 2026. Sold for **C$250** — local sale, pickup in Vancouver, BC.
 
-If you want to see it working or check anything before buying, [get in touch](/contact/).
+- Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup
+- Vancouver pickup only; no shipping
+- The Best Buy Protection Plan (Geek Squad Protection) transfers at no cost; I provided the original receipt and helped with the transfer
+
+Thanks to everyone who expressed interest.
 
 ## Photos
 
