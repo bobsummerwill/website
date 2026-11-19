@@ -6,7 +6,7 @@ redirect_from:
   - /2026/11/14/google-pixel-8-256gb-obsidian-for-sale/
 author: Bob Summerwill
 featured_image: /assets/pixel-8/hero-hi-there.jpg
-excerpt: "Sold my Google Pixel 8 128 GB in Obsidian — stock Android, matte screen protector fitted with no screen scratches, rugged case included, unlocked with no carrier or IMEI issues, and a transferable Best Buy Protection Plan (Geek Squad Protection) to 16 August 2027. Listed at C$400, sold for C$250."
+excerpt: "Sold my Google Pixel 8 128 GB in Obsidian — stock Android, matte screen protector fitted with no screen scratches, rugged case included, unlocked with no carrier or IMEI issues, and a transferable Best Buy Protection Plan (Geek Squad Protection) to 16 August 2027. Listed at C$400, sold for C$250 after 5 days."
 ---
 
 <style>
@@ -23,11 +23,11 @@ excerpt: "Sold my Google Pixel 8 128 GB in Obsidian — stock Android, matte scr
 </style>
 
 <div class="sale-buy">
-<p><strong>SOLD for C$250 — local sale, Vancouver pickup.</strong></p>
+<p><strong>SOLD for C$250 after 5 days — local sale, Vancouver pickup.</strong></p>
 <p>Google Pixel 8 128 GB in Obsidian, running stock Android. Matte screen protector fitted, no scratches on the screen, rugged case included. Unlocked with no carrier or IMEI issues. Included a transferable 3-year Best Buy Protection Plan (Geek Squad Protection) valid to 16 August 2027.</p>
 </div>
 
-**SOLD for C$250.** I listed a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**, at C$400 on November 14, 2026. It had a **matte screen protector** fitted and the screen itself had **no scratches**. The **rugged case** shown in the photos was included.
+**SOLD for C$250 after 5 days.** I listed a **Google Pixel 8 128 GB in Obsidian**, running **stock Android**, at C$400 on November 14, 2026. It sold for C$250 on November 19, 2026. It had a **matte screen protector** fitted and the screen itself had **no scratches**. The **rugged case** shown in the photos was included.
 
 There were no carrier restrictions and no IMEI issues. It was **factory reset and signed out of Google** before handover.
 
@@ -79,7 +79,7 @@ The Pixel 8 is a compact flagship with a **6.2-inch Actua OLED display at 120 Hz
 
 ## Sale
 
-Listed at **C$400** on November 14, 2026. Sold for **C$250** — local sale, pickup in Vancouver, BC.
+Listed at **C$400** on November 14, 2026. Sold for **C$250** on November 19, 2026 — 5 days on the market. Local sale, pickup in Vancouver, BC.
 
 - Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup
 - Vancouver pickup only; no shipping
