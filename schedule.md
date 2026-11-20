@@ -9,11 +9,6 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 ![IMG_0360](/assets/images/2020/01/img_0360.jpg)
 
 ## Future conferences and events
-#### 2026
-
-* Nov 2 - [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) - Mumbai, India - MC-ing and speaking
-* Nov 3 to Nov 6 - [DEVCON8](https://devcon.org/en/) - Mumbai, India - facilitating
-
 #### 2027
 
 * Mar 24 to Mar 25 - [ETHDenver 2027](https://ethdenver.com/) - Denver, CO - speaking
@@ -29,6 +24,8 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 * Feb 17 to Feb 21 - [ETHDenver 2026](https://ethdenver.com/) - Denver, CO - speaking "[The Early Days of Ethereum](https://ethdenver.com/speakers/bob-summerwill/)", [Museum of Ethereum](https://ethdenver.com/museum/)
 * Mar 30 to Apr 2 - [ETHCC[9]](https://ethcc.io/) - Cannes, France - speaking "[The Early Days of Ethereum](https://ethcc.io/ethcc-9/agenda/the-early-days-of-ethereum)"
 * Apr 13 to Apr 17 - STRATO onsite - Brooklyn, NY
+* Nov 2 - [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) - Mumbai, India - MC-ing and speaking
+* Nov 3 to Nov 6 - [DEVCON8](https://devcon.org/en/) - Mumbai, India - facilitating
 
 #### 2025
 
