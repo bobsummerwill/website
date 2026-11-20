@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "AMD Radeon RX 6900 XT 16 GB — for parts or repair, C$180"
+title: "AMD Radeon RX 6900 XT 16 GB — SOLD"
 date: 2026-11-15
 author: Bob Summerwill
 featured_image: /assets/rx-6900-xt/card-and-box.jpg
-excerpt: "For parts or repair, C$180. Sold as-is for C$350 with a 7-day return; the buyer then tested it on a Corsair RM850x with three separate 8-pin cables, repasted it, tried both BIOSes and a 250 W power limit, and the fault persisted. Full test history — mine and the buyer's — below."
+excerpt: "Sold my AMD Radeon RX 6900 XT 16 GB for parts — C$150. First sold as-is for C$350 with a 7-day return; the buyer's thorough testing confirmed the fault and it came back. Relisted for parts at C$180, sold for C$150. Full test history — mine and the buyer's — below."
 ---
 
 <style>
@@ -18,14 +18,13 @@ excerpt: "For parts or repair, C$180. Sold as-is for C$350 with a 7-day return; 
 </style>
 
 <div class="sale-buy">
-<p><strong>C$180 — for parts or repair. Local sale, Vancouver pickup only.</strong></p>
-<p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. Detects correctly and can show a desktop, but crashes randomly and loses display output. Sold as-is for C$350 with a 7-day return; the buyer then tested it thoroughly on a different PSU with separate cables, repasted it, tried both BIOSes and a 250 W power limit, and the fault persisted. The fault is in the card.</p>
-<p>Sold as-is for parts or repair, with the full fault history disclosed below. A repairer's project, not a working card.</p>
+<p><strong>SOLD for C$150 — for parts, local sale, Vancouver pickup.</strong></p>
+<p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. It detected correctly and could show a desktop, but crashed randomly and lost display output. First sold as-is for C$350 with a 7-day return; the buyer tested it thoroughly on a different PSU with separate cables, repasted it, tried both BIOSes and a 250 W power limit, and the fault persisted, so it came back. Relisted for parts or repair at C$180, it sold for C$150. The fault was in the card.</p>
 </div>
 
 It would not fit in my Razer Core X eGPU enclosure — that has only two 8-pin connectors — so I needed a desktop to test it in.
 
-I was getting ready to sell it to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. The test found a problem. I listed it honestly as-is and sold it for **C$350** with a 7-day return. The buyer's own testing then confirmed the fault, and it is now listed **for parts or repair at C$180**.
+**SOLD for C$150 for parts.** I was getting ready to sell it to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. The test found a problem. I listed it honestly as-is and sold it for **C$350** with a 7-day return. The buyer's own testing then confirmed the fault and the card came back under that return. I relisted it **for parts or repair at C$180**, and it has now **sold for C$150**.
 
 ## The test setup
 
@@ -66,7 +65,7 @@ When I powered it back up, there was no display.
 
 A sudden power-off under a memory stress test usually means the card pulled a burst of current, often from a failing memory chip or power stage, and the PSU's protection cut power. A modern 1000 W ATX 3.x supply should not trip on a healthy 6900 XT's power spikes. That, plus no picture afterwards, pointed at the card.
 
-At the time I could not prove it. The card was on a daisy-chained cable, and I had not eliminated that. **The buyer has since eliminated it.**
+At the time I could not prove it. The card was on a daisy-chained cable, and I had not eliminated that. **The buyer later eliminated it.**
 
 ## What the buyer's testing showed
 
@@ -80,7 +79,7 @@ The buyer ran the card in their own desktop and kept me posted throughout. This 
 - **Both BIOSes:** performance and quiet — same behaviour in either.
 - **Power limit:** capping power delivery at **250 W** did not fix it.
 
-They removed the card because the random crashes were interfering with their work, and asked to return it under the 7-day return I had offered. I agreed.
+They removed the card because the random crashes were interfering with their work, and asked to return it under the 7-day return I had offered. I agreed and refunded the C$350.
 
 That is about as thorough an elimination of the external variables as a used card gets: a different PSU, separate cables, two operating systems, fresh drivers, fresh thermal material, both BIOS positions, and a reduced power limit. **The fault is in the card.**
 
@@ -88,19 +87,11 @@ The checks I had listed before selling — scorching around the 8-pin sockets, t
 
 ## The sale
 
-It sold as-is for **C$350** on November 15, 2026, with the shutdown disclosed and the 7-day return I offered. I did not do the full retest before selling it; the buyer knew that. They tested it further, the fault persisted through every variable they could change, and the card is being returned under that return.
+It first sold as-is for **C$350** on November 15, 2026, with the shutdown disclosed and the 7-day return I offered. I did not do the full retest before selling it; the buyer knew that. They tested it further, the fault persisted through every variable they could change, and the card came back under that return. I refunded the C$350.
 
-It is now listed **for parts or repair at C$180**. If it had passed a full retest it would have been a working card at around **C$600**. A card with a confirmed fault is a parts card, and that is what this is.
+I relisted it **for parts or repair at C$180**, and it **sold for C$150**. If it had passed a full retest it would have been a working card at around **C$600**. A card with a confirmed fault is a parts card, and that is what this was.
 
-## Price and pickup
-
-<div class="sale-buy">
-<p><strong>C$180</strong> — for parts or repair, local sale only. Pickup in Vancouver, BC.</p>
-<p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
-<p>Sold as-is with the full fault history above. A repairer's project, not a working card.</p>
-</div>
-
-If you want to see it or check anything before buying, [get in touch](/contact/).
+Local sale, pickup in Vancouver, BC; no shipping. The listing accepted PayPal G&amp;S, Interac e-transfer, or cash on pickup. Thanks to everyone who expressed interest — and to the first buyer, whose thorough testing made the diagnosis conclusive.
 
 ## What I would take away
 
@@ -113,4 +104,4 @@ If you want to see it or check anything before buying, [get in touch](/contact/)
 
 The step-by-step test plan is here: [Stress-testing a used GPU: Omarchy and the RX 6900 XT](/computer4-gpu-test-bench/).
 
-I would rather sell a card with a clear disclosure than have someone find out the hard way. It is listed for parts or repair at **C$180**, with the whole history above — mine and the buyer's.
+I would rather sell a card with a clear disclosure than have someone find out the hard way. It sold for parts at **C$150**, with the whole history above — mine and the buyer's.
