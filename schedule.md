@@ -14,6 +14,13 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 * Nov 2 - [Ethereum Cypherpunk Congress 3](https://luma.com/spsnos9t) - Mumbai, India - MC-ing and speaking
 * Nov 3 to Nov 6 - [DEVCON8](https://devcon.org/en/) - Mumbai, India - facilitating
 
+#### 2027
+
+* Mar 24 to Mar 25 - [ETHDenver 2027](https://ethdenver.com/) - Denver, CO - speaking
+* Apr 12 to Apr 15 - [ETHCC[10]](https://ethcc.io/) - Cannes, France - speaking
+* Oct 11 - [Ethereum Cypherpunk Congress 4](http://web3privacy.info/) - Lisbon, Portugal - MC-ing and speaking
+* Oct 11 to Oct 13 - [DEVCON9](https://devcon.org/) - Lisbon, Portugal - speaking
+
 ## Past conferences and events
 #### 2026
 
