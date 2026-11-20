@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "AMD Radeon RX 6900 XT 16 GB — SOLD for C$350"
+title: "AMD Radeon RX 6900 XT 16 GB — for parts or repair, C$180"
 date: 2026-11-15
 author: Bob Summerwill
 featured_image: /assets/rx-6900-xt/card-and-box.jpg
-excerpt: "Sold as-is for C$350. It detected fine, then shut down once during a VRAM stress test while powered through a daisy-chained cable. I disclosed the failure and sold it with the 7-day return."
+excerpt: "For parts or repair, C$180. Sold as-is for C$350 with a 7-day return; the buyer then tested it on a Corsair RM850x with three separate 8-pin cables, repasted it, tried both BIOSes and a 250 W power limit, and the fault persisted. Full test history — mine and the buyer's — below."
 ---
 
 <style>
@@ -18,14 +18,14 @@ excerpt: "Sold as-is for C$350. It detected fine, then shut down once during a V
 </style>
 
 <div class="sale-buy">
-<p><strong>SOLD for C$350.</strong></p>
-<p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. Sold as-is after disclosing that it detected fine but shut down once during a stress test while powered through a daisy-chained cable. Could be the cable setup, could be the card. The buyer had that disclosure, and the 7-day return still applied.</p>
-<p>Listing closed. Thanks to everyone who expressed interest.</p>
+<p><strong>C$180 — for parts or repair. Local sale, Vancouver pickup only.</strong></p>
+<p><strong>AMD Radeon RX 6900 XT</strong>, 16 GB GDDR6, factory-overclocked, three 8-pin power connectors, dual-BIOS. Detects correctly and can show a desktop, but crashes randomly and loses display output. Sold as-is for C$350 with a 7-day return; the buyer then tested it thoroughly on a different PSU with separate cables, repasted it, tried both BIOSes and a 250 W power limit, and the fault persisted. The fault is in the card.</p>
+<p>Sold as-is for parts or repair, with the full fault history disclosed below. A repairer's project, not a working card.</p>
 </div>
 
 It would not fit in my Razer Core X eGPU enclosure — that has only two 8-pin connectors — so I needed a desktop to test it in.
 
-I was getting ready to sell it to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. The test found a problem. I listed it honestly as-is and sold it for **C$350**.
+I was getting ready to sell it to help fund other hardware. A working one was worth about **C$600**, so it was worth spending an afternoon proving it was healthy before listing it. The test found a problem. I listed it honestly as-is and sold it for **C$350** with a 7-day return. The buyer's own testing then confirmed the fault, and it is now listed **for parts or repair at C$180**.
 
 ## The test setup
 
@@ -64,25 +64,53 @@ When I powered it back up, there was no display.
 
 ## What it means
 
-A sudden power-off under a memory stress test usually means the card pulled a burst of current, often from a failing memory chip or power stage, and the PSU's protection cut power. A modern 1000 W ATX 3.x supply should not trip on a healthy 6900 XT's power spikes. That, plus no picture afterwards, points at the card.
+A sudden power-off under a memory stress test usually means the card pulled a burst of current, often from a failing memory chip or power stage, and the PSU's protection cut power. A modern 1000 W ATX 3.x supply should not trip on a healthy 6900 XT's power spikes. That, plus no picture afterwards, pointed at the card.
 
-But I am not going to pretend that is proven. The card was on a daisy-chained cable, and I have not eliminated that. **It could be the cable setup, it could be the card.** I have not been able to fully retest it yet.
+At the time I could not prove it. The card was on a daisy-chained cable, and I had not eliminated that. **The buyer has since eliminated it.**
 
-Before I listed it, the checks I would have done were: look and smell for scorching around the 8-pin sockets, try the other BIOS position and other outputs after a full power drain, retest with separate 8-pin cables, and put the 6750 XT back to confirm the PC was fine.
+## What the buyer's testing showed
+
+The buyer ran the card in their own desktop and kept me posted throughout. This is what they found:
+
+- **Power:** three **separate 6+2-pin cables** from a **Corsair RM850x** — not a daisy-chain. The cable variable is gone.
+- **OS:** Windows 11, and Fedora. Fresh driver install.
+- **Symptoms:** display came up after several attempts, then **random crashes and artifacts even during normal web browsing**. It **always** crashed during VRAM stress and benchmark testing.
+- **Not thermal:** the system crashed during a VRAM test with the GPU at only **54 °C**.
+- **Repaste:** **Thermal Grizzly PhaseSheet PTM** dropped the hotspot from **110 °C to 85 °C** under load. The random crashes and no-display problem persisted.
+- **Both BIOSes:** performance and quiet — same behaviour in either.
+- **Power limit:** capping power delivery at **250 W** did not fix it.
+
+They removed the card because the random crashes were interfering with their work, and asked to return it under the 7-day return I had offered. I agreed.
+
+That is about as thorough an elimination of the external variables as a used card gets: a different PSU, separate cables, two operating systems, fresh drivers, fresh thermal material, both BIOS positions, and a reduced power limit. **The fault is in the card.**
+
+The checks I had listed before selling — scorching around the 8-pin sockets, the other BIOS position, other outputs after a full power drain, separate 8-pin cables, and putting the 6750 XT back to confirm the PC was fine — have now effectively been covered by the buyer's own testing, except the physical inspection.
 
 ## The sale
 
-It sold as-is for **C$350**, with the shutdown disclosed and the 7-day return I offered. I did not do the full retest before selling it; the buyer knew that. If it had passed a full retest, it would have been a working card at around **C$600**; if it had stayed dead, it would have been a **C$200 parts card**.
+It sold as-is for **C$350** on November 15, 2026, with the shutdown disclosed and the 7-day return I offered. I did not do the full retest before selling it; the buyer knew that. They tested it further, the fault persisted through every variable they could change, and the card is being returned under that return.
+
+It is now listed **for parts or repair at C$180**. If it had passed a full retest it would have been a working card at around **C$600**. A card with a confirmed fault is a parts card, and that is what this is.
+
+## Price and pickup
+
+<div class="sale-buy">
+<p><strong>C$180</strong> — for parts or repair, local sale only. Pickup in Vancouver, BC.</p>
+<p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
+<p>Sold as-is with the full fault history above. A repairer's project, not a working card.</p>
+</div>
+
+If you want to see it or check anything before buying, [get in touch](/contact/).
 
 ## What I would take away
 
 1. **Test a used GPU under real load before selling or buying it.** A card that boots and shows a desktop can still be faulty.
 2. **memtest_vulkan** is a quick, free VRAM test that runs on Linux and Windows.
 3. A **deterministic llama.cpp run** — same prompt, compare outputs — is a neat compute-stability check.
-4. **Rule out the PSU and cables first.** Older units can trip on RDNA2/RTX 30-series power spikes, and a daisy-chained cable is another variable.
+4. **Rule out the PSU and cables first.** Older units can trip on RDNA2/RTX 30-series power spikes, and a daisy-chained cable is another variable. Here the buyer ruled both out — separate cables, a different PSU — and the fault remained.
 5. **Install a test OS on a spare drive** with the main drive unplugged, so you cannot wipe someone else's system.
 6. **Sell faulty cards honestly, as as-is or for parts.** Project buyers and repairers still pay, and a clear disclosure is better than a buyer discovering the problem later.
 
 The step-by-step test plan is here: [Stress-testing a used GPU: Omarchy and the RX 6900 XT](/computer4-gpu-test-bench/).
 
-I would rather sell a card with a clear disclosure than have someone find out the hard way. It has sold — thanks to everyone who expressed interest.
+I would rather sell a card with a clear disclosure than have someone find out the hard way. It is listed for parts or repair at **C$180**, with the whole history above — mine and the buyer's.
