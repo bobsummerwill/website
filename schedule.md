@@ -13,6 +13,7 @@ Usually in beautiful [Vancouver, BC, Canada](https://en.wikipedia.org/wiki/Vanco
 
 * Mar 24 to Mar 25 - [ETHDenver 2027](https://ethdenver.com/) - Denver, CO - speaking
 * Apr 12 to Apr 15 - [ETHCC[10]](https://ethcc.io/) - Cannes, France - speaking
+* Jul 15 to Jul 17 - [Bitcoin Conference 2027](https://b.tc/conference) - Nashville, TN - speaking
 * Oct 11 - [Ethereum Cypherpunk Congress 4](http://web3privacy.info/) - Lisbon, Portugal - MC-ing and speaking
 * Oct 11 to Oct 13 - [DEVCON9](https://devcon.org/) - Lisbon, Portugal - speaking
 
