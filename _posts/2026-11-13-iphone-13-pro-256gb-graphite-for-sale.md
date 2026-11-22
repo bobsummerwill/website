@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "iPhone 13 Pro 256 GB (Graphite) — for sale"
+title: "iPhone 13 Pro 256 GB (Graphite) — sold"
 date: 2026-11-13
 author: Bob Summerwill
 featured_image: /assets/iphone-13-pro/front-screen-on.jpg
-excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. C$400, Vancouver pickup only."
+excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. SOLD for C$325, Vancouver pickup."
 ---
 
 <style>
@@ -21,13 +21,13 @@ excerpt: "Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully f
 </style>
 
 <div class="sale-buy">
-<p><strong>C$400 — local sale, Vancouver pickup only.</strong></p>
-<p>Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. Phone only; I’ll erase it and remove it from my Apple ID in front of you at pickup.</p>
+<p><strong>SOLD — C$325, local sale, Vancouver pickup.</strong></p>
+<p>Unlocked iPhone 13 Pro 256 GB in Graphite. 84% battery health, fully functional, clean edges and back; the screen has light surface scuffs but no cracks. Thank you — this phone has found a new home.</p>
 </div>
 
-For sale: an unlocked **iPhone 13 Pro 256 GB in Graphite**. It has been used as a daily phone but is now surplus to requirements. Everything works, there is no water damage, and the edges and back are clean. The screen has light surface scuffs — visible mainly at an angle — but no cracks.
+**Update: this phone is now sold.** It was listed as an unlocked **iPhone 13 Pro 256 GB in Graphite**. It had been used as a daily phone but was surplus to requirements. Everything works, there is no water damage, and the edges and back are clean. The screen has light surface scuffs — visible mainly at an angle — but no cracks.
 
-I’ll erase it and remove it from my Apple ID in front of you at pickup.
+Sold for **C$325**, picked up locally in Vancouver.
 
 ## Why it is interesting
 
@@ -83,11 +83,11 @@ It is also **carrier unlocked** — the phone reports **“No SIM restrictions.�
 ## Price and pickup
 
 <div class="sale-buy">
-<p><strong>C$400</strong>, local sale only. Pickup in Vancouver, BC.</p>
-<p>Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. Vancouver pickup only; no shipping.</p>
+<p><strong>SOLD for C$325.</strong> Local sale, picked up in Vancouver, BC.</p>
+<p>Thank you to the buyer — this phone has found a new home.</p>
 </div>
 
-If you want to see it working or check anything before buying, [get in touch](/contact/).
+This sale is closed. If you are looking for something similar, feel free to [get in touch](/contact/).
 
 ## Photos
 
