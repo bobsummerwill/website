@@ -4,9 +4,8 @@ title: "Ind.ie Heartbeat for OSX – pre-alpha release"
 date: "2015-08-10 18:12:36 -0700"
 permalink: /2015/08/10/ind-ie-heartbeat-for-osx-pre-alpha-release/
 ---
-![bq aquarius 4 5 ubuntu edition](/assets/images/2015/08/bq_aquarius_4-5_ubuntu_edition.jpg)
 
-![meizu mx4 ubuntu golden](/assets/images/2015/08/meizu-mx4-ubuntu-golden.png)
+
 
 
 

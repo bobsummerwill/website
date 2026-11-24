@@ -4,7 +4,7 @@ title: "DevOps for Banks Meetup – Toronto"
 date: "2015-09-05 06:20:49 -0700"
 permalink: /2015/09/05/devops-for-banks-meetup-toronto/
 ---
-![bitcoin logo 3d](/assets/images/2015/09/bitcoin-logo-3d.jpg)
+
 
 
 

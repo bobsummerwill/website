@@ -4,7 +4,7 @@ title: "Who can say YES?"
 date: "2015-06-26 05:24:25 -0700"
 permalink: /2015/06/26/who-can-say-yes/
 ---
-![dormouse](/assets/images/2015/08/dormouse.png)
+
 
 
 
