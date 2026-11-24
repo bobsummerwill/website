@@ -4,8 +4,6 @@ title: "Why I will probably refuse your meeting request and not answer my phone"
 date: "2015-07-24 08:23:58 -0700"
 permalink: /2015/07/24/why-i-will-probably-refuse-your-meeting-request-and-not-answer-my-phone/
 ---
-![steve mann](/assets/images/2015/09/steve_mann.jpg)
-
 If you are a geek like me, you will have a good understanding of [synchronous versus asynchronous](http://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean) operations.
 
 [![120301](/assets/images/2015/07/120301.gif)](/assets/images/2015/07/120301.gif)

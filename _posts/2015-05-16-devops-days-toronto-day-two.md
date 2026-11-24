@@ -4,8 +4,6 @@ title: "DevOps Days Toronto – Day Two"
 date: "2015-05-16 06:01:06 -0700"
 permalink: /2015/05/16/devops-days-toronto-day-two/
 ---
-![120301](/assets/images/2015/07/120301.gif)
-
 Bob Summerwill, Asim Shahjahan and Randall Roberts were the TDS attendees for day 2 of the [DevOps Days Toronto](http://www.devopsdays.org/events/2015-toronto/) conference.
 
 Introduction …

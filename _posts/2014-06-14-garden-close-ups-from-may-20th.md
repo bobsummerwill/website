@@ -4,8 +4,6 @@ title: "Garden close-ups from May 20th"
 date: "2014-06-14 08:20:11 -0700"
 permalink: /2014/06/14/garden-close-ups-from-may-20th/
 ---
-![2014 06 28 11 28 17](/assets/images/2014/06/2014-06-28-11-28-17.jpg)
-
 [![Image](/assets/images/2014/06/dsc_0002.jpg)](/assets/images/2014/06/dsc_0002.jpg)[![Image](/assets/images/2014/06/dsc_0003.jpg)](/assets/images/2014/06/dsc_0003.jpg)[![Image](/assets/images/2014/06/dsc_0004.jpg)](/assets/images/2014/06/dsc_0004.jpg)[![Image](/assets/images/2014/06/dsc_0006.jpg)](/assets/images/2014/06/dsc_0006.jpg)
 
 [![DSC_0007](/assets/images/2014/06/dsc_0007.jpg)](/assets/images/2014/06/dsc_0007.jpg)

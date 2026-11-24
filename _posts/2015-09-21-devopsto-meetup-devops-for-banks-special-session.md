@@ -4,8 +4,6 @@ title: "#DevOpsTO Meetup – DevOps for Banks special session"
 date: "2015-09-21 20:01:41 -0700"
 permalink: /2015/09/21/devopsto-meetup-devops-for-banks-special-session/
 ---
-![20151013 165046](/assets/images/2015/10/20151013_165046.jpg)
-
 The inaugural [DevOps For Banks Meetup](http://www.meetup.com/DevOpsTO/events/225116642/) here in Toronto which I [previewed a while back](https://bobsummerwill.wordpress.com/2015/09/05/devops-for-banks-meetup-toronto/) happened last Tuesday. It was a lot of fun. I provided the social glue to bring the event into existence but the evening itself was the work of many hands. Thank you all 🙂
 
 [Storify of the night](https://storify.com/BobSummerwill/storify-devops-for-banks-special-session-of-devops).
