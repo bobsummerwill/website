@@ -6,12 +6,6 @@ permalink: /2015/05/05/working-for-td-securities-in-toronto/
 ---
 ![20150515 100850](/assets/images/2015/05/20150515_100850.jpg)
 
-![20150515 144105](/assets/images/2015/05/20150515_144105.jpg)
-
-![20150515 145222](/assets/images/2015/05/20150515_145222.jpg)
-
-
-
 In April 2015 I started work as a DevOps Solution Architect for TD Securities in Toronto. This is my first job outside of the games industry, and my first ever "suit and tie" job. I've been in Toronto for 3 weeks now, and am really enjoying myself.
 
 [![2015-05-03 09.06.14](/assets/images/2015/05/2015-05-03-09-06-14.jpg)](/assets/images/2015/05/2015-05-03-09-06-14.jpg)

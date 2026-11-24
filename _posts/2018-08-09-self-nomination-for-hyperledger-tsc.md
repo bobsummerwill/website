@@ -5,14 +5,6 @@ date: "2018-08-09 18:19:53 -0700"
 permalink: /2018/08/09/self-nomination-for-hyperledger-tsc/
 featured_image: /assets/images/2018/08/the_canadian_house_of_commons.jpg
 ---
-![coindesk](/assets/images/2018/08/coindesk.jpg)
-
-![crypto](/assets/images/2018/08/crypto.png)
-
-![horses](/assets/images/2018/08/horses.jpg)
-
-
-
 _[Sent on August 9th 2018 in response to**CALL FOR NOMINATIONS / Hyperledger / Annual TSC Election** sent to eligible candidates]_
 
 My name is Bob Summerwill. I have been a professional software developer since 1996 with the majority of my career in the videogames industry, including 15+ years at Electronic Arts in various technical leadership roles on 20 AAA tiles, including a spell as Label Software Architect for EA Sports. I always found myself gravitating to collaboration projects of all stripes within EA. I later worked as a DevOps Solutions Architect at TD Securities in Toronto. I am currently Blockchain Lead for Quantfury, CTO at Varro Technologies, a community leader for the Ethereum Project and Community Ambassador for CryptoChicks, a Canadian non-profit organization working towards gender balance in blockchain.

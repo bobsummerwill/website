@@ -6,12 +6,6 @@ permalink: /2015/07/24/why-i-will-probably-refuse-your-meeting-request-and-not-a
 ---
 ![steve mann](/assets/images/2015/09/steve_mann.jpg)
 
-![steve mann tedx](/assets/images/2015/09/steve_mann_tedx.png)
-
-![sursousveillancebystephaniemannage6 signed](/assets/images/2015/09/sursousveillancebystephaniemannage6_signed.png)
-
-
-
 If you are a geek like me, you will have a good understanding of [synchronous versus asynchronous](http://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean) operations.
 
 [![120301](/assets/images/2015/07/120301.gif)](/assets/images/2015/07/120301.gif)
