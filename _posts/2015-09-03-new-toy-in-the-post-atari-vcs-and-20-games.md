@@ -4,9 +4,6 @@ title: "New toy “in the post” – Atari VCS and 20 games"
 date: "2015-09-03 14:37:02 -0700"
 permalink: /2015/09/03/new-toy-in-the-post-atari-vcs-and-20-games/
 ---
-![cow sculpture](/assets/images/2015/09/cow_sculpture.jpg)
-
-
 
 Today I have pulled the trigger on a purchase which I have been pondering since I [visited Buy and Sell Kings](https://bobsummerwill.wordpress.com/2015/08/08/vintage-video-games-and-hardware/) a few weeks back.
 
@@ -43,7 +40,5 @@ For your consideration we present a Used
   18. Missile Command
   19. Defender
   20. Asteroids
-
-
 
 Games are cartridge only. Some cartridges have severe label wear (rips, stains, missing labels and/or foxing). Console is tested and working. It includes a catalogue, instruction manual, 1 Black Quickshot joystick controller, 1 Grey Boss brand joystick controller, 1 paddle controller, A/C Adapter and an RF connector to attach to your television's cable input. **Please note that the select and reset switches are a bit fussy.** What you see is what you get. Item is sold AS IS.

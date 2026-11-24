@@ -5,9 +5,6 @@ date: "2019-11-26 07:03:41 -0800"
 permalink: /2019/11/26/i-am-a-prospector/
 featured_image: /assets/images/2019/11/gold_prospector.jpg
 ---
-![conferencecallphone](/assets/images/2019/12/conferencecallphone.jpg)
-
-
 
 There is a pattern which has run through my whole life. I try **everything**.
 
@@ -28,13 +25,9 @@ _The following statements generally apply to me:_
     * _I am stimulated by an approaching deadline._
     * _Sometimes I stay open to new information so long I miss making decisions when they are needed._
 
-
-
 When I say everything, I mean **everything** :
 
   * I got fooled into joining [Amway](https://www.amway.com/) when I was 18-19. I think that experience really helped me to [understand the danger in OneCoin](https://www.reddit.com/r/ethereum/comments/4wp0br/ethereum_dev_onecoin_is_a_pure_scam/?st=k3fyr8r9&sh=3eadbe17).
-
-
 
 ![Screen Shot 2019-11-26 at 6.37.28 AM](/assets/images/2019/11/screen-shot-2019-11-26-at-6.37.28-am.png)
 
@@ -42,8 +35,6 @@ When I say everything, I mean **everything** :
   * I was a Libertarian and Ron Paul fan. I followed the 2012 US Presidential Election intensely. Was gutted at how he was treated. I still think that his position on Military spending is spot on. Abolishing pretty much all government functions and social welfare nets? Maybe not so wise, I see now.
   * For years I was obsessed with trying to understand how on earth Germany descended into Nazi hell. I have shelves and shelves of books on Nazi Germany and WWII. I have a copy of Mein Kampf. I also have shelves of books on the USSR and Communism, and multiple books on Stalin and Lenin and Mao.
   * I was fascinated with the Occupy movement when that came around.
-
-
 
 In a more mundate form, I has seen this behaviour in myself in a work context too.
 

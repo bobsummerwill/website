@@ -4,9 +4,6 @@ title: "Limitations of the Apple Watch at launch"
 date: "2015-05-07 10:35:24 -0700"
 permalink: /2015/05/07/limitations-of-the-apple-watch-at-launch/
 ---
-![wwdc2015](/assets/images/2015/06/wwdc2015.png)
-
-
 
 [![White_AppleWatch_with_Screen](/assets/images/2016/06/white_applewatch_with_screen.png)](/assets/images/2016/06/white_applewatch_with_screen.png)
 
@@ -18,8 +15,6 @@ There is a great article at FastCompany titled [Why The First App Watch Apps Wil
   * Exceedingly limited touch-screen functionality. Essentially you can get taps and swipes. That's it. No drags or other common gestures. Use of the digital crown might be better, but obvious UX approaches might not be possible.
   * Second-class citizen status for most third-party applications. Apple's own applications are running on the watch and have access to everything. Some privileged applications have been granted additional access to the device (ie. Shazam has microphone access).
   * Custom watch-faces applications (the most common smartwatch category for [Tizen](<http://www.tizen.org> "Tizen") and [Android Wear](<http://en.wikipedia.org/wiki/Android_Wear> "Android Wear") devices) are not allowed or possible on Apple Watch.
-
-
 
 In combination, these constraints are likely to make the initial third-party Apple Watch applications clunky, boring and limited in comparison to what should be possible on such a device, and what is already possible with the [Samsung Gear S](<http://en.wikipedia.org/wiki/Samsung_Gear_S> "Samsung Gear S"), where full-screen applications with access to all the sensors and other hardware features, running code on device, with untethered Internet access via Wifi or 3G is already available.
 
