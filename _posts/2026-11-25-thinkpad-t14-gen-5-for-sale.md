@@ -48,7 +48,6 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 | Memory | **32 GB DDR5-5600** — 2 × 16 GB SODIMM slots, upgradeable to 64 GB |
 | Storage | **1 TB** M.2 2280 NVMe SSD (PCIe 4) |
 | Display | 14-inch 16:10 WUXGA (1920 × 1200) **IPS touchscreen**, 400-nit anti-glare |
-| Battery | **[TODO — health]** |
 | Wireless | Intel Wi-Fi + Bluetooth (drivers pre-loaded on the fresh install) |
 | Ports | 2 × Thunderbolt 4 (USB-C), 2 × USB-A, HDMI, 3.5 mm headphone jack |
 | Keyboard | ThinkPad backlit keyboard with TrackPoint |
@@ -59,7 +58,6 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 
 - **Fresh Windows 11 install** — nuked and paved, drivers loaded, boots to a clean desktop with working Wi-Fi.
 - **Body:** see the photos below.
-- **Battery:** [TODO — health/cycles from Lenovo Vantage].
 - **Warranty:** out of warranty — expired, and the C$1,100 price reflects that. Buyers can confirm status themselves via Lenovo's public serial lookup.
 
 ## What is included
