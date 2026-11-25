@@ -15,16 +15,21 @@ excerpt: "Selling my ThinkPad T14 Gen 5 (21ML0055US) — Core Ultra 7 165U (vPro
 .t14-gallery a { display: block; }
 .t14-gallery img { width: 100%; height: 240px; object-fit: cover; border: 1px solid #eee; border-radius: 4px; }
 .t14-gallery figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.5em; }
+.t14-receipt { max-width: 640px; margin: 0 0 2em; }
+.t14-receipt img { width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px; }
+.t14-receipt figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.6em; }
 </style>
 
 <div class="sale-buy">
 <p><strong>FOR SALE — C$1,100, local pickup only in Vancouver, BC.</strong></p>
-<p>ThinkPad T14 Gen 5 (21ML0055US) — Core Ultra 7 165U, 32 GB, 1 TB, 14-inch WUXGA touchscreen — freshly reinstalled with Windows 11 Pro and all current drivers loaded. Includes a laptop sleeve; no power adapter (it charges from any USB-C Power Delivery charger). Warranty status to be confirmed.</p>
+<p>ThinkPad T14 Gen 5 (21ML0055US) — Core Ultra 7 165U, 32 GB, 1 TB, 14-inch WUXGA touchscreen — freshly reinstalled with Windows 11 Pro and all current drivers loaded. Includes a laptop sleeve; no power adapter (it charges from any USB-C Power Delivery charger). Out of warranty and priced accordingly.</p>
 </div>
 
 I am selling my **ThinkPad T14 Gen 5**. My portable machine is now a MacBook Pro, so this ThinkPad is looking for a new home.
 
 It has just been **nuked and paved with a fresh Windows 11 install**, with the Intel Wi-Fi driver loaded from install media — this generation needs its LAN/Wi-Fi drivers supplied during setup, and that is already done, so it boots straight into a clean, ready-to-use system with networking working out of the box.
+
+It was bought new from **Canada Computers** — ordered 21 September 2024, **C$3,209.17 including GST and BC PST** (invoice below).
 
 ## Why it is interesting
 
@@ -55,7 +60,7 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 - **Fresh Windows 11 install** — nuked and paved, drivers loaded, boots to a clean desktop with working Wi-Fi.
 - **Body:** see the photos below.
 - **Battery:** [TODO — health/cycles from Lenovo Vantage].
-- **Warranty:** [TODO — checking now; C$1,100 out of warranty, C$1,250 with warranty active].
+- **Warranty:** out of warranty — expired, and the C$1,100 price reflects that. Buyers can confirm status themselves via Lenovo's public serial lookup.
 
 ## What is included
 
@@ -64,9 +69,16 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 - **No power adapter or cable** — it charges from any USB-C Power Delivery charger you already own.
 - Fresh Windows 11 install, ready to set up as your own.
 
+## Purchase receipt
+
+<figure class="t14-receipt">
+  <img src="/assets/thinkpad-t14-gen5/invoice.jpg" alt="Canada Computers invoice for the ThinkPad T14 Gen 5, 21ML0055US, with Bill To and Ship To addresses and serial redacted" loading="lazy">
+  <figcaption>Canada Computers invoice, 13 November 2024 — ThinkPad T14 Gen 5 (21ML0055US), C$3,209.17 including GST and BC PST. Bill To and Ship To addresses and phone redacted; serial number redacted.</figcaption>
+</figure>
+
 ## Sale
 
-**C$1,100** — C$1,250 if the warranty is still active. Local pickup only in Vancouver, BC — **no shipping**.
+**C$1,100** — firm; out of warranty, priced accordingly. Local pickup only in Vancouver, BC — **no shipping**.
 
 - Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup
 - Vancouver pickup only; no shipping
