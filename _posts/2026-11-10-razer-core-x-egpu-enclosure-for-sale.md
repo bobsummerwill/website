@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Razer Core X eGPU enclosure (RC21-0131) — for sale"
+title: "Razer Core X eGPU enclosure (RC21-0131) — SOLD"
 date: 2026-11-10
 author: Bob Summerwill
 featured_image: /assets/razer-core-x/egpu-01.jpg
-excerpt: "Thunderbolt 3 external GPU enclosure, Razer Core X model RC21-0131, with a 650 W internal PSU and 100 W laptop charging. Price reduced to C$300 (≈ US$215) or nearest offer. Vancouver pickup or worldwide shipping at buyer's expense."
+excerpt: "Sold my Razer Core X eGPU enclosure (model RC21-0131) — Thunderbolt 3 with a 650 W internal PSU and 100 W laptop charging, no GPU included. Listed at C$300 or nearest offer, sold for C$200 in November 2026."
 ---
 
 <style>
@@ -17,9 +17,9 @@ excerpt: "Thunderbolt 3 external GPU enclosure, Razer Core X model RC21-0131, wi
 .egpu-gallery figcaption { font-size: 1.3rem; line-height: 1.5; color: #666; margin-top: 0.5em; }
 </style>
 
-For sale: a **Razer Core X** Thunderbolt 3 external graphics enclosure, model **RC21-0131**. It turns a Thunderbolt 3 laptop or small form-factor desktop into a machine with a desktop-class GPU.
+**SOLD for C$200.** I listed my **Razer Core X** Thunderbolt 3 external graphics enclosure, model **RC21-0131**, at C$300 or nearest offer on November 10, 2026; it sold for C$200. The Core X turns a Thunderbolt 3 laptop or small form-factor desktop into a machine with a desktop-class GPU.
 
-**No graphics card is included** — this listing is for the enclosure alone.
+**No graphics card was included** — the sale was for the enclosure alone.
 
 ## What it does
 
@@ -54,7 +54,7 @@ Check your card's length, thickness and power connectors against those figures b
 - Includes the internal PSU and a Thunderbolt 3 cable.
 - **No GPU included.**
 - No original retail box is guaranteed, but it will be packed properly for shipping.
-- Can be inspected and tested in Vancouver by arrangement.
+- Inspection and testing in Vancouver was available by arrangement.
 
 ## Photos
 
@@ -81,12 +81,11 @@ Check your card's length, thickness and power connectors against those figures b
   </figure>
 </div>
 
-## Price and shipping
+## Sale
 
 <div class="sale-buy">
-<p><strong>Price reduced to C$300</strong> (≈ US$215) or nearest offer.</p>
-<p>Pickup in Vancouver, BC, or shipping worldwide at the buyer's expense. The enclosure is about 6.5 kg, so I will quote exact shipping before you commit. Payment can be made in USD or CAD.</p>
-<p><small>USD prices are approximate, converted at US$1 ≈ C$1.41 on 10 November 2026.</small></p>
+<p><strong>SOLD for C$200.</strong> Listed at C$300 or nearest offer on November 10, 2026; sold in November 2026.</p>
+<p>Thanks to everyone who expressed interest.</p>
 </div>
 
-Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup. If you want more photos or the exact serial number before buying, [get in touch](/contact/).
+Payment was by PayPal G&amp;S, Interac e-transfer, or cash.
