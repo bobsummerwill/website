@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ThinkPad T14 Gen 5 (Ultra 7 165U, 32 GB, 1 TB, touch) — FOR SALE"
+title: "ThinkPad T14 Gen 5 (Ultra 7 165U, 32 GB, 1 TB, touch) — SOLD"
 date: 2026-11-25 00:01:00 +0000
 author: Bob Summerwill
 featured_image: /assets/thinkpad-t14-gen5/t14-01.jpg
-excerpt: "Selling my ThinkPad T14 Gen 5 (21ML0055US) in very good condition — Core Ultra 7 165U (vPro, NPU), 32 GB DDR5 in two upgradeable SODIMM slots, 1 TB SSD, 14-inch WUXGA touchscreen, and a fresh Windows 11 Pro install with all drivers loaded. Sleeve included, no power adapter. C$1,100, local pickup only in Vancouver, BC."
+excerpt: "Sold my ThinkPad T14 Gen 5 (21ML0055US) in very good condition — Core Ultra 7 165U (vPro, NPU), 32 GB DDR5 in two upgradeable SODIMM slots, 1 TB SSD, 14-inch WUXGA touchscreen, and a fresh Windows 11 Pro install with all drivers loaded. Listed at C$1,100 on November 25, 2026; sold for the full asking price, local Vancouver sale."
 ---
 
 <style>
@@ -21,13 +21,13 @@ excerpt: "Selling my ThinkPad T14 Gen 5 (21ML0055US) in very good condition — 
 </style>
 
 <div class="sale-buy">
-<p><strong>FOR SALE — C$1,100, local pickup only in Vancouver, BC.</strong></p>
-<p>ThinkPad T14 Gen 5 (21ML0055US) — Core Ultra 7 165U, 32 GB, 1 TB, 14-inch WUXGA touchscreen — freshly reinstalled with Windows 11 Pro and all current drivers loaded. In very good condition. Includes a laptop sleeve; no power adapter (it charges from any USB-C Power Delivery charger). Out of warranty and priced accordingly.</p>
+<p><strong>SOLD for C$1,100 — the full asking price. Local sale, Vancouver pickup.</strong></p>
+<p>ThinkPad T14 Gen 5 (21ML0055US) — Core Ultra 7 165U, 32 GB, 1 TB, 14-inch WUXGA touchscreen — freshly reinstalled with Windows 11 Pro and all current drivers loaded. In very good condition. Included a laptop sleeve; no power adapter (it charges from any USB-C Power Delivery charger). Out of warranty and priced accordingly.</p>
 </div>
 
-I am selling my **ThinkPad T14 Gen 5**. My portable machine is now a MacBook Pro, so this ThinkPad is looking for a new home. It is in **very good condition**.
+**SOLD for C$1,100 — the full asking price.** I listed my **ThinkPad T14 Gen 5** at C$1,100 on November 25, 2026, and it sold at that price. My portable machine is now a MacBook Pro, so this ThinkPad went to a new home. It was in **very good condition**.
 
-It has just been **nuked and paved with a fresh Windows 11 install**, with the Intel Wi-Fi driver loaded from install media — this generation needs its LAN/Wi-Fi drivers supplied during setup, and that is already done, so it boots straight into a clean, ready-to-use system with networking working out of the box.
+It had just been **nuked and paved with a fresh Windows 11 install**, with the Intel Wi-Fi driver loaded from install media — this generation needs its LAN/Wi-Fi drivers supplied during setup, and that was already done, so it booted straight into a clean, ready-to-use system with networking working out of the box.
 
 It was bought new from **Canada Computers** — ordered 21 September 2024, **C$3,209.17 including GST and BC PST** (invoice below).
 
@@ -56,11 +56,11 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 
 ## Condition
 
-- **Fresh Windows 11 install** — nuked and paved, drivers loaded, boots to a clean desktop with working Wi-Fi.
+- **Fresh Windows 11 install** — nuked and paved, drivers loaded, booted to a clean desktop with working Wi-Fi.
 - **Body:** in **very good condition** — see the photos below.
-- **Warranty:** out of warranty — expired, and the C$1,100 price reflects that. Buyers can confirm status themselves via Lenovo's public serial lookup.
+- **Warranty:** out of warranty — expired, and the C$1,100 price reflected that. Buyers could confirm status themselves via Lenovo's public serial lookup.
 
-## What is included
+## What was included
 
 - ThinkPad T14 Gen 5.
 - Laptop sleeve.
@@ -76,11 +76,10 @@ And this is the **well-specced configuration, not a base build**: the vPro-class
 
 ## Sale
 
-**C$1,100** — firm; out of warranty, priced accordingly. Local pickup only in Vancouver, BC — **no shipping**.
+**SOLD for C$1,100 — the full asking price.** Listed on November 25, 2026; sold in November 2026. Local pickup in Vancouver, BC — **no shipping**.
 
 - Payment by PayPal G&amp;S, Interac e-transfer, or cash on pickup
-- Vancouver pickup only; no shipping
-- First come, first served
+- Thanks to everyone who expressed interest.
 
 ## Photos
 
